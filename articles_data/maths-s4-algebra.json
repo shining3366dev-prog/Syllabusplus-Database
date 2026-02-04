@@ -1,0 +1,22 @@
+{
+  "title": "Quadratic Equations (S4 Maths)",
+  "lastUpdated": "2026-02-04",
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Introduction",
+      "content": "A quadratic equation is a polynomial equation of degree 2. The standard form is ax² + bx + c = 0."
+    },
+    {
+      "type": "formula",
+      "heading": "The Quadratic Formula",
+      "content": "Use this formula to find the roots of any quadratic equation:",
+      "latex": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+    },
+    {
+      "type": "example",
+      "heading": "Worked Example",
+      "content": "Solve 2x² - 4x - 6 = 0 using the formula above."
+    }
+  ]
+}
