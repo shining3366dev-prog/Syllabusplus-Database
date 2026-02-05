@@ -1,0 +1,51 @@
+{
+  "title": "The Elegance of Triangle Area (Sine Rule)",
+  "lastUpdated": "2026-02-05",
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Beyond the Basics",
+      "content": "Welcome, young mathematician. You are likely familiar with the classic area formula $\\frac{1}{2} \\times base \\times height$. It is reliable, but it has a flaw: it demands we know the vertical height. In the real world, measuring height is often difficult. <br><br>Fortunately, trigonometry offers us a more sophisticated solution that relies only on the lengths of sides and the angles between them."
+    },
+    {
+      "type": "text",
+      "heading": "The Logic (Derivation)",
+      "content": "Let us visualize a triangle with sides $a$ and $b$ with an included angle $C$. . If we were to drop a perpendicular line to create the height $h$, basic trigonometry tells us that $\\sin(C) = \\frac{Opposite}{Hypotenuse} = \\frac{h}{a}$. <br><br> rearranging this, we find that the height is simply $h = a \\sin(C)$. If we substitute this into our original area formula, we arrive at something beautiful."
+    },
+    {
+      "type": "formula",
+      "content": "The General Formula for the Area of a Triangle:",
+      "latex": "Area = \\frac{1}{2}ab \\sin(C)"
+    },
+    {
+      "type": "text",
+      "content": "<b>The SAS Condition:</b> Notice that you need two sides ($a$ and $b$) and the <i>included</i> angle ($C$)—the angle sandwiched directly between them. We call this the Side-Angle-Side (SAS) case."
+    },
+    {
+      "type": "scratch",
+      "widgetTitle": "Triangle Area Laboratory",
+      "description": "I have designed this simulation for you to verify the formula. Manipulate the sides and the angle; observe how the area fluctuates precisely as the Sine function predicts.",
+      "url": "https://scratch.mit.edu/projects/1275773230/"
+    },
+    {
+      "type": "example",
+      "heading": "Application",
+      "content": "Let us apply our new knowledge to a specific case. Imagine a surveyor needs the area of a triangular plot of land where two boundaries are 12m and 10m, meeting at a $30^{\\circ}$ angle."
+    },
+    {
+      "type": "formula",
+      "content": "We simply substitute our known values:",
+      "latex": "Area = \\frac{1}{2}(12)(10) \\sin(30^{\\circ})"
+    },
+    {
+      "type": "formula",
+      "content": "Since $\\sin(30^{\\circ}) = 0.5$, the calculation becomes effortless:",
+      "latex": "Area = 60(0.5) = 30 \\text{ m}^2"
+    },
+    {
+      "type": "text",
+      "heading": "A Gentle Warning",
+      "content": "Before you embark on your own calculations, a word of advice: always check your calculator's mode. Ensure it is set to <b>Degrees</b> (D) and not Radians (R), otherwise your answers will be mathematically correct but contextually disastrous!"
+    }
+  ]
+}
