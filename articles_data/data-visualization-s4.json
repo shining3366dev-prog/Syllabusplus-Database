@@ -1,0 +1,62 @@
+{
+  "title": "Data Visualization (S4)",
+  "lastUpdated": "2026-02-06",
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Making Data Speak",
+      "content": "S4 Statistics is about turning raw lists of numbers into useful diagrams. We focus on two specific types: the <b>Stem-and-Leaf</b> (for small data) and the <b>Histogram</b> (for grouped continuous data)."
+    },
+    {
+      "type": "text",
+      "heading": "1. Stem-and-Leaf Diagrams",
+      "content": "This diagram splits numbers into a 'Stem' (first digits) and a 'Leaf' (last digit). It preserves the original data while ordering it."
+    },
+    {
+      "type": "example",
+      "heading": "Example",
+      "content": "Data: 23, 25, 31.<br><b>Stem 2:</b> | 3 5<br><b>Stem 3:</b> | 1<br><i>Don't forget the Key! (e.g., 2|3 = 23)</i>"
+    },
+    {
+      "type": "text",
+      "heading": "2. Histograms (Advanced)",
+      "content": "Unlike a bar chart, the height of a histogram bar is NOT the frequency. The <b>Area</b> of the bar is the frequency. The height is called <b>Frequency Density</b>."
+    },
+    {
+      "type": "formula",
+      "heading": "Frequency Density Formula",
+      "latex": "FD = \\frac{\\text{Frequency}}{\\text{Class Width}}"
+    },
+    {
+      "type": "quiz",
+      "heading": "Stats Quiz",
+      "questions": [
+        {
+          "question": "In a Stem-and-Leaf, what does 4 | 2 usually represent if the key is 'tens | units'?",
+          "options": ["4.2", "42", "24", "6"],
+          "correct": 1
+        },
+        {
+          "question": "In a Histogram, what represents the frequency?",
+          "options": ["The Height", "The Width", "The Area", "The Axis"],
+          "correct": 2
+        },
+        {
+          "question": "Calculate FD if Frequency = 20 and Class Width = 5.",
+          "options": ["100", "25", "4", "15"],
+          "correct": 2
+        },
+        {
+          "question": "Why do we use Histograms instead of bar charts?",
+          "options": ["They look cooler", "For continuous data with unequal groups", "For categorical data", "They are easier to draw"],
+          "correct": 1
+        },
+        {
+          "question": "Which data type is best for Stem-and-Leaf?",
+          "options": ["Massive datasets", "Small, discrete datasets", "Percentages", "Maps"],
+          "correct": 1
+        }
+      ]
+    }
+  ]
+}

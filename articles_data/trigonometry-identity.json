@@ -1,0 +1,66 @@
+{
+  "title": "Trigonometry: The Identity",
+  "lastUpdated": "2026-02-06",
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Connecting the Ratios",
+      "content": "In S4, you learn a secret relationship between Sine, Cosine, and Tangent. This isn't just a coincidence; it is a fundamental property of how triangles work."
+    },
+    {
+      "type": "text",
+      "heading": "The Proof",
+      "content": "We know that $\\sin x = \\frac{O}{H}$ and $\\cos x = \\frac{A}{H}$. <br>What happens if we divide them?"
+    },
+    {
+      "type": "formula",
+      "content": "Let's do the algebra:",
+      "latex": "\\frac{\\sin x}{\\cos x} = \\frac{\\frac{O}{H}}{\\frac{A}{H}} = \\frac{O}{H} \\times \\frac{H}{A} = \\frac{O}{A}"
+    },
+    {
+      "type": "text",
+      "content": "Wait! $\\frac{O}{A}$ is the definition of **Tangent**! This leads us to the Golden Identity of S4:"
+    },
+    {
+      "type": "formula",
+      "heading": "The Identity",
+      "latex": "\\tan x = \\frac{\\sin x}{\\cos x}"
+    },
+    {
+      "type": "example",
+      "heading": "Using it in exams",
+      "content": "<b>Question:</b> Given that $\\sin x = 0.8$ and $\\cos x = 0.6$, find $\\tan x$ without a calculator.<br><b>Answer:</b> $\\tan x = 0.8 / 0.6 = 4/3$."
+    },
+    {
+      "type": "quiz",
+      "heading": "Identity Quiz",
+      "questions": [
+        {
+          "question": "What is $\\sin(x) / \\cos(x)$ equal to?",
+          "options": ["1", "tan(x)", "cos(x)", "sin^2(x)"],
+          "correct": 1
+        },
+        {
+          "question": "If $\\sin A = 12$ and $\\cos A = 5$, what is $\\tan A$?",
+          "options": ["2.4", "0.41", "60", "17"],
+          "correct": 0
+        },
+        {
+          "question": "Why is $\\tan(90^\\circ)$ undefined?",
+          "options": ["Because sin(90) is 0", "Because cos(90) is 0", "Because it's too big", "It is defined as 1"],
+          "correct": 1
+        },
+        {
+          "question": "Which creates a steeper slope?",
+          "options": ["High sin, Low cos", "Low sin, High cos", "Equal sin and cos", "Zero sin"],
+          "correct": 0
+        },
+        {
+          "question": "Rearrange the identity: $\\sin x = $ ?",
+          "options": ["cos x * tan x", "tan x / cos x", "cos x / tan x", "1 / tan x"],
+          "correct": 0
+        }
+      ]
+    }
+  ]
+}

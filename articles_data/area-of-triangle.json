@@ -1,51 +1,75 @@
 {
-  "title": "The Elegance of Triangle Area (Sine Rule)",
-  "lastUpdated": "2026-02-05",
+  "title": "Area of a Triangle (Sine Rule)",
+  "lastUpdated": "2026-02-06",
   "sections": [
     {
       "type": "intro",
-      "heading": "Beyond the Basics",
-      "content": "Welcome, young mathematician. You are likely familiar with the classic area formula $\\frac{1}{2} \\times base \\times height$. It is reliable, but it has a flaw: it demands we know the vertical height. In the real world, measuring height is often difficult. <br><br>Fortunately, trigonometry offers us a more sophisticated solution that relies only on the lengths of sides and the angles between them."
+      "heading": "The Basics vs. The Upgrade",
+      "content": "You probably already know the classic formula for the area of a triangle: $Area = \\frac{1}{2} \\times \\text{base} \\times \\text{height}$. This works great—but only if you know the vertical height! <br><br>In the real world, measuring the straight-up height is often annoying or impossible. The <b>Sine Rule for Area</b> is a powerful shortcut that lets you calculate the area using just two sides and an angle, without needing to measure the height at all."
     },
     {
       "type": "text",
-      "heading": "The Logic (Derivation)",
-      "content": "Let us visualize a triangle with sides $a$ and $b$ with an included angle $C$. . If we were to drop a perpendicular line to create the height $h$, basic trigonometry tells us that $\\sin(C) = \\frac{Opposite}{Hypotenuse} = \\frac{h}{a}$. <br><br> rearranging this, we find that the height is simply $h = a \\sin(C)$. If we substitute this into our original area formula, we arrive at something beautiful."
+      "heading": "How it Works (The Logic)",
+      "content": "Imagine a triangle with sides $a$ and $b$ and an angle $C$ between them. If we wanted to use the old method, we would need the height. By using basic trigonometry (SOH CAH TOA), we can figure out that the height is actually equal to side $a$ multiplied by $\\sin(C)$. <br><br>When we swap this into the old formula, we get a new, much faster equation."
     },
     {
       "type": "formula",
-      "content": "The General Formula for the Area of a Triangle:",
-      "latex": "Area = \\frac{1}{2}ab \\sin(C)"
+      "heading": "The Magic Formula",
+      "content": "Given two sides ($a$ and $b$) and the included angle ($C$), the area is:",
+      "latex": "\\text{Area} = \\frac{1}{2}ab |\\sin(C)|"
     },
     {
       "type": "text",
-      "content": "<b>The SAS Condition:</b> Notice that you need two sides ($a$ and $b$) and the <i>included</i> angle ($C$)—the angle sandwiched directly between them. We call this the Side-Angle-Side (SAS) case."
+      "heading": "The 'Sandwich' Rule (SAS)",
+      "content": "There is one very important rule: You must use the <b>Included Angle</b>. This means the angle you use must be sandwiched directly between the two sides you know. <br><br>Think of the two sides like the blades of a pair of scissors—the angle is the pivot point connecting them. This is often called the <b>Side-Angle-Side (SAS)</b> condition."
     },
     {
       "type": "scratch",
-      "widgetTitle": "Triangle Area Laboratory",
-      "description": "I have designed this simulation for you to verify the formula. Manipulate the sides and the angle; observe how the area fluctuates precisely as the Sine function predicts.",
+      "widgetTitle": "Triangle Area Lab",
+      "turboMode": true,
+      "description": "I made this simulation so you can see the math in action. Drag the sliders to change the sides and angle. Watch how the area changes instantly! (Turbo Mode enabled for speed).",
       "url": "https://scratch.mit.edu/projects/1275773230/"
     },
     {
       "type": "example",
-      "heading": "Application",
-      "content": "Let us apply our new knowledge to a specific case. Imagine a surveyor needs the area of a triangular plot of land where two boundaries are 12m and 10m, meeting at a $30^{\\circ}$ angle."
+      "heading": "Let's Try It",
+      "content": "Calculate the area of a triangle where one side is $12\\text{ m}$, the other side is $10\\text{ m}$, and the angle connecting them is $30^\\circ$."
     },
     {
       "type": "formula",
-      "content": "We simply substitute our known values:",
-      "latex": "Area = \\frac{1}{2}(12)(10) \\sin(30^{\\circ})"
+      "content": "Step 1: Write down the formula.",
+      "latex": "\\text{Area} = \\frac{1}{2}ab |\\sin(C)|"
     },
     {
       "type": "formula",
-      "content": "Since $\\sin(30^{\\circ}) = 0.5$, the calculation becomes effortless:",
-      "latex": "Area = 60(0.5) = 30 \\text{ m}^2"
+      "content": "Step 2: Plug in your numbers.",
+      "latex": "\\text{Area} = \\frac{1}{2}(12)(10) |\\sin(30^\\circ)|"
     },
     {
-      "type": "text",
-      "heading": "A Gentle Warning",
-      "content": "Before you embark on your own calculations, a word of advice: always check your calculator's mode. Ensure it is set to <b>Degrees</b> (D) and not Radians (R), otherwise your answers will be mathematically correct but contextually disastrous!"
+      "type": "formula",
+      "content": "Step 3: Solve. (Remember that $\\sin(30^\\circ) = 0.5$)",
+      "latex": "\\text{Area} = 60 \\times 0.5 = 30 \\text{ m}^2"
+    },
+    {
+      "type": "example",
+      "heading": "Pro Tip: Check Your Calculator!",
+      "content": "Before you start any exam question like this, check your calculator screen. Make sure there is a little <b>'D'</b> or <b>'DEG'</b> at the top. If it says 'R' or 'RAD', your answers will be wrong because the calculator is thinking in Radians instead of Degrees!"
+    },
+    {
+      "type": "quiz",
+      "heading": "Test Your Understanding",
+      "questions": [
+        {
+          "question": "What is the formula for the area of a triangle using sine?",
+          "options": ["1/2 * base * height", "1/2 * a * b * sin(C)", "a^2 + b^2 = c^2"],
+          "correct": 1
+        },
+        {
+          "question": "Which angle must you use for the formula to work?",
+          "options": ["Any angle", "The largest angle", "The included angle"],
+          "correct": 2
+        }
+      ]
     }
   ]
 }

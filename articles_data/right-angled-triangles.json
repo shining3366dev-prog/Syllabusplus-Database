@@ -1,0 +1,62 @@
+{
+  "title": "Right-Angled Triangles",
+  "lastUpdated": "2026-02-06",
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "The Foundation of Geometry",
+      "content": "Before solving complex shapes, you must master the <b>Right-Angled Triangle</b>. It is the only triangle where the Pythagorean Theorem works, and it is the gateway to Trigonometry."
+    },
+    {
+      "type": "formula",
+      "heading": "Pythagoras' Theorem",
+      "content": "For a triangle with hypotenuse $c$:",
+      "latex": "a^2 + b^2 = c^2"
+    },
+    {
+      "type": "text",
+      "heading": "Trigonometry (SOH CAH TOA)",
+      "content": "When angles are involved, we use ratios. Remember the sides relative to angle $\\theta$:"
+    },
+    {
+      "type": "formula",
+      "latex": "\\sin \\theta = \\frac{Opp}{Hyp} \\quad \\cos \\theta = \\frac{Adj}{Hyp} \\quad \\tan \\theta = \\frac{Opp}{Adj}"
+    },
+    {
+      "type": "example",
+      "heading": "Finding a Missing Side",
+      "content": "A ladder is 5m long (Hypotenuse) and makes a $60^\\circ$ angle with the ground. How high does it reach (Opposite)?<br><br><b>Step 1:</b> Choose Sine ($Opp/Hyp$).<br><b>Step 2:</b> $\\sin(60) = x / 5$.<br><b>Step 3:</b> $x = 5 \\times \\sin(60) \\approx 4.33$m."
+    },
+    {
+      "type": "quiz",
+      "heading": "Test Your Knowledge",
+      "questions": [
+        {
+          "question": "Which side is always the longest in a right-angled triangle?",
+          "options": ["Adjacent", "Opposite", "Hypotenuse", "It depends"],
+          "correct": 2
+        },
+        {
+          "question": "Calculate the hypotenuse if sides are 3 and 4.",
+          "options": ["5", "6", "7", "25"],
+          "correct": 0
+        },
+        {
+          "question": "Which ratio connects Opposite and Adjacent?",
+          "options": ["Sine", "Cosine", "Tangent", "Pythagoras"],
+          "correct": 2
+        },
+        {
+          "question": "What is $\\sin(90^\\circ)$?",
+          "options": ["0", "0.5", "1", "Undefined"],
+          "correct": 2
+        },
+        {
+          "question": "If $\\tan(x) = 1$, what is angle $x$?",
+          "options": ["30 degrees", "45 degrees", "60 degrees", "90 degrees"],
+          "correct": 1
+        }
+      ]
+    }
+  ]
+}

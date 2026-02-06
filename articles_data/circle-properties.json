@@ -1,0 +1,57 @@
+{
+  "title": "Circle Properties",
+  "lastUpdated": "2026-02-06",
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Beyond the Compass",
+      "content": "Circles have magical properties when you start drawing lines inside them. In S4, we look at the relationship between chords, tangents, and radii."
+    },
+    {
+      "type": "text",
+      "heading": "1. Tangent-Radius Property",
+      "content": "A tangent is a line that touches the circle at exactly one point. The golden rule: <b>A tangent meets the radius at $90^\\circ$.</b>"
+    },
+    {
+      "type": "text",
+      "heading": "2. Isosceles Triangles in Circles",
+      "content": "If you draw two radii from the center to the edge, they form an Isosceles triangle because both sides are length $r$. This means the base angles are equal."
+    },
+    {
+      "type": "formula",
+      "heading": "Area & Circumference (Review)",
+      "latex": "A = \\pi r^2 \\quad C = 2\\pi r"
+    },
+    {
+      "type": "quiz",
+      "heading": "Circle Quiz",
+      "questions": [
+        {
+          "question": "What is the angle between a tangent and a radius?",
+          "options": ["45 degrees", "90 degrees", "180 degrees", "It varies"],
+          "correct": 1
+        },
+        {
+          "question": "A line touching the circle at two points is called a...",
+          "options": ["Tangent", "Chord", "Radius", "Arc"],
+          "correct": 1
+        },
+        {
+          "question": "The longest chord in a circle is the...",
+          "options": ["Diameter", "Radius", "Tangent", "Sector"],
+          "correct": 0
+        },
+        {
+          "question": "Two radii form a triangle with a chord. What type of triangle is it?",
+          "options": ["Scalene", "Isosceles", "Right-Angled", "Equilateral (always)"],
+          "correct": 1
+        },
+        {
+          "question": "What is the distance around the circle called?",
+          "options": ["Area", "Volume", "Diameter", "Circumference"],
+          "correct": 3
+        }
+      ]
+    }
+  ]
+}
