@@ -1,72 +1,120 @@
 {
   "title": "Area of a Triangle (Sine Rule)",
+  "title_fr": "Aire d'un Triangle (Règle du Sinus)",
+  "title_de": "Fläche eines Dreiecks (Sinusregel)",
   "lastUpdated": "2026-02-06",
   "sections": [
     {
       "type": "intro",
       "heading": "The Basics vs. The Upgrade",
-      "content": "You probably already know the classic formula for the area of a triangle: $Area = \\frac{1}{2} \\times \\text{base} \\times \\text{height}$. This works great—but only if you know the vertical height! <br><br>In the real world, measuring the straight-up height is often annoying or impossible. The <b>Sine Rule for Area</b> is a powerful shortcut that lets you calculate the area using just two sides and an angle, without needing to measure the height at all."
+      "heading_fr": "Les Bases vs. L'Amélioration",
+      "heading_de": "Die Grundlagen vs. Das Upgrade",
+      "content": "You probably already know the classic formula for the area of a triangle: $Area = \\frac{1}{2} \\times \\text{base} \\times \\text{height}$. This works great—but only if you know the vertical height! <br><br>In the real world, measuring the straight-up height is often annoying or impossible. The <b>Sine Rule for Area</b> is a powerful shortcut that lets you calculate the area using just two sides and an angle, without needing to measure the height at all.",
+      "content_fr": "Vous connaissez probablement déjà la formule classique pour l'aire d'un triangle : $Aire = \\frac{1}{2} \\times \\text{base} \\times \\text{hauteur}$. Cela fonctionne très bien—mais seulement si vous connaissez la hauteur verticale ! <br><br>Dans le monde réel, mesurer la hauteur verticale est souvent ennuyeux ou impossible. La <b>Règle du Sinus pour l'Aire</b> est un raccourci puissant qui vous permet de calculer l'aire en utilisant seulement deux côtés et un angle, sans avoir besoin de mesurer la hauteur du tout.",
+      "content_de": "Sie kennen wahrscheinlich bereits die klassische Formel für die Fläche eines Dreiecks: $Fläche = \\frac{1}{2} \\times \\text{Basis} \\times \\text{Höhe}$. Das funktioniert großartig—aber nur, wenn Sie die vertikale Höhe kennen! <br><br>In der realen Welt ist das Messen der geraden Höhe oft lästig oder unmöglich. Die <b>Sinusregel für die Fläche</b> ist eine leistungsstarke Abkürzung, mit der Sie die Fläche nur mit zwei Seiten und einem Winkel berechnen können, ohne die Höhe messen zu müssen."
     },
     {
       "type": "text",
       "heading": "How it Works (The Logic)",
-      "content": "Imagine a triangle with sides $a$ and $b$ and an angle $C$ between them. If we wanted to use the old method, we would need the height. By using basic trigonometry (SOH CAH TOA), we can figure out that the height is actually equal to side $a$ multiplied by $\\sin(C)$. <br><br>When we swap this into the old formula, we get a new, much faster equation."
+      "heading_fr": "Comment ça Marche (La Logique)",
+      "heading_de": "Wie es Funktioniert (Die Logik)",
+      "content": "Imagine a triangle with sides $a$ and $b$ and an angle $C$ between them. If we wanted to use the old method, we would need the height. By using basic trigonometry (SOH CAH TOA), we can figure out that the height is actually equal to side $a$ multiplied by $\\sin(C)$. <br><br>When we swap this into the old formula, we get a new, much faster equation.",
+      "content_fr": "Imaginez un triangle avec les côtés $a$ et $b$ et un angle $C$ entre eux. Si nous voulions utiliser l'ancienne méthode, nous aurions besoin de la hauteur. En utilisant la trigonométrie de base (SOH CAH TOA), nous pouvons déterminer que la hauteur est en fait égale au côté $a$ multiplié par $\\sin(C)$. <br><br>Lorsque nous insérons cela dans l'ancienne formule, nous obtenons une nouvelle équation beaucoup plus rapide.",
+      "content_de": "Stellen Sie sich ein Dreieck mit den Seiten $a$ und $b$ und einem Winkel $C$ zwischen ihnen vor. Wenn wir die alte Methode verwenden wollten, bräuchten wir die Höhe. Durch grundlegende Trigonometrie (SOH CAH TOA) können wir herausfinden, dass die Höhe tatsächlich gleich der Seite $a$ multipliziert mit $\\sin(C)$ ist. <br><br>Wenn wir dies in die alte Formel einsetzen, erhalten wir eine neue, viel schnellere Gleichung."
     },
     {
       "type": "formula",
       "heading": "The Magic Formula",
+      "heading_fr": "La Formule Magique",
+      "heading_de": "Die Magische Formel",
       "content": "Given two sides ($a$ and $b$) and the included angle ($C$), the area is:",
+      "content_fr": "Étant donnés deux côtés ($a$ et $b$) et l'angle inclus ($C$), l'aire est :",
+      "content_de": "Bei zwei Seiten ($a$ und $b$) und dem eingeschlossenen Winkel ($C$) ist die Fläche:",
       "latex": "\\text{Area} = \\frac{1}{2}ab |\\sin(C)|"
     },
     {
       "type": "text",
       "heading": "The 'Sandwich' Rule (SAS)",
-      "content": "There is one very important rule: You must use the <b>Included Angle</b>. This means the angle you use must be sandwiched directly between the two sides you know. <br><br>Think of the two sides like the blades of a pair of scissors—the angle is the pivot point connecting them. This is often called the <b>Side-Angle-Side (SAS)</b> condition."
+      "heading_fr": "La Règle du 'Sandwich' (SAS)",
+      "heading_de": "Die 'Sandwich'-Regel (SAS)",
+      "content": "There is one very important rule: You must use the <b>Included Angle</b>. This means the angle you use must be sandwiched directly between the two sides you know. <br><br>Think of the two sides like the blades of a pair of scissors—the angle is the pivot point connecting them. This is often called the <b>Side-Angle-Side (SAS)</b> condition.",
+      "content_fr": "Il y a une règle très importante : Vous devez utiliser l'<b>Angle Inclus</b>. Cela signifie que l'angle que vous utilisez doit être directement pris entre les deux côtés que vous connaissez. <br><br>Pensez aux deux côtés comme les lames d'une paire de ciseaux—l'angle est le point de pivot qui les relie. C'est souvent appelé la condition <b>Côté-Angle-Côté (CAC)</b>.",
+      "content_de": "Es gibt eine sehr wichtige Regel: Sie müssen den <b>Eingeschlossenen Winkel</b> verwenden. Das bedeutet, dass der Winkel, den Sie verwenden, direkt zwischen den beiden bekannten Seiten liegen muss. <br><br>Stellen Sie sich die beiden Seiten wie die Klingen einer Schere vor—der Winkel ist der Drehpunkt, der sie verbindet. Dies wird oft als <b>Seite-Winkel-Seite (SWS)</b>-Bedingung bezeichnet."
     },
     {
       "type": "scratch",
       "widgetTitle": "Triangle Area Lab",
+      "widgetTitle_fr": "Laboratoire d'Aire de Triangle",
+      "widgetTitle_de": "Dreieck-Flächen-Labor",
       "turboMode": true,
-      "description": "I made this simulation so you can see the math in action. Drag the sliders to change the sides and angle. Watch how the area changes instantly! (Turbo Mode enabled for speed).",
-      "url": "https://scratch.mit.edu/projects/1275773230/"
+      "description": "I made this simulation so you can see the math in action. Drag the sliders to change the sides and angle. Watch how the area changes instantly!",
+      "description_fr": "J'ai créé cette simulation pour que vous puissiez voir les mathématiques en action. Faites glisser les curseurs pour changer les côtés et l'angle. Regardez comment l'aire change instantanément !",
+      "description_de": "Ich habe diese Simulation erstellt, damit Sie die Mathematik in Aktion sehen können. Ziehen Sie die Schieberegler, um die Seiten und den Winkel zu ändern. Beobachten Sie, wie sich die Fläche sofort ändert!",
+      "url": "https://scratch.mit.edu/projects/1275773230/",
+      "fallbackUrl": "https://shining3366dev-prog.github.io/Syllabusplus-Database/widgets/triangle-area-sim.html",
+      "isSelfHosted": true
     },
     {
       "type": "example",
       "heading": "Let's Try It",
-      "content": "Calculate the area of a triangle where one side is $12\\text{ m}$, the other side is $10\\text{ m}$, and the angle connecting them is $30^\\circ$."
+      "heading_fr": "Essayons",
+      "heading_de": "Probieren wir es aus",
+      "content": "Calculate the area of a triangle where one side is $12\\text{ m}$, the other side is $10\\text{ m}$, and the angle connecting them is $30^\\circ$.",
+      "content_fr": "Calculez l'aire d'un triangle où un côté mesure $12\\text{ m}$, l'autre côté mesure $10\\text{ m}$, et l'angle qui les relie est de $30^\\circ$.",
+      "content_de": "Berechnen Sie die Fläche eines Dreiecks, bei dem eine Seite $12\\text{ m}$, die andere Seite $10\\text{ m}$ ist und der Winkel zwischen ihnen $30^\\circ$ beträgt."
     },
     {
       "type": "formula",
       "content": "Step 1: Write down the formula.",
+      "content_fr": "Étape 1 : Écrivez la formule.",
+      "content_de": "Schritt 1: Schreiben Sie die Formel auf.",
       "latex": "\\text{Area} = \\frac{1}{2}ab |\\sin(C)|"
     },
     {
       "type": "formula",
       "content": "Step 2: Plug in your numbers.",
+      "content_fr": "Étape 2 : Insérez vos nombres.",
+      "content_de": "Schritt 2: Setzen Sie Ihre Zahlen ein.",
       "latex": "\\text{Area} = \\frac{1}{2}(12)(10) |\\sin(30^\\circ)|"
     },
     {
       "type": "formula",
       "content": "Step 3: Solve. (Remember that $\\sin(30^\\circ) = 0.5$)",
+      "content_fr": "Étape 3 : Résolvez. (Rappelez-vous que $\\sin(30^\\circ) = 0.5$)",
+      "content_de": "Schritt 3: Lösen. (Denken Sie daran, dass $\\sin(30^\\circ) = 0.5$)",
       "latex": "\\text{Area} = 60 \\times 0.5 = 30 \\text{ m}^2"
     },
     {
       "type": "example",
       "heading": "Pro Tip: Check Your Calculator!",
-      "content": "Before you start any exam question like this, check your calculator screen. Make sure there is a little <b>'D'</b> or <b>'DEG'</b> at the top. If it says 'R' or 'RAD', your answers will be wrong because the calculator is thinking in Radians instead of Degrees!"
+      "heading_fr": "Astuce Pro : Vérifiez Votre Calculatrice !",
+      "heading_de": "Profi-Tipp: Überprüfen Sie Ihren Taschenrechner!",
+      "content": "Before you start any exam question like this, check your calculator screen. Make sure there is a little <b>'D'</b> or <b>'DEG'</b> at the top. If it says 'R' or 'RAD', your answers will be wrong because the calculator is thinking in Radians instead of Degrees!",
+      "content_fr": "Avant de commencer toute question d'examen comme celle-ci, vérifiez l'écran de votre calculatrice. Assurez-vous qu'il y a un petit <b>'D'</b> ou <b>'DEG'</b> en haut. S'il indique 'R' ou 'RAD', vos réponses seront fausses car la calculatrice pense en Radians au lieu de Degrés !",
+      "content_de": "Bevor Sie eine Prüfungsfrage wie diese beginnen, überprüfen Sie Ihren Taschenrechnerbildschirm. Stellen Sie sicher, dass oben ein kleines <b>'D'</b> oder <b>'DEG'</b> steht. Wenn dort 'R' oder 'RAD' steht, werden Ihre Antworten falsch sein, weil der Taschenrechner in Radianten statt in Grad denkt!"
     },
     {
       "type": "quiz",
       "heading": "Test Your Understanding",
+      "heading_fr": "Testez Votre Compréhension",
+      "heading_de": "Testen Sie Ihr Verständnis",
       "questions": [
         {
           "question": "What is the formula for the area of a triangle using sine?",
+          "question_fr": "Quelle est la formule pour l'aire d'un triangle utilisant le sinus ?",
+          "question_de": "Was ist die Formel für die Fläche eines Dreiecks mit Sinus?",
           "options": ["1/2 * base * height", "1/2 * a * b * sin(C)", "a^2 + b^2 = c^2"],
+          "options_fr": ["1/2 * base * hauteur", "1/2 * a * b * sin(C)", "a^2 + b^2 = c^2"],
+          "options_de": ["1/2 * Basis * Höhe", "1/2 * a * b * sin(C)", "a^2 + b^2 = c^2"],
           "correct": 1
         },
         {
           "question": "Which angle must you use for the formula to work?",
+          "question_fr": "Quel angle devez-vous utiliser pour que la formule fonctionne ?",
+          "question_de": "Welchen Winkel müssen Sie verwenden, damit die Formel funktioniert?",
           "options": ["Any angle", "The largest angle", "The included angle"],
+          "options_fr": ["N'importe quel angle", "Le plus grand angle", "L'angle inclus"],
+          "options_de": ["Jeder Winkel", "Der größte Winkel", "Der eingeschlossene Winkel"],
           "correct": 2
         }
       ]
