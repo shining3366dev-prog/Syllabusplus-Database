@@ -46,7 +46,7 @@
       "widgetTitle": "Triangle Area Lab",
       "widgetTitle_fr": "Laboratoire d'Aire de Triangle",
       "widgetTitle_de": "Dreieck-Flächen-Labor",
-      "turboMode": true,
+      "turboMode": false,
       "description": "I made this simulation so you can see the math in action. Drag the sliders to change the sides and angle. Watch how the area changes instantly!",
       "description_fr": "J'ai créé cette simulation pour que vous puissiez voir les mathématiques en action. Faites glisser les curseurs pour changer les côtés et l'angle. Regardez comment l'aire change instantanément !",
       "description_de": "Ich habe diese Simulation erstellt, damit Sie die Mathematik in Aktion sehen können. Ziehen Sie die Schieberegler, um die Seiten und den Winkel zu ändern. Beobachten Sie, wie sich die Fläche sofort ändert!",

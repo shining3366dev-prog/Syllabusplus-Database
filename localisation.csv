@@ -1,0 +1,74 @@
+key;en;fr;de
+nav_home;Home;Accueil;Startseite
+nav_subjects;Subjects;Sujets;Fächer
+nav_about;About;À propos;Über uns
+nav_login;Login;Connexion;Anmelden
+hero_title;Student Resource Center;Centre de Ressources Étudiantes;Studentisches Ressourcenzentrum
+hero_desc;Access study guides, worksheets, and past papers.;Accédez aux guides d'étude, fiches et examens passés.;Zugriff auf Lernleitfäden, Arbeitsblätter und alte Prüfungen.
+cta_find;Find Your Subject;Trouvez Votre Sujet;Finde Dein Fach
+sidebar_year;Select Year;Choisir l'Année;Jahr Auswählen
+sidebar_subtitle;Filter by year level;Filtrer par niveau;Nach Jahrgangsstufe filtern
+sidebar_all;All Years;Toutes les Années;Alle Jahre
+year_label;Year;Année;Jahr
+grid_title;Browse Subjects;Parcourir les Sujets;Fächer Durchsuchen
+grid_loading;Loading subjects...;Chargement des sujets...;Fächer werden geladen...
+grid_no_subjects;No subjects found for this year.;Aucun sujet trouvé pour cette année.;Keine Fächer für dieses Jahr gefunden.
+footer_rights;All rights reserved.;Tous droits réservés.;Alle Rechte vorbehalten.
+back_to_subjects;Back to Subjects;Retour aux Sujets;Zurück zu Fächern
+view_files;View Files;Voir les Fichiers;Dateien Ansehen
+coming_soon;Coming Soon;Bientôt Disponible;Demnächst
+folder_algebra;Algebra;Algèbre;Algebra
+folder_geometry;Geometry;Géométrie;Geometrie
+folder_statistics;Statistics;Statistiques;Statistik
+folder_trigonometry;Trigonometry;Trigonométrie;Trigonometrie
+folder_calculus;Calculus;Calcul;Infinitesimalrechnung
+folder_probability;Probability;Probabilité;Wahrscheinlichkeit
+folder_physics;Physics;Physique;Physik
+folder_chemistry;Chemistry;Chimie;Chemie
+folder_biology;Biology;Biologie;Biologie
+page_resources;Resources;Ressources;Ressourcen
+page_loading;Loading...;Chargement...;Wird geladen...
+page_loading_files;Loading files...;Chargement des fichiers...;Dateien werden geladen...
+select_document;Select a document;Sélectionnez un document;Dokument auswählen
+select_file_hint;Choose a file from the sidebar to preview it.;Choisissez un fichier dans la barre latérale pour l'afficher.;Wählen Sie eine Datei aus der Seitenleiste aus, um sie anzuzeigen.
+back_explorer;Back to Explorer;Retour à l'Explorateur;Zurück zum Explorer
+all_years;All Years;Toutes les Années;Alle Jahre
+no_content;No content found for;Aucun contenu trouvé pour;Kein Inhalt gefunden für
+error_loading;Error loading files.;Erreur de chargement des fichiers.;Fehler beim Laden der Dateien.
+subject_english;English;Anglais;Englisch
+subject_french;French;Français;Französisch
+subject_german;German;Allemand;Deutsch
+subject_spanish;Spanish;Espagnol;Spanisch
+subject_latin;Latin;Latin;Latein
+subject_economics;Economics;Économie;Wirtschaft
+subject_luxembourgish_adv;Advance Luxembourgish;Luxembourgeois Avancé;Fortgeschrittenes Luxemburgisch
+subject_luxembourgish_beg;Beginner Luxembourgish;Luxembourgeois Débutant;Anfänger Luxemburgisch
+subject_biology;Biology;Biologie;Biologie
+subject_chemistry;Chemistry;Chimie;Chemie
+subject_physics;Physics;Physique;Physik
+subject_integrated_science;Integrated Science;Sciences Intégrées;Integrierte Wissenschaften
+subject_human_science;Human Science;Sciences Humaines;Humanwissenschaften
+subject_maths;Maths;Mathématiques;Mathematik
+subject_6_periods_maths;6 periods Maths;Mathématiques 6 périodes;Mathematik 6 Stunden
+subject_4_periods_maths;4 periods Maths;Mathématiques 4 périodes;Mathematik 4 Stunden
+subject_geography;Geography;Géographie;Geografie
+subject_history;History;Histoire;Geschichte
+subject_vieso;Vieso;Vieso;Vieso
+subject_ict;ICT;Informatique;Informatik
+subject_art;ART;Arts;Kunst
+ui_next;Next Question;Question Suivante;Nächste Frage
+ui_skip;Skip Question;Passer;Überspringen
+ui_results;See Results;Voir les Résultats;Ergebnisse sehen
+ui_back;Back to List;Retour à la liste;Zurück zur Liste
+ui_prev_nav;Previous;Précédent;Zurück
+ui_next_nav;Next;Suivant;Weiter
+ui_example;Example;Exemple;Beispiel
+ui_update;Updating...;Mise à jour...;Aktualisierung...
+ui_question;Question;Question;Frage
+ui_try_again;Try Again;Réessayer;Erneut versuchen
+ui_keep_practicing;Keep practicing!;Continuez à pratiquer !;Weiter üben!
+ui_good_job;Good job!;Bon travail !;Gut gemacht!
+ui_outstanding;Outstanding!;Excellent !;Hervorragend!
+ui_you_got;You got;Vous avez obtenu;Du hast
+ui_out_of;out of;sur;von
+ui_correct;correct;correct;richtig
