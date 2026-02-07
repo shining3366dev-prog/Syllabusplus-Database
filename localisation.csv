@@ -72,3 +72,6 @@ ui_outstanding;Outstanding!;Excellent !;Hervorragend!
 ui_you_got;You got;Vous avez obtenu;Du hast
 ui_out_of;out of;sur;von
 ui_correct;correct;correct;richtig
+ui_start_quiz;Start Quiz;Commencer le Quiz;Quiz Starten
+ui_questions;Questions;Questions;Fragen
+ui_quiz_title;Knowledge Check;Vérification des Connaissances;Wissensüberprüfung
