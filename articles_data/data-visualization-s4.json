@@ -1,59 +1,101 @@
 {
   "title": "Data Visualization (S4)",
+  "title_fr": "Visualisation des Données (S4)",
+  "title_de": "Datenvisualisierung (S4)",
   "lastUpdated": "2026-02-06",
   "sections": [
     {
       "type": "intro",
       "heading": "Making Data Speak",
-      "content": "S4 Statistics is about turning raw lists of numbers into useful diagrams. We focus on two specific types: the <b>Stem-and-Leaf</b> (for small data) and the <b>Histogram</b> (for grouped continuous data)."
+      "heading_fr": "Faire Parler les Données",
+      "heading_de": "Daten zum Sprechen Bringen",
+      "content": "S4 Statistics is about turning raw lists of numbers into useful diagrams. We focus on two specific types: the <b>Stem-and-Leaf</b> (for small data) and the <b>Histogram</b> (for grouped continuous data).",
+      "content_fr": "Les statistiques en S4 consistent à transformer des listes de nombres bruts en diagrammes utiles. Nous nous concentrons sur deux types précis : le <b>diagramme en tiges et feuilles</b> (pour les petites données) et le <b>histogramme</b> (pour les données continues groupées).",
+      "content_de": "In der Statistik S4 geht es darum, rohe Zahlenlisten in nützliche Diagramme umzuwandeln. Wir konzentrieren uns auf zwei Typen: das <b>Stamm-Blatt-Diagramm</b> (für kleine Datensätze) und das <b>Histogramm</b> (für gruppierte kontinuierliche Daten)."
     },
     {
       "type": "text",
       "heading": "1. Stem-and-Leaf Diagrams",
-      "content": "This diagram splits numbers into a 'Stem' (first digits) and a 'Leaf' (last digit). It preserves the original data while ordering it."
+      "heading_fr": "1. Diagrammes en Tiges et Feuilles",
+      "heading_de": "1. Stamm-Blatt-Diagramme",
+      "content": "This diagram splits numbers into a 'Stem' (first digits) and a 'Leaf' (last digit). It preserves the original data while ordering it.",
+      "content_fr": "Ce diagramme sépare les nombres en une « tige » (premiers chiffres) et une « feuille » (dernier chiffre). Il conserve les données originales tout en les ordonnant.",
+      "content_de": "Dieses Diagramm teilt Zahlen in einen „Stamm“ (erste Ziffern) und ein „Blatt“ (letzte Ziffer). Die ursprünglichen Daten bleiben erhalten und werden geordnet."
     },
     {
       "type": "example",
       "heading": "Example",
-      "content": "Data: 23, 25, 31.<br><b>Stem 2:</b> | 3 5<br><b>Stem 3:</b> | 1<br><i>Don't forget the Key! (e.g., 2|3 = 23)</i>"
+      "heading_fr": "Exemple",
+      "heading_de": "Beispiel",
+      "content": "Data: 23, 25, 31.<br><b>Stem 2:</b> | 3 5<br><b>Stem 3:</b> | 1<br><i>Don't forget the Key! (e.g., 2|3 = 23)</i>",
+      "content_fr": "Données : 23, 25, 31.<br><b>Tige 2 :</b> | 3 5<br><b>Tige 3 :</b> | 1<br><i>N'oubliez pas la clé ! (ex : 2|3 = 23)</i>",
+      "content_de": "Daten: 23, 25, 31.<br><b>Stamm 2:</b> | 3 5<br><b>Stamm 3:</b> | 1<br><i>Vergiss den Schlüssel nicht! (z. B. 2|3 = 23)</i>"
     },
     {
       "type": "text",
       "heading": "2. Histograms (Advanced)",
-      "content": "Unlike a bar chart, the height of a histogram bar is NOT the frequency. The <b>Area</b> of the bar is the frequency. The height is called <b>Frequency Density</b>."
+      "heading_fr": "2. Histogrammes (Avancé)",
+      "heading_de": "2. Histogramme (Fortgeschritten)",
+      "content": "Unlike a bar chart, the height of a histogram bar is NOT the frequency. The <b>Area</b> of the bar is the frequency. The height is called <b>Frequency Density</b>.",
+      "content_fr": "Contrairement à un diagramme en barres, la hauteur d'une barre d'histogramme n'est PAS la fréquence. La <b>surface</b> de la barre représente la fréquence. La hauteur s'appelle la <b>densité de fréquence</b>.",
+      "content_de": "Im Gegensatz zu einem Säulendiagramm ist die Höhe eines Histogrammbalkens NICHT die Häufigkeit. Die <b>Fläche</b> des Balkens stellt die Häufigkeit dar. Die Höhe heißt <b>Häufigkeitsdichte</b>."
     },
     {
       "type": "formula",
       "heading": "Frequency Density Formula",
+      "heading_fr": "Formule de la Densité de Fréquence",
+      "heading_de": "Formel der Häufigkeitsdichte",
       "latex": "FD = \\frac{\\text{Frequency}}{\\text{Class Width}}"
     },
     {
       "type": "quiz",
       "heading": "Stats Quiz",
+      "heading_fr": "Quiz de Statistiques",
+      "heading_de": "Statistik-Quiz",
       "questions": [
         {
           "question": "In a Stem-and-Leaf, what does 4 | 2 usually represent if the key is 'tens | units'?",
+          "question_fr": "Dans un diagramme en tiges et feuilles, que représente 4 | 2 si la clé est « dizaines | unités » ?",
+          "question_de": "Was bedeutet 4 | 2 in einem Stamm-Blatt-Diagramm, wenn der Schlüssel „Zehner | Einer“ ist?",
           "options": ["4.2", "42", "24", "6"],
+          "options_fr": ["4,2", "42", "24", "6"],
+          "options_de": ["4,2", "42", "24", "6"],
           "correct": 1
         },
         {
           "question": "In a Histogram, what represents the frequency?",
+          "question_fr": "Dans un histogramme, qu'est-ce qui représente la fréquence ?",
+          "question_de": "Was stellt in einem Histogramm die Häufigkeit dar?",
           "options": ["The Height", "The Width", "The Area", "The Axis"],
+          "options_fr": ["La hauteur", "La largeur", "La surface", "L'axe"],
+          "options_de": ["Die Höhe", "Die Breite", "Die Fläche", "Die Achse"],
           "correct": 2
         },
         {
           "question": "Calculate FD if Frequency = 20 and Class Width = 5.",
+          "question_fr": "Calculez la DF si la fréquence = 20 et la largeur de classe = 5.",
+          "question_de": "Berechne die Häufigkeitsdichte, wenn die Häufigkeit 20 und die Klassenbreite 5 ist.",
           "options": ["100", "25", "4", "15"],
+          "options_fr": ["100", "25", "4", "15"],
+          "options_de": ["100", "25", "4", "15"],
           "correct": 2
         },
         {
           "question": "Why do we use Histograms instead of bar charts?",
+          "question_fr": "Pourquoi utilise-t-on des histogrammes plutôt que des diagrammes en barres ?",
+          "question_de": "Warum verwenden wir Histogramme statt Säulendiagramme?",
           "options": ["They look cooler", "For continuous data with unequal groups", "For categorical data", "They are easier to draw"],
+          "options_fr": ["Ils sont plus jolis", "Pour des données continues avec des classes inégales", "Pour des données catégorielles", "Ils sont plus faciles à tracer"],
+          "options_de": ["Sie sehen besser aus", "Für kontinuierliche Daten mit ungleichen Klassen", "Für kategoriale Daten", "Sie sind leichter zu zeichnen"],
           "correct": 1
         },
         {
           "question": "Which data type is best for Stem-and-Leaf?",
+          "question_fr": "Quel type de données convient le mieux aux diagrammes en tiges et feuilles ?",
+          "question_de": "Welche Daten eignen sich am besten für Stamm-Blatt-Diagramme?",
           "options": ["Massive datasets", "Small, discrete datasets", "Percentages", "Maps"],
+          "options_fr": ["Très grands ensembles de données", "Petits ensembles de données discrètes", "Pourcentages", "Cartes"],
+          "options_de": ["Sehr große Datensätze", "Kleine diskrete Datensätze", "Prozentsätze", "Karten"],
           "correct": 1
         }
       ]

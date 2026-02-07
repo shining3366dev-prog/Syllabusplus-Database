@@ -1,22 +1,36 @@
 {
   "title": "Right-Angled Triangles",
+  "title_fr": "Triangles Rectangles",
+  "title_de": "Rechtwinklige Dreiecke",
   "lastUpdated": "2026-02-06",
   "sections": [
     {
       "type": "intro",
       "heading": "The Foundation of Geometry",
-      "content": "Before solving complex shapes, you must master the <b>Right-Angled Triangle</b>. It is the only triangle where the Pythagorean Theorem works, and it is the gateway to Trigonometry."
+      "heading_fr": "La Base de la Géométrie",
+      "heading_de": "Die Grundlage der Geometrie",
+      "content": "Before solving complex shapes, you must master the <b>Right-Angled Triangle</b>. It is the only triangle where the Pythagorean Theorem works, and it is the gateway to Trigonometry.",
+      "content_fr": "Avant de résoudre des formes complexes, vous devez maîtriser le <b>triangle rectangle</b>. C'est le seul triangle pour lequel le théorème de Pythagore s'applique, et il constitue la base de la trigonométrie.",
+      "content_de": "Bevor du komplexe Formen lösen kannst, musst du das <b>rechtwinklige Dreieck</b> beherrschen. Es ist das einzige Dreieck, bei dem der Satz des Pythagoras gilt, und es ist der Einstieg in die Trigonometrie."
     },
     {
       "type": "formula",
       "heading": "Pythagoras' Theorem",
+      "heading_fr": "Théorème de Pythagore",
+      "heading_de": "Satz des Pythagoras",
       "content": "For a triangle with hypotenuse $c$:",
+      "content_fr": "Pour un triangle dont l'hypoténuse est $c$ :",
+      "content_de": "Für ein Dreieck mit der Hypotenuse $c$:",
       "latex": "a^2 + b^2 = c^2"
     },
     {
       "type": "text",
       "heading": "Trigonometry (SOH CAH TOA)",
-      "content": "When angles are involved, we use ratios. Remember the sides relative to angle $\\theta$:"
+      "heading_fr": "Trigonométrie (SOH CAH TOA)",
+      "heading_de": "Trigonometrie (SOH CAH TOA)",
+      "content": "When angles are involved, we use ratios. Remember the sides relative to angle $\\theta$:",
+      "content_fr": "Lorsque des angles sont impliqués, nous utilisons des rapports. Souvenez-vous des côtés par rapport à l'angle $\\theta$ :",
+      "content_de": "Wenn Winkel beteiligt sind, verwenden wir Verhältnisse. Merke dir die Seiten in Bezug auf den Winkel $\\theta$:"
     },
     {
       "type": "formula",
@@ -25,34 +39,50 @@
     {
       "type": "example",
       "heading": "Finding a Missing Side",
-      "content": "A ladder is 5m long (Hypotenuse) and makes a $60^\\circ$ angle with the ground. How high does it reach (Opposite)?<br><br><b>Step 1:</b> Choose Sine ($Opp/Hyp$).<br><b>Step 2:</b> $\\sin(60) = x / 5$.<br><b>Step 3:</b> $x = 5 \\times \\sin(60) \\approx 4.33$m."
+      "heading_fr": "Trouver un Côté Manquant",
+      "heading_de": "Eine Fehlende Seite Berechnen",
+      "content": "A ladder is 5m long (Hypotenuse) and makes a $60^\\circ$ angle with the ground. How high does it reach (Opposite)?<br><br><b>Step 1:</b> Choose Sine ($Opp/Hyp$).<br><b>Step 2:</b> $\\sin(60) = x / 5$.<br><b>Step 3:</b> $x = 5 \\times \\sin(60) \\approx 4.33$m.",
+      "content_fr": "Une échelle mesure 5 m (hypoténuse) et forme un angle de $60^\\circ$ avec le sol. Quelle hauteur atteint-elle (côté opposé) ?<br><br><b>Étape 1 :</b> Choisir le sinus ($Opp/Hyp$).<br><b>Étape 2 :</b> $\\sin(60) = x / 5$.<br><b>Étape 3 :</b> $x = 5 \\times \\sin(60) \\approx 4{,}33$m.",
+      "content_de": "Eine Leiter ist 5 m lang (Hypotenuse) und bildet mit dem Boden einen Winkel von $60^\\circ$. Wie hoch reicht sie (Gegenkathete)?<br><br><b>Schritt 1:</b> Sinus wählen ($Opp/Hyp$).<br><b>Schritt 2:</b> $\\sin(60) = x / 5$.<br><b>Schritt 3:</b> $x = 5 \\times \\sin(60) \\approx 4{,}33$m."
     },
     {
       "type": "quiz",
       "heading": "Test Your Knowledge",
+      "heading_fr": "Testez Vos Connaissances",
+      "heading_de": "Teste Dein Wissen",
       "questions": [
         {
           "question": "Which side is always the longest in a right-angled triangle?",
+          "question_fr": "Quel côté est toujours le plus long dans un triangle rectangle ?",
+          "question_de": "Welche Seite ist in einem rechtwinkligen Dreieck immer die längste?",
           "options": ["Adjacent", "Opposite", "Hypotenuse", "It depends"],
           "correct": 2
         },
         {
           "question": "Calculate the hypotenuse if sides are 3 and 4.",
+          "question_fr": "Calculez l'hypoténuse si les côtés mesurent 3 et 4.",
+          "question_de": "Berechne die Hypotenuse, wenn die Seiten 3 und 4 sind.",
           "options": ["5", "6", "7", "25"],
           "correct": 0
         },
         {
           "question": "Which ratio connects Opposite and Adjacent?",
+          "question_fr": "Quel rapport relie le côté opposé et l'adjacent ?",
+          "question_de": "Welches Verhältnis verbindet Gegenkathete und Ankathete?",
           "options": ["Sine", "Cosine", "Tangent", "Pythagoras"],
           "correct": 2
         },
         {
           "question": "What is $\\sin(90^\\circ)$?",
+          "question_fr": "Quelle est la valeur de $\\sin(90^\\circ)$ ?",
+          "question_de": "Was ist $\\sin(90^\\circ)$?",
           "options": ["0", "0.5", "1", "Undefined"],
           "correct": 2
         },
         {
           "question": "If $\\tan(x) = 1$, what is angle $x$?",
+          "question_fr": "Si $\\tan(x) = 1$, quelle est la valeur de l'angle $x$ ?",
+          "question_de": "Wenn $\\tan(x) = 1$, wie groß ist der Winkel $x$?",
           "options": ["30 degrees", "45 degrees", "60 degrees", "90 degrees"],
           "correct": 1
         }

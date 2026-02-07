@@ -1,58 +1,90 @@
 {
   "title": "Powers & Scientific Notation",
+  "title_fr": "Puissances et Notation Scientifique",
+  "title_de": "Potenzen und Wissenschaftliche Schreibweise",
   "lastUpdated": "2026-02-06",
   "sections": [
     {
       "type": "intro",
       "heading": "Handling the Very Big & Very Small",
-      "content": "In S4 Algebra, we move beyond basic multiplication. You will often deal with numbers that are astronomically huge (like the distance to stars) or microscopically small (like the size of an atom). Writing these out with zeros is a nightmare, so we use <b>Powers</b> and <b>Scientific Notation</b>."
+      "heading_fr": "Gérer l'Extrêmement Grand et l'Extrêmement Petit",
+      "heading_de": "Umgang mit Sehr Großen und Sehr Kleinen Zahlen",
+      "content": "In S4 Algebra, we move beyond basic multiplication. You will often deal with numbers that are astronomically huge (like the distance to stars) or microscopically small (like the size of an atom). Writing these out with zeros is a nightmare, so we use **Powers** and **Scientific Notation**.",
+      "content_fr": "En algèbre S4, nous dépassons la multiplication de base. Vous travaillerez souvent avec des nombres astronomiquement grands (comme la distance aux étoiles) ou microscopiquement petits (comme la taille d'un atome). Les écrire avec des zéros est un cauchemar, donc nous utilisons les **puissances** et la **notation scientifique**.",
+      "content_de": "In der Algebra S4 gehen wir über die einfache Multiplikation hinaus. Du arbeitest häufig mit extrem großen Zahlen (z. B. Entfernungen zu Sternen) oder extrem kleinen Zahlen (z. B. die Größe eines Atoms). Diese mit vielen Nullen zu schreiben ist unpraktisch, deshalb verwenden wir **Potenzen** und die **wissenschaftliche Schreibweise**."
     },
     {
       "type": "text",
       "heading": "The Laws of Indices",
-      "content": "Indices (or exponents) follow strict rules. If you master these three, you master the topic:<br>1. <b>Multiplication:</b> Add the powers ($x^a \\times x^b = x^{a+b}$)<br>2. <b>Division:</b> Subtract the powers ($x^a \\div x^b = x^{a-b}$)<br>3. <b>Power of a Power:</b> Multiply them ($(x^a)^b = x^{a \\times b}$)"
+      "heading_fr": "Les Lois des Exposants",
+      "heading_de": "Die Potenzgesetze",
+      "content": "Indices (or exponents) follow strict rules. If you master these three, you master the topic:<br>1. <b>Multiplication:</b> Add the powers ($x^a \\times x^b = x^{a+b}$)<br>2. <b>Division:</b> Subtract the powers ($x^a \\div x^b = x^{a-b}$)<br>3. <b>Power of a Power:</b> Multiply them ($(x^a)^b = x^{a \\times b}$)",
+      "content_fr": "Les exposants suivent des règles strictes. Si vous maîtrisez ces trois règles, vous maîtrisez le chapitre :<br>1. <b>Multiplication :</b> On additionne les exposants ($x^a \\times x^b = x^{a+b}$)<br>2. <b>Division :</b> On soustrait les exposants ($x^a \\div x^b = x^{a-b}$)<br>3. <b>Puissance d'une puissance :</b> On multiplie les exposants ($(x^a)^b = x^{a \\times b}$)",
+      "content_de": "Exponenten folgen festen Regeln. Wenn du diese drei beherrschst, beherrschst du das Thema:<br>1. <b>Multiplikation:</b> Exponenten addieren ($x^a \\times x^b = x^{a+b}$)<br>2. <b>Division:</b> Exponenten subtrahieren ($x^a \\div x^b = x^{a-b}$)<br>3. <b>Potenz von einer Potenz:</b> Exponenten multiplizieren ($(x^a)^b = x^{a \\times b}$)"
     },
     {
       "type": "formula",
       "heading": "Scientific Notation Standard Form",
+      "heading_fr": "Forme Standard de la Notation Scientifique",
+      "heading_de": "Standardform der Wissenschaftlichen Schreibweise",
       "content": "Any number can be written as:",
+      "content_fr": "Tout nombre peut être écrit sous la forme :",
+      "content_de": "Jede Zahl kann geschrieben werden als:",
       "latex": "a \\times 10^n"
     },
     {
       "type": "text",
-      "content": "Where $1 \\le a < 10$ and $n$ is an integer. <br>Example: $300,000,000$ becomes $3 \\times 10^8$."
+      "content": "Where $1 \\le a < 10$ and $n$ is an integer. <br>Example: $300,000,000$ becomes $3 \\times 10^8$.",
+      "content_fr": "Où $1 \\le a < 10$ et $n$ est un entier. <br>Exemple : $300\\,000\\,000$ devient $3 \\times 10^8$.",
+      "content_de": "Dabei gilt $1 \\le a < 10$ und $n$ ist eine ganze Zahl. <br>Beispiel: $300\\,000\\,000$ wird zu $3 \\times 10^8$."
     },
     {
       "type": "example",
       "heading": "Real World Example",
-      "content": "The speed of light is approximately $299,792,458$ m/s. <br><b>Scientific Notation:</b> $2.998 \\times 10^8$ m/s (approx)."
+      "heading_fr": "Exemple du Monde Réel",
+      "heading_de": "Beispiel aus der Realität",
+      "content": "The speed of light is approximately $299,792,458$ m/s. <br><b>Scientific Notation:</b> $2.998 \\times 10^8$ m/s (approx).",
+      "content_fr": "La vitesse de la lumière est d'environ $299\\,792\\,458$ m/s. <br><b>Notation scientifique :</b> $2.998 \\times 10^8$ m/s (environ).",
+      "content_de": "Die Lichtgeschwindigkeit beträgt ungefähr $299\\,792\\,458$ m/s. <br><b>Wissenschaftliche Schreibweise:</b> $2.998 \\times 10^8$ m/s (ungefähr)."
     },
     {
       "type": "quiz",
       "heading": "Mastery Check",
+      "heading_fr": "Vérification des Connaissances",
+      "heading_de": "Wissensüberprüfung",
       "questions": [
         {
           "question": "Simplify $x^3 \\times x^4$",
+          "question_fr": "Simplifiez $x^3 \\times x^4$",
+          "question_de": "Vereinfache $x^3 \\times x^4$",
           "options": ["x^12", "x^7", "x^1", "2x^7"],
           "correct": 1
         },
         {
           "question": "What is $(y^2)^5$?",
+          "question_fr": "Que vaut $(y^2)^5$ ?",
+          "question_de": "Was ist $(y^2)^5$?",
           "options": ["y^7", "y^3", "y^10", "y^25"],
           "correct": 2
         },
         {
           "question": "Write 0.00045 in scientific notation.",
+          "question_fr": "Écrivez 0,00045 en notation scientifique.",
+          "question_de": "Schreibe 0,00045 in wissenschaftlicher Schreibweise.",
           "options": ["4.5 * 10^4", "4.5 * 10^-3", "4.5 * 10^-4", "45 * 10^-5"],
           "correct": 2
         },
         {
           "question": "Which of these is NOT in valid scientific notation?",
+          "question_fr": "Laquelle n'est PAS une notation scientifique valide ?",
+          "question_de": "Welche davon ist KEINE gültige wissenschaftliche Schreibweise?",
           "options": ["1.2 * 10^5", "9.9 * 10^-2", "12 * 10^3", "3.0 * 10^0"],
           "correct": 2
         },
         {
           "question": "Calculate $(2 \\times 10^3) \\times (3 \\times 10^4)$",
+          "question_fr": "Calculez $(2 \\times 10^3) \\times (3 \\times 10^4)$",
+          "question_de": "Berechne $(2 \\times 10^3) \\times (3 \\times 10^4)$",
           "options": ["5 * 10^7", "6 * 10^12", "6 * 10^7", "5 * 10^12"],
           "correct": 2
         }

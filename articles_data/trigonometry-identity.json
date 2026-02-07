@@ -1,62 +1,94 @@
 {
   "title": "Trigonometry: The Identity",
+  "title_fr": "Trigonométrie : L'Identité",
+  "title_de": "Trigonometrie: Die Identität",
   "lastUpdated": "2026-02-06",
   "sections": [
     {
       "type": "intro",
       "heading": "Connecting the Ratios",
-      "content": "In S4, you learn a secret relationship between Sine, Cosine, and Tangent. This isn't just a coincidence; it is a fundamental property of how triangles work."
+      "heading_fr": "Relier les Rapports",
+      "heading_de": "Die Verhältnisse Verbinden",
+      "content": "In S4, you learn a secret relationship between Sine, Cosine, and Tangent. This isn't just a coincidence; it is a fundamental property of how triangles work.",
+      "content_fr": "En S4, vous découvrez une relation secrète entre le sinus, le cosinus et la tangente. Ce n'est pas une coïncidence ; c'est une propriété fondamentale du fonctionnement des triangles.",
+      "content_de": "In S4 lernst du eine geheime Beziehung zwischen Sinus, Kosinus und Tangens. Das ist kein Zufall, sondern eine grundlegende Eigenschaft von Dreiecken."
     },
     {
       "type": "text",
       "heading": "The Proof",
-      "content": "We know that $\\sin x = \\frac{O}{H}$ and $\\cos x = \\frac{A}{H}$. <br>What happens if we divide them?"
+      "heading_fr": "La Démonstration",
+      "heading_de": "Der Beweis",
+      "content": "We know that $\\sin x = \\frac{O}{H}$ and $\\cos x = \\frac{A}{H}$. <br>What happens if we divide them?",
+      "content_fr": "Nous savons que $\\sin x = \\frac{O}{H}$ et que $\\cos x = \\frac{A}{H}$. <br>Que se passe-t-il si nous les divisons ?",
+      "content_de": "Wir wissen, dass $\\sin x = \\frac{O}{H}$ und $\\cos x = \\frac{A}{H}$ gilt. <br>Was passiert, wenn wir sie dividieren?"
     },
     {
       "type": "formula",
       "content": "Let's do the algebra:",
+      "content_fr": "Faisons l'algèbre :",
+      "content_de": "Rechnen wir algebraisch:",
       "latex": "\\frac{\\sin x}{\\cos x} = \\frac{\\frac{O}{H}}{\\frac{A}{H}} = \\frac{O}{H} \\times \\frac{H}{A} = \\frac{O}{A}"
     },
     {
       "type": "text",
-      "content": "Wait! $\\frac{O}{A}$ is the definition of **Tangent**! This leads us to the Golden Identity of S4:"
+      "content": "Wait! $\\frac{O}{A}$ is the definition of <b>Tangent</b>! This leads us to the Golden Identity of S4:",
+      "content_fr": "Attendez ! $\\frac{O}{A}$ est la définition de la <b>tangente</b> ! Cela nous mène à l'identité fondamentale de S4 :",
+      "content_de": "Moment! $\\frac{O}{A}$ ist die Definition von <b>Tangens</b>! Das führt uns zur goldenen Identität von S4:"
     },
     {
       "type": "formula",
       "heading": "The Identity",
+      "heading_fr": "L'Identité",
+      "heading_de": "Die Identität",
       "latex": "\\tan x = \\frac{\\sin x}{\\cos x}"
     },
     {
       "type": "example",
       "heading": "Using it in exams",
-      "content": "<b>Question:</b> Given that $\\sin x = 0.8$ and $\\cos x = 0.6$, find $\\tan x$ without a calculator.<br><b>Answer:</b> $\\tan x = 0.8 / 0.6 = 4/3$."
+      "heading_fr": "Utilisation aux Examens",
+      "heading_de": "Anwendung in Prüfungen",
+      "content": "<b>Question:</b> Given that $\\sin x = 0.8$ and $\\cos x = 0.6$, find $\\tan x$ without a calculator.<br><b>Answer:</b> $\\tan x = 0.8 / 0.6 = 4/3$.",
+      "content_fr": "<b>Question :</b> Étant donné que $\\sin x = 0.8$ et $\\cos x = 0.6$, trouvez $\\tan x$ sans calculatrice.<br><b>Réponse :</b> $\\tan x = 0.8 / 0.6 = 4/3$.",
+      "content_de": "<b>Frage:</b> Gegeben ist $\\sin x = 0.8$ und $\\cos x = 0.6$. Bestimme $\\tan x$ ohne Taschenrechner.<br><b>Antwort:</b> $\\tan x = 0.8 / 0.6 = 4/3$."
     },
     {
       "type": "quiz",
       "heading": "Identity Quiz",
+      "heading_fr": "Quiz sur l'Identité",
+      "heading_de": "Identitäts-Quiz",
       "questions": [
         {
           "question": "What is $\\sin(x) / \\cos(x)$ equal to?",
+          "question_fr": "À quoi est égal $\\sin(x) / \\cos(x)$ ?",
+          "question_de": "Womit ist $\\sin(x) / \\cos(x)$ gleich?",
           "options": ["1", "tan(x)", "cos(x)", "sin^2(x)"],
           "correct": 1
         },
         {
           "question": "If $\\sin A = 12$ and $\\cos A = 5$, what is $\\tan A$?",
+          "question_fr": "Si $\\sin A = 12$ et $\\cos A = 5$, quelle est la valeur de $\\tan A$ ?",
+          "question_de": "Wenn $\\sin A = 12$ und $\\cos A = 5$, wie groß ist $\\tan A$?",
           "options": ["2.4", "0.41", "60", "17"],
           "correct": 0
         },
         {
           "question": "Why is $\\tan(90^\\circ)$ undefined?",
+          "question_fr": "Pourquoi $\\tan(90^\\circ)$ est-elle indéfinie ?",
+          "question_de": "Warum ist $\\tan(90^\\circ)$ nicht definiert?",
           "options": ["Because sin(90) is 0", "Because cos(90) is 0", "Because it's too big", "It is defined as 1"],
           "correct": 1
         },
         {
           "question": "Which creates a steeper slope?",
+          "question_fr": "Qu'est-ce qui crée une pente plus raide ?",
+          "question_de": "Was erzeugt eine steilere Steigung?",
           "options": ["High sin, Low cos", "Low sin, High cos", "Equal sin and cos", "Zero sin"],
           "correct": 0
         },
         {
           "question": "Rearrange the identity: $\\sin x = $ ?",
+          "question_fr": "Réarrangez l'identité : $\\sin x = $ ?",
+          "question_de": "Stelle die Identität um: $\\sin x = $ ?",
           "options": ["cos x * tan x", "tan x / cos x", "cos x / tan x", "1 / tan x"],
           "correct": 0
         }

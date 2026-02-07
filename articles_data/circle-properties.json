@@ -1,54 +1,92 @@
 {
   "title": "Circle Properties",
+  "title_fr": "Propriétés du Cercle",
+  "title_de": "Eigenschaften des Kreises",
   "lastUpdated": "2026-02-06",
   "sections": [
     {
       "type": "intro",
       "heading": "Beyond the Compass",
-      "content": "Circles have magical properties when you start drawing lines inside them. In S4, we look at the relationship between chords, tangents, and radii."
+      "heading_fr": "Au-delà du Compas",
+      "heading_de": "Mehr als nur der Zirkel",
+      "content": "Circles have magical properties when you start drawing lines inside them. In S4, we look at the relationship between chords, tangents, and radii.",
+      "content_fr": "Les cercles ont des propriétés presque magiques lorsque vous commencez à tracer des lignes à l'intérieur. En S4, nous étudions la relation entre les cordes, les tangentes et les rayons.",
+      "content_de": "Kreise haben erstaunliche Eigenschaften, wenn man beginnt, Linien in ihnen zu zeichnen. In S4 betrachten wir die Beziehung zwischen Sehnen, Tangenten und Radien."
     },
     {
       "type": "text",
       "heading": "1. Tangent-Radius Property",
-      "content": "A tangent is a line that touches the circle at exactly one point. The golden rule: <b>A tangent meets the radius at $90^\\circ$.</b>"
+      "heading_fr": "1. Propriété Tangente-Rayon",
+      "heading_de": "1. Tangenten-Radius-Eigenschaft",
+      "content": "A tangent is a line that touches the circle at exactly one point. The golden rule: <b>A tangent meets the radius at $90^\\circ$.</b>",
+      "content_fr": "Une tangente est une droite qui touche le cercle en un seul point. La règle d'or : <b>une tangente rencontre le rayon à $90^\\circ$.</b>",
+      "content_de": "Eine Tangente ist eine Gerade, die den Kreis in genau einem Punkt berührt. Die goldene Regel: <b>Eine Tangente trifft den Radius im Winkel von $90^\\circ$.</b>"
     },
     {
       "type": "text",
       "heading": "2. Isosceles Triangles in Circles",
-      "content": "If you draw two radii from the center to the edge, they form an Isosceles triangle because both sides are length $r$. This means the base angles are equal."
+      "heading_fr": "2. Triangles Isocèles dans les Cercles",
+      "heading_de": "2. Gleichschenklige Dreiecke im Kreis",
+      "content": "If you draw two radii from the center to the edge, they form an Isosceles triangle because both sides are length $r$. This means the base angles are equal.",
+      "content_fr": "Si vous tracez deux rayons du centre vers le bord, ils forment un triangle isocèle car les deux côtés mesurent $r$. Cela signifie que les angles à la base sont égaux.",
+      "content_de": "Wenn Sie zwei Radien vom Mittelpunkt zum Rand zeichnen, entsteht ein gleichschenkliges Dreieck, da beide Seiten die Länge $r$ haben. Das bedeutet, dass die Basiswinkel gleich groß sind."
     },
     {
       "type": "formula",
       "heading": "Area & Circumference (Review)",
+      "heading_fr": "Aire et Circonférence (Rappel)",
+      "heading_de": "Fläche und Umfang (Wiederholung)",
       "latex": "A = \\pi r^2 \\quad C = 2\\pi r"
     },
     {
       "type": "quiz",
       "heading": "Circle Quiz",
+      "heading_fr": "Quiz sur le Cercle",
+      "heading_de": "Kreis-Quiz",
       "questions": [
         {
           "question": "What is the angle between a tangent and a radius?",
+          "question_fr": "Quel est l'angle entre une tangente et un rayon ?",
+          "question_de": "Wie groß ist der Winkel zwischen einer Tangente und einem Radius?",
           "options": ["45 degrees", "90 degrees", "180 degrees", "It varies"],
+          "options_fr": ["45 degrés", "90 degrés", "180 degrés", "Cela varie"],
+          "options_de": ["45 Grad", "90 Grad", "180 Grad", "Er variiert"],
           "correct": 1
         },
         {
           "question": "A line touching the circle at two points is called a...",
+          "question_fr": "Une droite qui touche le cercle en deux points s'appelle...",
+          "question_de": "Eine Linie, die den Kreis in zwei Punkten schneidet, nennt man...",
           "options": ["Tangent", "Chord", "Radius", "Arc"],
+          "options_fr": ["Tangente", "Corde", "Rayon", "Arc"],
+          "options_de": ["Tangente", "Sehne", "Radius", "Bogen"],
           "correct": 1
         },
         {
           "question": "The longest chord in a circle is the...",
+          "question_fr": "La plus longue corde d'un cercle est le...",
+          "question_de": "Die längste Sehne in einem Kreis ist der...",
           "options": ["Diameter", "Radius", "Tangent", "Sector"],
+          "options_fr": ["Diamètre", "Rayon", "Tangente", "Secteur"],
+          "options_de": ["Durchmesser", "Radius", "Tangente", "Sektor"],
           "correct": 0
         },
         {
           "question": "Two radii form a triangle with a chord. What type of triangle is it?",
+          "question_fr": "Deux rayons forment un triangle avec une corde. Quel type de triangle est-ce ?",
+          "question_de": "Zwei Radien bilden mit einer Sehne ein Dreieck. Um welchen Typ handelt es sich?",
           "options": ["Scalene", "Isosceles", "Right-Angled", "Equilateral (always)"],
+          "options_fr": ["Scalène", "Isocèle", "Rectangle", "Équilatéral (toujours)"],
+          "options_de": ["Ungleichseitig", "Gleichschenklig", "Rechtwinklig", "Gleichseitig (immer)"],
           "correct": 1
         },
         {
           "question": "What is the distance around the circle called?",
+          "question_fr": "Comment appelle-t-on la distance autour du cercle ?",
+          "question_de": "Wie nennt man den Abstand um den Kreis herum?",
           "options": ["Area", "Volume", "Diameter", "Circumference"],
+          "options_fr": ["Aire", "Volume", "Diamètre", "Circonférence"],
+          "options_de": ["Fläche", "Volumen", "Durchmesser", "Umfang"],
           "correct": 3
         }
       ]
