@@ -9,9 +9,9 @@
       "heading": "Handling the Very Big & Very Small",
       "heading_fr": "Gérer l'Extrêmement Grand et l'Extrêmement Petit",
       "heading_de": "Umgang mit Sehr Großen und Sehr Kleinen Zahlen",
-      "content": "In S4 Algebra, we move beyond basic multiplication. You will often deal with numbers that are astronomically huge (like the distance to stars) or microscopically small (like the size of an atom). Writing these out with zeros is a nightmare, so we use **Powers** and **Scientific Notation**.",
-      "content_fr": "En algèbre S4, nous dépassons la multiplication de base. Vous travaillerez souvent avec des nombres astronomiquement grands (comme la distance aux étoiles) ou microscopiquement petits (comme la taille d'un atome). Les écrire avec des zéros est un cauchemar, donc nous utilisons les **puissances** et la **notation scientifique**.",
-      "content_de": "In der Algebra S4 gehen wir über die einfache Multiplikation hinaus. Du arbeitest häufig mit extrem großen Zahlen (z. B. Entfernungen zu Sternen) oder extrem kleinen Zahlen (z. B. die Größe eines Atoms). Diese mit vielen Nullen zu schreiben ist unpraktisch, deshalb verwenden wir **Potenzen** und die **wissenschaftliche Schreibweise**."
+      "content": "In S4 Algebra, we move beyond basic multiplication. You will often deal with numbers that are astronomically huge (like the distance to stars) or microscopically small (like the size of an atom). Writing these out with zeros is a nightmare, so we use <b>Powers</b> and <b>Scientific Notation</b>.",
+      "content_fr": "En algèbre S4, nous dépassons la multiplication de base. Vous travaillerez souvent avec des nombres astronomiquement grands (comme la distance aux étoiles) ou microscopiquement petits (comme la taille d'un atome). Les écrire avec des zéros est un cauchemar, donc nous utilisons les <b>puissances</b> et la <b>notation scientifique<b>.",
+      "content_de": "In der Algebra S4 gehen wir über die einfache Multiplikation hinaus. Du arbeitest häufig mit extrem großen Zahlen (z. B. Entfernungen zu Sternen) oder extrem kleinen Zahlen (z. B. die Größe eines Atoms). Diese mit vielen Nullen zu schreiben ist unpraktisch, deshalb verwenden wir <b>Potenzen</b> und die <b>wissenschaftliche Schreibweise</b>."
     },
     {
       "type": "text",
