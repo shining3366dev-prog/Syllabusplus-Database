@@ -48,6 +48,18 @@
       "latex": "FD = \\frac{\\text{Frequency}}{\\text{Class Width}}"
     },
     {
+      "type": "scratch",
+      "widgetTitle": "Histogram Engine",
+      "widgetTitle_fr": "Moteur d'Histogramme",
+      "widgetTitle_de": "Histogramm-Engine",
+      "turboMode": false,
+      "description": "Visualize frequency density and class widths interactively.",
+      "description_fr": "Visualisez la densité de fréquence et les largeurs de classe de manière interactive.",
+      "description_de": "Visualisieren Sie Häufigkeitsdichte und Klassenbreiten interaktiv.",
+      "url": "https://scratch.mit.edu/projects/1277190367/",
+      "isSelfHosted": false
+    },
+    {
       "type": "quiz",
       "heading": "Stats Quiz",
       "heading_fr": "Quiz de Statistiques",
