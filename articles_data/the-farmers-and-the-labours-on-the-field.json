@@ -1,141 +1,155 @@
 {
-  "title": "The Farmers and the Labours on the Field",
-  "title_en": "The Farmers and the Labours on the Field",
-  "title_fr": "Les paysans et les travaux des champs",
-  "title_de": "Die Bauern und die Feldarbeiten",
+  "title": "Vivre et Mourir au Moyen Âge",
+  "title_fr": "Vivre et Mourir au Moyen Âge",
+  "title_en": "Living and Dying in the Middle Ages",
+  "title_de": "Leben und Sterben im Mittelalter",
   "lastUpdated": "2026-03-11",
   "sections": [
     {
       "type": "intro",
-      "heading_en": "The Agricultural Calendar (January to June)",
-      "heading_fr": "Le calendrier agricole (De janvier à juin)",
-      "heading_de": "Der landwirtschaftliche Kalender (Januar bis Juni)",
-      "image": "https://picsum.photos/seed/farm1/500/300",
-      "content_en": "Throughout the Middle Ages, peasant life was strictly dictated by the seasons.<br><br><b>January:</b> They cleaned out the ditches with a hoe (<i>fosses à la houe</i>).<br><b>February:</b> They spread manure on the fields using a spade and hoe.<br><b>March:</b> They pruned the vines with a billhook or pruning hook (<i>serpe</i>) to ensure better grape growth, and used the clippings to build huts.<br><b>April:</b> They sheared the sheep with shears. This was the best time to harvest wool; doing it too early meant the sheep could freeze to death!<br><b>May:</b> The lord hunted with a falcon, while the peasants waited for the harvest.<br><b>June:</b> They mowed the grass with scythes (<i>faux</i>).",
-      "content_fr": "Au Moyen Âge, la vie paysanne était strictement dictée par les saisons.<br><br><b>Janvier :</b> Ils nettoyaient les fosses à la houe.<br><b>Février :</b> Ils étalaient le fumier sur les terres avec bêche et houe.<br><b>Mars :</b> Ils taillent les vignes à la serpe (pour que le raisin pousse mieux, ou pour construire des huttes).<br><b>Avril :</b> Ils tondaient les moutons aux ciseaux. C'est le meilleur moment pour récolter la laine ; s'ils le faisaient trop tôt, les moutons mouraient de froid !<br><b>Mai :</b> Le seigneur chassait au faucon. Les paysans quant à eux attendaient le moment de la récolte.<br><b>Juin :</b> Ils fauchaient l'herbe à la faux.",
-      "content_de": "Im Mittelalter wurde das bäuerliche Leben streng von den Jahreszeiten diktiert.<br><br><b>Januar:</b> Sie reinigten die Gräben mit einer Hacke.<br><b>Februar:</b> Sie verteilten Mist auf den Feldern mit Spaten und Hacke.<br><b>März:</b> Sie beschnitten die Reben mit einer Hippe (für besseres Wachstum oder zum Hüttenbau).<br><b>April:</b> Sie schoren die Schafe mit Scheren. Dies war die beste Zeit für die Wollernte; zu früh, und die Schafe würden erfrieren!<br><b>Mai:</b> Der Herr jagte mit dem Falken, während die Bauern auf die Ernte warteten.<br><b>Juni:</b> Sie mähten das Gras mit einer Sense."
+      "heading": "Introduction au Moyen Âge",
+      "heading_fr": "Introduction au Moyen Âge",
+      "heading_en": "Introduction to the Middle Ages",
+      "heading_de": "Einführung in das Mittelalter",
+      "content": "L'objectif de ce chapitre est de repérer et comprendre les principaux aspects de la vie concrète des gens au Moyen Âge (IXe-XVe siècles). Nous allons explorer comment on vivait dans les campagnes, le pouvoir des seigneurs, et le travail acharné des paysans.",
+      "content_fr": "L'objectif de ce chapitre est de repérer et comprendre les principaux aspects de la vie concrète des gens au Moyen Âge (IXe-XVe siècles). Nous allons explorer comment on vivait dans les campagnes, le pouvoir des seigneurs, et le travail acharné des paysans.",
+      "content_en": "The objective of this chapter is to identify and understand the main aspects of everyday life in the Middle Ages (9th-15th centuries). We will explore how people lived in the countryside, the power of the lords, and the hard work of the peasants.",
+      "content_de": "Ziel dieses Kapitels ist es, die wichtigsten Aspekte des konkreten Lebens der Menschen im Mittelalter (9.-15. Jh.) zu verstehen. Wir werden untersuchen, wie die Menschen auf dem Land lebten, die Macht der Herren und die harte Arbeit der Bauern."
     },
     {
       "type": "text",
-      "heading_en": "The Agricultural Calendar (July to December)",
-      "heading_fr": "Le calendrier agricole (De juillet à décembre)",
-      "heading_de": "Der landwirtschaftliche Kalender (Juli bis Dezember)",
-      "image": "https://picsum.photos/seed/farm2/500/300",
-      "content_en": "<b>July:</b> They harvested the crops with a sickle (<i>faucille</i>).<br><b>August:</b> They beat the wheat with a flail (<i>fléau</i>) on the village threshing floor.<br><b>September:</b> They sowed seeds by broadcasting (<i>à la volée</i>), throwing them freely by hand.<br><b>October:</b> They pressed the grapes with their feet in a vat or barrel (<i>cuve</i>).<br><b>November:</b> They gathered acorns to feed the pigs.<br><b>December:</b> They slaughtered the pigs for winter meat.",
-      "content_fr": "<b>Juillet :</b> Ils moissonnaient à la faucille.<br><b>Août :</b> Ils battaient le blé au fléau sur l'aire du village.<br><b>Septembre :</b> Ils semaient à la volée (action de jeter librement à la main).<br><b>Octobre :</b> Ils pressaient le raisin aux pieds dans une cuve.<br><b>Novembre :</b> Ils cueillaient les glands pour les cochons.<br><b>Décembre :</b> Ils tuaient les cochons.",
-      "content_de": "<b>Juli:</b> Sie ernteten mit einer Sichel.<br><b>August:</b> Sie droschen den Weizen mit einem Flegel auf dem Dorfplatz.<br><b>September:</b> Sie säten durch Breitwurf (freies Werfen von Hand).<br><b>Oktober:</b> Sie kelterten Trauben mit den Füßen in einem Bottich.<br><b>November:</b> Sie sammelten Eicheln für die Schweine.<br><b>Dezember:</b> Sie schlachteten die Schweine."
-    },
-    {
-      "type": "text",
-      "heading_en": "Everyday Life: Peasant Clothing and Tools",
-      "heading_fr": "La vie quotidienne : Vêtements et outils paysans",
-      "heading_de": "Alltag: Kleidung und Werkzeuge der Bauern",
-      "image": "https://picsum.photos/seed/tools/500/300",
-      "content_en": "Peasants wore simple, practical clothing designed for hard labor in the fields. Here is some important vocabulary:<br><br>• <b>Chaperon:</b> A hood worn to protect the head and shoulders from the weather.<br>• <b>Cape:</b> A cape or cloak for warmth.<br>• <b>Tunique:</b> A tunic, essentially a long shirt worn as the main upper garment.<br>• <b>Braies:</b> Undergarments or loose-fitting trousers (breeches).<br>• <b>Housseaux:</b> Boots or protective gaiters worn over the lower legs.<br><br><b>Common Tools:</b><br>• <b>Houe:</b> Hoe (used for digging and moving dirt).<br>• <b>Faucille:</b> Sickle (a curved blade used for harvesting crops).",
-      "content_fr": "Les paysans portaient des vêtements simples et pratiques, conçus pour le dur labeur des champs. Voici quelques mots de vocabulaire importants :<br><br>• <b>Chaperon :</b> Une capuche portée pour se protéger la tête et les épaules des intempéries.<br>• <b>Cape :</b> Un manteau pour se tenir au chaud.<br>• <b>Tunique :</b> Une longue chemise portée comme vêtement principal.<br>• <b>Braies :</b> Sous-vêtements ou pantalons amples.<br>• <b>Housseaux :</b> Bottes ou guêtres de protection portées sur le bas des jambes.<br><br><b>Outils courants :</b><br>• <b>Houe :</b> Un outil pour creuser et remuer la terre.<br>• <b>Faucille :</b> Une lame courbée utilisée pour la moisson.",
-      "content_de": "Die Bauern trugen einfache, praktische Kleidung, die für die harte Arbeit auf den Feldern gedacht war. Hier sind einige wichtige Vokabeln:<br><br>• <b>Chaperon:</b> Eine Haube (Kapuze) zum Schutz von Kopf und Schultern vor dem Wetter.<br>• <b>Cape:</b> Ein Umhang zum Wärmen.<br>• <b>Tunique:</b> Eine Tunika, im Grunde ein langes Hemd.<br>• <b>Braies:</b> Unterwäsche oder weite Hosen (Bruch).<br>• <b>Housseaux:</b> Stiefel oder schützende Gamaschen für die Unterschenkel.<br><br><b>Häufige Werkzeuge:</b><br>• <b>Houe:</b> Hacke (zum Graben und Bewegen von Erde).<br>• <b>Faucille:</b> Sichel (eine gebogene Klinge für die Ernte)."
+      "heading": "1. La Seigneurie et le Château Fort",
+      "heading_fr": "1. La Seigneurie et le Château Fort",
+      "heading_en": "1. The Seigneury and the Castle",
+      "heading_de": "1. Die Grundherrschaft und die Burg",
+      "content": "Dans la seigneurie, le territoire est divisé en deux :<br><ul><li><b>La Réserve :</b> Les terres que le seigneur gère directement.</li><li><b>Les Tenures :</b> Les terres cultivées et habitées par les <i>vilains</i> (paysans libres) et les <i>serfs</i> (paysans non libres) contre le paiement d'un loyer appelé le <b>cens</b>.</li></ul><br>Le seigneur possède les bâtiments publics (le pressoir, le four, le moulin). Les paysans doivent payer des taxes pour les utiliser : ce sont les <b>banalités</b>. Il prélève aussi des péages pour traverser les ponts.<br><br><b>L'évolution du Château :</b><br><ul><li><b>IXe-XIe siècles :</b> Château en bois construit sur une motte de terre, entouré d'une palissade.</li><li><b>XIe-XIIe siècles :</b> Construction en pierre pour résister aux incendies.</li><li><b>XIIIe-XIVe siècles :</b> Ajout d'une double enceinte. Le château est massif pour résister à l'artillerie. On y trouve le <i>donjon</i>, la <i>courtine</i> et le <i>pont-levis</i>.</li></ul>",
+      "content_fr": "Dans la seigneurie, le territoire est divisé en deux :<br><ul><li><b>La Réserve :</b> Les terres que le seigneur gère directement.</li><li><b>Les Tenures :</b> Les terres cultivées et habitées par les <i>vilains</i> (paysans libres) et les <i>serfs</i> (paysans non libres) contre le paiement d'un loyer appelé le <b>cens</b>.</li></ul><br>Le seigneur possède les bâtiments publics (le pressoir, le four, le moulin). Les paysans doivent payer des taxes pour les utiliser : ce sont les <b>banalités</b>. Il prélève aussi des péages pour traverser les ponts.<br><br><b>L'évolution du Château :</b><br><ul><li><b>IXe-XIe siècles :</b> Château en bois construit sur une motte de terre, entouré d'une palissade.</li><li><b>XIe-XIIe siècles :</b> Construction en pierre pour résister aux incendies.</li><li><b>XIIIe-XIVe siècles :</b> Ajout d'une double enceinte. Le château est massif pour résister à l'artillerie. On y trouve le <i>donjon</i>, la <i>courtine</i> et le <i>pont-levis</i>.</li></ul>"
     },
     {
       "type": "example",
-      "heading_en": "Fun Fact: The Art of Falconry",
-      "heading_fr": "Anecdote amusante : L'art de la fauconnerie",
-      "heading_de": "Wissenswertes: Die Kunst der Falknerei",
-      "image": "https://picsum.photos/seed/bird/500/300",
-      "content_en": "<b>The Hood (Le Chaperon):</b> A custom-fitted leather hood designed to perfectly fit the bird's head. It features a tiny opening for the beak to allow breathing and treats, but completely covers the eyes.<br><b>The Effect:</b> Once hooded, the falcon enters a state of lethargy. Its heart rate slows, and it remains perfectly still on the hunter's glove.<br><b>The Ritual:</b> The lord only removed the hood (<i>décapuchonnage</i>) when spotting prey (like a heron or rabbit), ensuring the falcon had maximum energy for the hunt.<br><b>The Drawstrings (Le Tiroir):</b> Leather straps at the back allowed the hunter to quickly tighten the hood using their teeth or a free hand if the bird became agitated.",
-      "content_fr": "<b>Le Chaperon (la capuche) :</b> Il s'agit d'une petite coiffe en cuir taillée sur mesure. Elle comporte une minuscule ouverture pour le bec, permettant à l'oiseau de respirer, mais ses yeux sont entièrement couverts.<br><b>L'effet :</b> Dès que la capuche est posée, l'oiseau entre en état de léthargie. Son rythme cardiaque ralentit et il reste immobile sur le gant du chasseur.<br><b>Le rituel :</b> Le seigneur ne retirait la capuche (le décapuchonnage) que lorsqu'il repérait la proie. Cela garantissait que le faucon disposait de toute son énergie pour la chasse.<br><b>Le Tiroir (les cordons) :</b> Des lanières de cuir à l'arrière permettaient au chasseur de tirer avec ses dents ou sa main libre pour resserrer la capuche si l'oiseau s'agitait.",
-      "content_de": "<b>Die Haube (Le Chaperon):</b> Eine maßgefertigte Lederhaube. Sie hat eine winzige Öffnung für den Schnabel zum Atmen, aber die Augen sind vollständig bedeckt.<br><b>Die Wirkung:</b> Sobald sie aufgesetzt wird, verfällt der Falke in Lethargie. Sein Herzschlag verlangsamt sich, und er bleibt ruhig auf dem Handschuh.<br><b>Das Ritual:</b> Der Herr nahm die Haube erst ab, wenn er Beute (wie einen Reiher oder Hasen) entdeckte. So hatte der Falke maximale Energie für die Jagd.<br><b>Die Zugbänder (Le Tiroir):</b> Lederriemen auf der Rückseite, die der Jäger mit den Zähnen oder der freien Hand festziehen konnte, falls der Vogel unruhig wurde."
+      "heading": "2. Les Loisirs du Seigneur et la Chasse au Faucon",
+      "heading_fr": "2. Les Loisirs du Seigneur et la Chasse au Faucon",
+      "heading_en": "2. The Lord's Leisure and Falconry",
+      "heading_de": "2. Die Freizeit des Herrn und die Falknerei",
+      "content": "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tacuinum_Sanitatis_-_Falconry.jpg/320px-Tacuinum_Sanitatis_-_Falconry.jpg' style='float:right; width:180px; margin-left:15px; border-radius:8px;'>La vie des nobles est plus aisée. Ils organisent des <b>banquets</b> (viande, troubadours), participent à des <b>tournois</b> (reproduction pacifique de la guerre avec des joutes), et pratiquent l'<b>amour courtois</b> (séduire sa dame sans brutalité).<br><br><b>Anecdote amusante : La Chasse au Faucon</b><br>Pour chasser, le seigneur utilisait un équipement strict pour limiter la vue du faucon :<br>- <b>Le Chaperon (hood) :</b> Une petite coiffe en cuir taillée sur mesure avec une ouverture pour le bec. Les yeux de l'oiseau sont entièrement couverts.<br>- <b>L'effet :</b> Dès que la capuche est posée, l'oiseau entre en léthargie. Son rythme cardiaque ralentit et il reste parfaitement immobile sur le gant du chasseur.<br>- <b>Le rituel :</b> Le seigneur ne retirait la capuche (le décapuchonnage) que lorsqu'il repérait la proie (comme un héron ou un lapin), garantissant que le faucon disposait de toute son énergie.<br>- <b>Le Tiroir :</b> Des lanières de cuir à l'arrière. Le chasseur pouvait tirer dessus avec ses dents pour resserrer rapidement la capuche si l'oiseau s'agitait.",
+      "content_fr": "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tacuinum_Sanitatis_-_Falconry.jpg/320px-Tacuinum_Sanitatis_-_Falconry.jpg' style='float:right; width:180px; margin-left:15px; border-radius:8px;'>La vie des nobles est plus aisée. Ils organisent des <b>banquets</b> (viande, troubadours), participent à des <b>tournois</b> (reproduction pacifique de la guerre avec des joutes), et pratiquent l'<b>amour courtois</b> (séduire sa dame sans brutalité).<br><br><b>Anecdote amusante : La Chasse au Faucon</b><br>Pour chasser, le seigneur utilisait un équipement strict pour limiter la vue du faucon :<br>- <b>Le Chaperon (hood) :</b> Une petite coiffe en cuir taillée sur mesure avec une ouverture pour le bec. Les yeux de l'oiseau sont entièrement couverts.<br>- <b>L'effet :</b> Dès que la capuche est posée, l'oiseau entre en léthargie. Son rythme cardiaque ralentit et il reste parfaitement immobile sur le gant du chasseur.<br>- <b>Le rituel :</b> Le seigneur ne retirait la capuche (le décapuchonnage) que lorsqu'il repérait la proie (comme un héron ou un lapin), garantissant que le faucon disposait de toute son énergie.<br>- <b>Le Tiroir :</b> Des lanières de cuir à l'arrière. Le chasseur pouvait tirer dessus avec ses dents pour resserrer rapidement la capuche si l'oiseau s'agitait."
+    },
+    {
+      "type": "text",
+      "heading": "3. Le Calendrier des Paysans",
+      "heading_fr": "3. Le Calendrier des Paysans",
+      "heading_en": "3. The Peasant Calendar",
+      "heading_de": "3. Der Bauernkalender",
+      "content": "La vie des paysans (vilains et serfs soumis à la <i>Corvée</i>) était rythmée par les saisons. Voici leur année de travail :<br><br><table style='width:100%; border-collapse: collapse; background:#fff; border-radius:8px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1);'> <tr style='background:#667eea; color:white; text-align:left;'> <th style='padding:10px; border-bottom:1px solid #ddd;'>Mois</th> <th style='padding:10px; border-bottom:1px solid #ddd;'>Activité et Outils (Français & English)</th> </tr> <tr> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Janvier</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Nettoyer les fosses à la <b>houe</b> (Cleaning out the ditches with a hoe).</td> </tr> <tr style='background:#f9f9f9;'> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Février</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Étaler le fumier sur les terres avec <b>bêche</b> et <b>houe</b> (Spreading manure).</td> </tr> <tr> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Mars</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Tailler les vignes à la <b>serpe</b> (Pruning vines with a billhook so grapes grow better).</td> </tr> <tr style='background:#f9f9f9;'> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Avril</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Tondre les moutons aux <b>ciseaux</b> (Harvesting wool before the sheep freeze or sweat).</td> </tr> <tr> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Mai</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Le seigneur chassait au faucon. Les paysans attendaient la récolte.</td> </tr> <tr style='background:#f9f9f9;'> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Juin</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Faucher l'herbe à la <b>faux</b> (Mowing grass with a scythe - a big sickle).</td> </tr> <tr> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Juillet</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Moissonner à la <b>faucille</b> (Harvesting grain with a sickle).</td> </tr> <tr style='background:#f9f9f9;'> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Août</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Battre le blé au <b>fléau</b> sur l'aire du village (Threshing wheat with a flail).</td> </tr> <tr> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Septembre</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Semer <b>à la volée</b> (Seeding via broadcast / throwing by hand).</td> </tr> <tr style='background:#f9f9f9;'> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Octobre</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Presser le raisin aux pieds dans une <b>cuve</b> (Pressing grapes in a vat/barrel).</td> </tr> <tr> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Novembre</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Cueillir les <b>glands</b> pour les cochons (Gathering acorns for pigs).</td> </tr> <tr style='background:#f9f9f9;'> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Décembre</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Tuer les cochons pour faire des réserves de viande salée (Killing pigs).</td> </tr> </table>",
+      "content_fr": "La vie des paysans (vilains et serfs soumis à la <i>Corvée</i>) était rythmée par les saisons. Voici leur année de travail :<br><br><table style='width:100%; border-collapse: collapse; background:#fff; border-radius:8px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1);'> <tr style='background:#667eea; color:white; text-align:left;'> <th style='padding:10px; border-bottom:1px solid #ddd;'>Mois</th> <th style='padding:10px; border-bottom:1px solid #ddd;'>Activité et Outils (Français & English)</th> </tr> <tr> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Janvier</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Nettoyer les fosses à la <b>houe</b> (Cleaning out the ditches with a hoe).</td> </tr> <tr style='background:#f9f9f9;'> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Février</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Étaler le fumier sur les terres avec <b>bêche</b> et <b>houe</b> (Spreading manure).</td> </tr> <tr> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Mars</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Tailler les vignes à la <b>serpe</b> (Pruning vines with a billhook so grapes grow better).</td> </tr> <tr style='background:#f9f9f9;'> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Avril</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Tondre les moutons aux <b>ciseaux</b> (Harvesting wool before the sheep freeze or sweat).</td> </tr> <tr> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Mai</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Le seigneur chassait au faucon. Les paysans attendaient la récolte.</td> </tr> <tr style='background:#f9f9f9;'> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Juin</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Faucher l'herbe à la <b>faux</b> (Mowing grass with a scythe - a big sickle).</td> </tr> <tr> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Juillet</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Moissonner à la <b>faucille</b> (Harvesting grain with a sickle).</td> </tr> <tr style='background:#f9f9f9;'> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Août</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Battre le blé au <b>fléau</b> sur l'aire du village (Threshing wheat with a flail).</td> </tr> <tr> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Septembre</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Semer <b>à la volée</b> (Seeding via broadcast / throwing by hand).</td> </tr> <tr style='background:#f9f9f9;'> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Octobre</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Presser le raisin aux pieds dans une <b>cuve</b> (Pressing grapes in a vat/barrel).</td> </tr> <tr> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Novembre</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Cueillir les <b>glands</b> pour les cochons (Gathering acorns for pigs).</td> </tr> <tr style='background:#f9f9f9;'> <td style='padding:10px; border-bottom:1px solid #eee;'><b>Décembre</b></td> <td style='padding:10px; border-bottom:1px solid #eee;'>Tuer les cochons pour faire des réserves de viande salée (Killing pigs).</td> </tr> </table>"
+    },
+    {
+      "type": "example",
+      "heading": "4. Vocabulaire Vestimentaire et Outils",
+      "heading_fr": "4. Vocabulaire Vestimentaire et Outils",
+      "heading_en": "4. Vocabulary: Clothing and Tools",
+      "heading_de": "4. Vokabular: Kleidung und Werkzeuge",
+      "content": "<b>Vêtements :</b><br>- <b>Chaperon :</b> Hood (Capuche)<br>- <b>Cape :</b> Cape<br>- <b>Tunique :</b> Tunic (A kind of shirt)<br>- <b>Houséaux :</b> Boots (Bottes)<br>- <b>Braies :</b> Undergarments (Sous-vêtements)<br><br><b>Outils :</b><br>- <b>Houe :</b> Hoe<br>- <b>Faucille :</b> Sickle",
+      "content_fr": "<b>Vêtements :</b><br>- <b>Chaperon :</b> Hood (Capuche)<br>- <b>Cape :</b> Cape<br>- <b>Tunique :</b> Tunic (A kind of shirt)<br>- <b>Houséaux :</b> Boots (Bottes)<br>- <b>Braies :</b> Undergarments (Sous-vêtements)<br><br><b>Outils :</b><br>- <b>Houe :</b> Hoe<br>- <b>Faucille :</b> Sickle"
+    },
+    {
+      "type": "text",
+      "heading": "5. Les Progrès Agricoles et Techniques",
+      "heading_fr": "5. Les Progrès Agricoles et Techniques",
+      "heading_en": "5. Agricultural and Technical Progress",
+      "heading_de": "5. Landwirtschaftlicher Fortschritt",
+      "content": "Entre 800 et 1300, d'énormes innovations ont transformé le travail de la terre :<br><ol><li><b>Le Défrichement :</b> Couper les forêts pour cultiver, dû à la croissance démographique.</li><li><b>L'Assolement triennal :</b> Diviser la terre en 3. Une année de <b>jachère</b> (repos) permet à la terre d'être fertilisée par les troupeaux.</li><li><b>Le Moulin :</b> Énergie hydraulique ou éolienne pour moudre la farine plus vite.</li><li><b>Le Collier d'épaule :</b> Il évite d'étrangler le cheval de trait et augmente considérablement sa force de traction.</li><li><b>La Charrue :</b> Elle remplace la simple <i>araire</i>. Équipée de roues, d'un soc en fer et d'un versoir, elle retourne la terre en profondeur pour l'aérer et enfouir les mauvaises herbes.</li></ol>",
+      "content_fr": "Entre 800 et 1300, d'énormes innovations ont transformé le travail de la terre :<br><ol><li><b>Le Défrichement :</b> Couper les forêts pour cultiver, dû à la croissance démographique.</li><li><b>L'Assolement triennal :</b> Diviser la terre en 3. Une année de <b>jachère</b> (repos) permet à la terre d'être fertilisée par les troupeaux.</li><li><b>Le Moulin :</b> Énergie hydraulique ou éolienne pour moudre la farine plus vite.</li><li><b>Le Collier d'épaule :</b> Il évite d'étrangler le cheval de trait et augmente considérablement sa force de traction.</li><li><b>La Charrue :</b> Elle remplace la simple <i>araire</i>. Équipée de roues, d'un soc en fer et d'un versoir, elle retourne la terre en profondeur pour l'aérer et enfouir les mauvaises herbes.</li></ol>"
     },
     {
       "type": "quiz",
-      "title_en": "Test Your Knowledge",
-      "title_fr": "Testez vos connaissances",
-      "title_de": "Testen Sie Ihr Wissen",
-      "description_en": "See how much you remember about medieval farming, tools, and clothing!",
-      "description_fr": "Voyez ce que vous avez retenu sur l'agriculture, les outils et les vêtements au Moyen Âge !",
-      "description_de": "Testen Sie, wie viel Sie über die mittelalterliche Landwirtschaft, Werkzeuge und Kleidung wissen!",
+      "heading": "Le Méga Quiz d'Histoire Médiévale",
+      "heading_fr": "Le Méga Quiz d'Histoire Médiévale",
+      "heading_en": "Mega Medieval History Quiz",
+      "heading_de": "Das Mega-Mittelalter-Quiz",
       "questions": [
         {
-          "question_en": "What did medieval peasants call the loose trousers or undergarments they wore?",
-          "question_fr": "Comment les paysans du Moyen Âge appelaient-ils les pantalons amples ou les sous-vêtements qu'ils portaient ?",
-          "question_de": "Wie nannten die mittelalterlichen Bauern die weiten Hosen oder Unterwäsche, die sie trugen?",
-          "options_en": [
-            "Housseaux",
-            "Braies",
-            "Chaperon"
+          "question": "Que porte le faucon sur la tête pour rester calme avant la chasse ?",
+          "question_fr": "Que porte le faucon sur la tête pour rester calme avant la chasse ?",
+          "question_en": "What does the falcon wear on its head to stay calm before the hunt?",
+          "options": ["Une tunique", "Un chaperon", "Des braies", "Une serpe"],
+          "options_fr": ["Une tunique", "Un chaperon", "Des braies", "Une serpe"],
+          "correct": 1
+        },
+        {
+          "question": "Quel outil est utilisé par les paysans en Août pour battre le blé ?",
+          "question_fr": "Quel outil est utilisé par les paysans en Août pour battre le blé ?",
+          "question_en": "Which tool is used by peasants in August to thresh wheat?",
+          "options": ["Le fléau (Flail)", "La faucille (Sickle)", "La faux (Scythe)", "La houe (Hoe)"],
+          "options_fr": ["Le fléau", "La faucille", "La faux", "La houe"],
+          "correct": 0
+        },
+        {
+          "question": "Qu'est-ce que la « jachère » dans l'assolement triennal ?",
+          "question_fr": "Qu'est-ce que la « jachère » dans l'assolement triennal ?",
+          "question_en": "What is 'fallow' in the three-field system?",
+          "options": [
+            "Une nouvelle plante importée",
+            "Une année où la terre n'est pas cultivée pour se reposer",
+            "Une taxe payée au seigneur",
+            "Le nom du four à pain"
           ],
           "options_fr": [
-            "Housseaux",
-            "Braies",
-            "Chaperon"
-          ],
-          "options_de": [
-            "Housseaux",
-            "Braies",
-            "Chaperon"
+            "Une nouvelle plante importée",
+            "Une année où la terre n'est pas cultivée pour se reposer",
+            "Une taxe payée au seigneur",
+            "Le nom du four à pain"
           ],
           "correct": 1
         },
         {
-          "question_en": "Why did peasants wait until April to shear the sheep?",
-          "question_fr": "Pourquoi les paysans attendaient-ils le mois d'avril pour tondre les moutons ?",
-          "question_de": "Warum warteten die Bauern bis April, um die Schafe zu scheren?",
-          "options_en": [
-            "They didn't have the tools before April.",
-            "If done earlier, the sheep could freeze to death.",
-            "The wool is only usable in the spring."
-          ],
-          "options_fr": [
-            "Ils n'avaient pas d'outils avant avril.",
-            "S'ils le faisaient trop tôt, les moutons pouvaient geler.",
-            "La laine n'est utilisable qu'au printemps."
-          ],
-          "options_de": [
-            "Sie hatten vor April keine Werkzeuge.",
-            "Wenn sie es früher täten, könnten die Schafe erfrieren.",
-            "Die Wolle ist nur im Frühling nutzbar."
-          ],
+          "question": "Que sont les « braies » ?",
+          "question_fr": "Que sont les « braies » ?",
+          "question_en": "What are 'braies'?",
+          "options": ["Des bottes", "Des sous-vêtements (undergarments)", "Une arme de chevalier", "Un impôt"],
+          "options_fr": ["Des bottes", "Des sous-vêtements", "Une arme de chevalier", "Un impôt"],
           "correct": 1
         },
         {
-          "question_en": "What is a 'faucille' used for?",
-          "question_fr": "À quoi sert une 'faucille' ?",
-          "question_de": "Wofür wird eine 'Faucille' (Sichel) verwendet?",
-          "options_en": [
-            "Harvesting crops (Sickle)",
-            "Digging ditches (Hoe)",
-            "Hunting birds"
+          "question": "Quelles taxes les paysans paient-ils pour utiliser le moulin et le four du seigneur ?",
+          "question_fr": "Quelles taxes les paysans paient-ils pour utiliser le moulin et le four du seigneur ?",
+          "question_en": "What taxes do peasants pay to use the lord's mill and oven?",
+          "options": ["Le cens", "Les banalités", "La dîme", "La corvée"],
+          "options_fr": ["Le cens", "Les banalités", "La dîme", "La corvée"],
+          "correct": 1
+        },
+        {
+          "question": "En septembre, comment les paysans sèment-ils les graines ?",
+          "question_fr": "En septembre, comment les paysans sèment-ils les graines ?",
+          "question_en": "In September, how do peasants sow seeds?",
+          "options": ["Machine à vapeur", "À la volée (broadcast)", "Goutte à goutte", "Avec une houe"],
+          "options_fr": ["Machine à vapeur", "À la volée", "Goutte à goutte", "Avec une houe"],
+          "correct": 1
+        },
+        {
+          "question": "Pourquoi le collier d'épaule a-t-il révolutionné l'agriculture ?",
+          "question_fr": "Pourquoi le collier d'épaule a-t-il révolutionné l'agriculture ?",
+          "question_en": "Why did the horse collar revolutionize agriculture?",
+          "options": [
+            "Il évitait d'étrangler l'animal et augmentait sa force",
+            "Il était en or pour montrer la richesse",
+            "Il aidait le cheval à manger plus vite",
+            "Il servait à attacher les serfs"
           ],
           "options_fr": [
-            "À moissonner les récoltes (faucille)",
-            "À creuser des fosses (houe)",
-            "À chasser les oiseaux"
-          ],
-          "options_de": [
-            "Zum Ernten von Pflanzen (Sichel)",
-            "Zum Graben von Gräben (Hacke)",
-            "Zum Jagen von Vögeln"
+            "Il évitait d'étrangler l'animal et augmentait sa force",
+            "Il était en or pour montrer la richesse",
+            "Il aidait le cheval à manger plus vite",
+            "Il servait à attacher les serfs"
           ],
           "correct": 0
         },
         {
-          "question_en": "What was the main purpose of the falcon's hood (chaperon)?",
-          "question_fr": "Quel était le but principal du chaperon pour le faucon ?",
-          "question_de": "Was war der Hauptzweck der Falkenhaube (Chaperon)?",
-          "options_en": [
-            "To keep the bird warm during the winter.",
-            "To induce lethargy and conserve the bird's energy.",
-            "To protect the bird's eyes from the sun."
-          ],
-          "options_fr": [
-            "Garder l'oiseau au chaud pendant l'hiver.",
-            "Provoquer une léthargie et conserver l'énergie de l'oiseau.",
-            "Protéger les yeux de l'oiseau du soleil."
-          ],
-          "options_de": [
-            "Um den Vogel im Winter warm zu halten.",
-            "Um Lethargie auszulösen und die Energie des Vogels zu schonen.",
-            "Um die Augen des Vogels vor der Sonne zu schützen."
-          ],
+          "question": "Comment appelle-t-on la réserve de viande préparée en décembre ?",
+          "question_fr": "Quelle viande est préparée en décembre par les paysans ?",
+          "question_en": "What meat is prepared in December by the peasants?",
+          "options": ["Le mouton", "Le cochon", "Le bœuf", "Le faucon"],
+          "options_fr": ["Le mouton", "Le cochon", "Le bœuf", "Le faucon"],
           "correct": 1
         }
       ]
