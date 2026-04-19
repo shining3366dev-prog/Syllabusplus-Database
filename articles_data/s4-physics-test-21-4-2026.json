@@ -1,0 +1,249 @@
+{
+  "title": "Motion and Forces: The Laws of the Universe",
+  "title_fr": "Mouvement et Forces : Les Lois de l'Univers",
+  "title_en": "Motion and Forces: The Laws of the Universe",
+  "title_de": "Bewegung und Kräfte: Die Gesetze des Universums",
+  "lastUpdated": "2026-04-19",
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Introduction to Kinematics and Dynamics",
+      "heading_fr": "Introduction à la Cinématique et la Dynamique",
+      "heading_en": "Introduction to Kinematics and Dynamics",
+      "heading_de": "Einführung in die Kinematik und Dynamik",
+      "content": "Welcome to the study of Motion! In this module, we will explore <b>Kinematics</b> (how things move) and <b>Dynamics</b> (why things move). You will learn to calculate speeds, interpret complex graphs, and understand the invisible forces—like gravity and friction—that govern our daily lives according to Sir Isaac Newton.",
+      "content_fr": "Bienvenue dans l'étude du mouvement ! Dans ce module, nous explorerons la <b>cinématique</b> (comment les objets bougent) et la <b>dynamique</b> (pourquoi ils bougent). Vous apprendrez à calculer des vitesses, à interpréter des graphiques complexes et à comprendre les forces invisibles — comme la gravité et les frottements — qui régissent notre quotidien selon Isaac Newton.",
+      "content_en": "Welcome to the study of Motion! In this module, we will explore <b>Kinematics</b> (how things move) and <b>Dynamics</b> (why things move). You will learn to calculate speeds, interpret complex graphs, and understand the invisible forces—like gravity and friction—that govern our daily lives according to Sir Isaac Newton.",
+      "content_de": "Willkommen beim Studium der Bewegung! In diesem Modul werden wir die <b>Kinematik</b> (wie sich Dinge bewegen) und die <b>Dynamik</b> (warum sich Dinge bewegen) untersuchen. Du wirst lernen, Geschwindigkeiten zu berechnen, komplexe Diagramme zu interpretieren und die unsichtbaren Kräfte zu verstehen, die unseren Alltag nach Isaac Newton bestimmen."
+    },
+    {
+      "type": "text",
+      "heading": "1. Speed vs. Velocity",
+      "heading_fr": "1. Vitesse Moyenne vs Vitesse Vectorielle",
+      "heading_en": "1. Speed vs. Velocity",
+      "heading_de": "1. Geschwindigkeit vs. Vektorielle Geschwindigkeit",
+      "content": "In physics, words have precise meanings.<br><ul><li><b>Speed (Vitesse moyenne) :</b> It is a <i>scalar</i> quantity. It only tells you how fast an object is moving (e.g., 50 km/h).</li><li><b>Velocity (Vitesse vectorielle) :</b> It is a <i>vector</i> quantity. It tells you the speed AND the direction (e.g., 50 km/h North). If you run in a circle and return to your start point, your average velocity is zero because your total displacement is zero!</li></ul>",
+      "content_fr": "En physique, les mots ont un sens précis.<br><ul><li><b>La vitesse moyenne (Speed) :</b> C'est une grandeur <i>scalaire</i>. Elle indique seulement la rapidité d'un objet (ex. : 50 km/h).</li><li><b>La vitesse vectorielle (Velocity) :</b> C'est une grandeur <i>vectorielle</i>. Elle indique la rapidité ET la direction (ex. : 50 km/h vers le Nord). Si vous courez en cercle et revenez à votre point de départ, votre vitesse vectorielle moyenne est de zéro car votre déplacement total est nul !</li></ul>",
+      "content_en": "In physics, words have precise meanings.<br><ul><li><b>Speed:</b> It is a <i>scalar</i> quantity. It only tells you how fast an object is moving (e.g., 50 km/h).</li><li><b>Velocity:</b> It is a <i>vector</i> quantity. It tells you the speed AND the direction (e.g., 50 km/h North). If you run in a circle and return to your start point, your average velocity is zero because your total displacement is zero!</li></ul>",
+      "content_de": "In der Physik haben Wörter genaue Bedeutungen.<br><ul><li><b>Tempo (Speed):</b> Es ist eine <i>skalare</i> Größe. Es gibt nur an, wie schnell sich ein Objekt bewegt (z. B. 50 km/h).</li><li><b>Geschwindigkeit (Velocity):</b> Es ist eine <i>vektorielle</i> Größe. Sie gibt das Tempo UND die Richtung an (z. B. 50 km/h nach Norden). Wenn du im Kreis läufst und zum Startpunkt zurückkehrst, ist deine Durchschnittsgeschwindigkeit null, weil deine Gesamtverschiebung null ist!</li></ul>"
+    },
+    {
+      "type": "formula",
+      "heading": "Velocity Formula",
+      "heading_fr": "Formule de la Vitesse",
+      "heading_en": "Velocity Formula",
+      "heading_de": "Geschwindigkeitsformel",
+      "content": "Average Velocity ($v$) is Displacement ($\\Delta x$) divided by Time ($\\Delta t$):",
+      "content_fr": "La vitesse vectorielle moyenne ($v$) est le déplacement ($\\Delta x$) divisé par le temps ($\\Delta t$) :",
+      "content_en": "Average Velocity ($v$) is Displacement ($\\Delta x$) divided by Time ($\\Delta t$):",
+      "content_de": "Die Durchschnittsgeschwindigkeit ($v$) ist die Verschiebung ($\\Delta x$) geteilt durch die Zeit ($\\Delta t$):",
+      "latex": "v = \\frac{\\Delta x}{\\Delta t}"
+    },
+    {
+      "type": "example",
+      "heading": "2. Acceleration: The Rate of Change",
+      "heading_fr": "2. Accélération : Le Taux de Variation",
+      "heading_en": "2. Acceleration: The Rate of Change",
+      "heading_de": "2. Beschleunigung: Die Änderungsrate",
+      "content": "Acceleration tells us how quickly the velocity is changing. If a car goes from 0 to 20 m/s in 5 seconds, what is its acceleration?<br><br><b>Step 1:</b> Change in velocity = $20 - 0 = 20$ m/s.<br><b>Step 2:</b> Time taken = 5 s.<br><b>Step 3:</b> $a = \\frac{20}{5} = 4$ m/s².<br><br>This means the car's speed increases by 4 m/s every second.",
+      "content_fr": "L'accélération indique à quelle vitesse la vitesse vectorielle change. Si une voiture passe de 0 à 20 m/s en 5 secondes, quelle est son accélération ?<br><br><b>Étape 1 :</b> Variation de la vitesse = $20 - 0 = 20$ m/s.<br><b>Étape 2 :</b> Temps écoulé = 5 s.<br><b>Étape 3 :</b> $a = \\frac{20}{5} = 4$ m/s².<br><br>Cela signifie que la vitesse de la voiture augmente de 4 m/s à chaque seconde.",
+      "content_en": "Acceleration tells us how quickly the velocity is changing. If a car goes from 0 to 20 m/s in 5 seconds, what is its acceleration?<br><br><b>Step 1:</b> Change in velocity = $20 - 0 = 20$ m/s.<br><b>Step 2:</b> Time taken = 5 s.<br><b>Step 3:</b> $a = \\frac{20}{5} = 4$ m/s².<br><br>This means the car's speed increases by 4 m/s every second.",
+      "content_de": "Die Beschleunigung gibt an, wie schnell sich die Geschwindigkeit ändert. Wenn ein Auto in 5 Sekunden von 0 auf 20 m/s beschleunigt, wie groß ist seine Beschleunigung?<br><br><b>Schritt 1:</b> Geschwindigkeitsänderung = $20 - 0 = 20$ m/s.<br><b>Schritt 2:</b> Benötigte Zeit = 5 s.<br><b>Schritt 3:</b> $a = \\frac{20}{5} = 4$ m/s².<br><br>Das bedeutet, dass die Geschwindigkeit des Autos jede Sekunde um 4 m/s zunimmt."
+    },
+    {
+      "type": "text",
+      "heading": "3. Understanding Motion Graphs (s-t & v-t)",
+      "heading_fr": "3. Comprendre les Graphiques (s-t et v-t)",
+      "heading_en": "3. Understanding Motion Graphs (s-t & v-t)",
+      "heading_de": "3. Bewegungsdiagramme Verstehen (s-t & v-t)",
+      "content": "Graphs visually represent motion:<br><br><b>Distance-Time Graph (s-t):</b><br>- A flat horizontal line means the object is <b>stationary</b> (not moving).<br>- A straight diagonal line means <b>constant speed</b>.<br>- The <b>gradient (slope)</b> of the line equals the speed.<br><br><b>Velocity-Time Graph (v-t):</b><br>- A flat horizontal line means <b>constant velocity</b> (no acceleration).<br>- A straight diagonal line means <b>constant acceleration</b>.<br>- The <b>gradient (slope)</b> equals the acceleration.<br>- The <b>area under the graph</b> equals the total distance traveled (displacement)!",
+      "content_fr": "Les graphiques représentent visuellement le mouvement :<br><br><b>Graphique Position-Temps (s-t) :</b><br>- Une ligne horizontale plate signifie que l'objet est <b>immobile</b>.<br>- Une ligne droite diagonale signifie une <b>vitesse constante</b>.<br>- La <b>pente (gradient)</b> de la ligne est égale à la vitesse.<br><br><b>Graphique Vitesse-Temps (v-t) :</b><br>- Une ligne horizontale plate signifie une <b>vitesse constante</b> (accélération nulle).<br>- Une ligne droite diagonale signifie une <b>accélération constante</b>.<br>- La <b>pente</b> est égale à l'accélération.<br>- <b>L'aire sous la courbe</b> est égale à la distance totale parcourue (déplacement) !",
+      "content_en": "Graphs visually represent motion:<br><br><b>Distance-Time Graph (s-t):</b><br>- A flat horizontal line means the object is <b>stationary</b> (not moving).<br>- A straight diagonal line means <b>constant speed</b>.<br>- The <b>gradient (slope)</b> of the line equals the speed.<br><br><b>Velocity-Time Graph (v-t):</b><br>- A flat horizontal line means <b>constant velocity</b> (no acceleration).<br>- A straight diagonal line means <b>constant acceleration</b>.<br>- The <b>gradient (slope)</b> equals the acceleration.<br>- The <b>area under the graph</b> equals the total distance traveled (displacement)!",
+      "content_de": "Diagramme stellen Bewegung visuell dar:<br><br><b>Weg-Zeit-Diagramm (s-t):</b><br>- Eine flache horizontale Linie bedeutet, dass das Objekt <b>ruht</b>.<br>- Eine gerade diagonale Linie bedeutet <b>konstante Geschwindigkeit</b>.<br>- Die <b>Steigung</b> der Linie entspricht der Geschwindigkeit.<br><br><b>Geschwindigkeit-Zeit-Diagramm (v-t):</b><br>- Eine flache horizontale Linie bedeutet <b>konstante Geschwindigkeit</b> (keine Beschleunigung).<br>- Eine gerade diagonale Linie bedeutet <b>konstante Beschleunigung</b>.<br>- Die <b>Steigung</b> entspricht der Beschleunigung.<br>- Die <b>Fläche unter dem Graphen</b> entspricht der zurückgelegten Gesamtstrecke!"
+    },
+    {
+      "type": "text",
+      "heading": "4. Mass vs. Weight: The Gravity Factor",
+      "heading_fr": "4. Masse vs Poids : Le Facteur de la Gravité",
+      "heading_en": "4. Mass vs. Weight: The Gravity Factor",
+      "heading_de": "4. Masse vs. Gewicht: Der Schwerkraftfaktor",
+      "content": "These terms are often confused in daily life, but they are completely different in physics:<br><br>- <b>Mass (m):</b> The amount of matter inside an object. Measured in Kilograms (kg). Your mass <i>never</i> changes, whether you are on Earth, the Moon, or floating in deep space.<br>- <b>Weight (W):</b> The force of gravity pulling down on an object's mass. Measured in Newtons (N). Because gravity changes depending on the planet, your weight changes too!",
+      "content_fr": "Ces termes sont souvent confondus dans la vie quotidienne, mais ils sont complètement différents en physique :<br><br>- <b>Masse (m) :</b> La quantité de matière contenue dans un objet. Mesurée en Kilogrammes (kg). Votre masse ne change <i>jamais</i>, que vous soyez sur Terre, sur la Lune ou dans l'espace.<br>- <b>Poids (W) :</b> La force de gravité qui tire la masse d'un objet vers le bas. Mesuré en Newtons (N). Puisque la gravité change selon la planète, votre poids change aussi !",
+      "content_en": "These terms are often confused in daily life, but they are completely different in physics:<br><br>- <b>Mass (m):</b> The amount of matter inside an object. Measured in Kilograms (kg). Your mass <i>never</i> changes, whether you are on Earth, the Moon, or floating in deep space.<br>- <b>Weight (W):</b> The force of gravity pulling down on an object's mass. Measured in Newtons (N). Because gravity changes depending on the planet, your weight changes too!",
+      "content_de": "Diese Begriffe werden im Alltag oft verwechselt, aber in der Physik sind sie völlig unterschiedlich:<br><br>- <b>Masse (m):</b> Die Menge an Materie in einem Objekt. Gemessen in Kilogramm (kg). Deine Masse ändert sich <i>nie</i>, egal ob du auf der Erde, dem Mond oder im Weltraum bist.<br>- <b>Gewicht (W):</b> Die Schwerkraft, die die Masse eines Objekts nach unten zieht. Gemessen in Newton (N). Da sich die Schwerkraft je nach Planet ändert, ändert sich auch dein Gewicht!"
+    },
+    {
+      "type": "formula",
+      "heading": "Calculating Weight",
+      "heading_fr": "Calculer le Poids",
+      "heading_en": "Calculating Weight",
+      "heading_de": "Gewicht Berechnen",
+      "content": "Weight is Mass multiplied by the Gravitational field strength ($g$, which is roughly $9.8$ m/s² on Earth).",
+      "content_fr": "Le poids est la masse multipliée par l'intensité de la pesanteur ($g$, qui est d'environ $9{,}8$ m/s² sur Terre).",
+      "content_en": "Weight is Mass multiplied by the Gravitational field strength ($g$, which is roughly $9.8$ m/s² on Earth).",
+      "content_de": "Das Gewicht ist die Masse multipliziert mit der Gravitationsfeldstärke ($g$, die auf der Erde etwa $9{,}8$ m/s² beträgt).",
+      "latex": "W = m \\times g"
+    },
+    {
+      "type": "text",
+      "heading": "5. Newton's Three Laws of Motion",
+      "heading_fr": "5. Les Trois Lois du Mouvement de Newton",
+      "heading_en": "5. Newton's Three Laws of Motion",
+      "heading_de": "5. Newtons Drei Bewegungsgesetze",
+      "content": "<ol><li><b>First Law (Inertia):</b> An object at rest stays at rest, and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force. (This is why you lurch forward when a car brakes suddenly!)</li><li><b>Second Law (F=ma):</b> The acceleration of an object depends on the mass of the object and the amount of force applied. A heavier object requires more force to move.</li><li><b>Third Law (Action/Reaction):</b> For every action, there is an equal and opposite reaction. When you push on a wall, the wall pushes back on you with the exact same amount of force.</li></ol>",
+      "content_fr": "<ol><li><b>Première loi (Inertie) :</b> Un objet au repos reste au repos, et un objet en mouvement reste en mouvement à la même vitesse et dans la même direction, sauf si une force non équilibrée agit sur lui. (C'est pourquoi vous êtes projeté vers l'avant quand une voiture freine brusquement !)</li><li><b>Deuxième loi (F=ma) :</b> L'accélération d'un objet dépend de sa masse et de la force appliquée. Un objet lourd nécessite plus de force pour se déplacer.</li><li><b>Troisième loi (Action/Réaction) :</b> Pour chaque action, il y a une réaction égale et opposée. Quand vous poussez un mur, le mur vous repousse avec exactement la même force.</li></ol>",
+      "content_en": "<ol><li><b>First Law (Inertia):</b> An object at rest stays at rest, and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force. (This is why you lurch forward when a car brakes suddenly!)</li><li><b>Second Law (F=ma):</b> The acceleration of an object depends on the mass of the object and the amount of force applied. A heavier object requires more force to move.</li><li><b>Third Law (Action/Reaction):</b> For every action, there is an equal and opposite reaction. When you push on a wall, the wall pushes back on you with the exact same amount of force.</li></ol>",
+      "content_de": "<ol><li><b>Erstes Gesetz (Trägheit):</b> Ein ruhendes Objekt bleibt in Ruhe, und ein bewegtes Objekt bleibt mit derselben Geschwindigkeit und in derselben Richtung in Bewegung, es sei denn, es wirkt eine unausgeglichene Kraft darauf ein.</li><li><b>Zweites Gesetz (F=ma):</b> Die Beschleunigung eines Objekts hängt von seiner Masse und der ausgeübten Kraft ab. Ein schwereres Objekt erfordert mehr Kraft, um bewegt zu werden.</li><li><b>Drittes Gesetz (Aktion/Reaktion):</b> Für jede Aktion gibt es eine gleiche und entgegengesetzte Reaktion. Wenn du gegen eine Wand drückst, drückt die Wand mit genau derselben Kraft zurück.</li></ol>"
+    },
+    {
+      "type": "text",
+      "heading": "6. Friction: The Opposing Force",
+      "heading_fr": "6. Les Frottements : La Force Opposée",
+      "heading_en": "6. Friction: The Opposing Force",
+      "heading_de": "6. Reibung: Die Entgegenwirkende Kraft",
+      "content": "<b>Friction</b> is a force that opposes motion between two surfaces that are touching.<br>- <b>Static Friction:</b> The force that keeps an object at rest. It's the reason a heavy box is hard to start pushing.<br>- <b>Kinetic (Sliding) Friction:</b> The force that slows down moving objects. It's the reason a sliding book eventually stops.<br>Air resistance (drag) is also a type of fluid friction. Without friction, cars couldn't drive, and you couldn't even walk without slipping!",
+      "content_fr": "Les <b>frottements</b> (ou la friction) sont une force qui s'oppose au mouvement entre deux surfaces en contact.<br>- <b>Frottement statique :</b> La force qui maintient un objet au repos. C'est pourquoi une boîte lourde est difficile à mettre en mouvement.<br>- <b>Frottement cinétique :</b> La force qui ralentit les objets en mouvement. C'est pourquoi un livre qui glisse finit par s'arrêter.<br>La résistance de l'air est aussi un type de frottement fluide. Sans frottement, les voitures ne pourraient pas rouler et vous ne pourriez même pas marcher sans glisser !",
+      "content_en": "<b>Friction</b> is a force that opposes motion between two surfaces that are touching.<br>- <b>Static Friction:</b> The force that keeps an object at rest. It's the reason a heavy box is hard to start pushing.<br>- <b>Kinetic (Sliding) Friction:</b> The force that slows down moving objects. It's the reason a sliding book eventually stops.<br>Air resistance (drag) is also a type of fluid friction. Without friction, cars couldn't drive, and you couldn't even walk without slipping!",
+      "content_de": "<b>Reibung</b> ist eine Kraft, die sich der Bewegung zwischen zwei sich berührenden Oberflächen widersetzt.<br>- <b>Haftreibung (statisch):</b> Die Kraft, die ein Objekt in Ruhe hält. Sie ist der Grund, warum eine schwere Kiste schwer anzuschieben ist.<br>- <b>Gleitreibung (kinetisch):</b> Die Kraft, die bewegte Objekte abbremst. Sie ist der Grund, warum ein rutschendes Buch schließlich stehen bleibt.<br>Luftwiderstand ist ebenfalls eine Art Flüssigkeitsreibung. Ohne Reibung könnten Autos nicht fahren, und du könntest nicht einmal gehen, ohne auszurutschen!"
+    },
+    {
+      "type": "quiz",
+      "heading": "Mastery Quiz: Motion & Dynamics",
+      "heading_fr": "Quiz de Maîtrise : Mouvement et Dynamique",
+      "heading_en": "Mastery Quiz: Motion & Dynamics",
+      "heading_de": "Meisterschafts-Quiz: Bewegung & Dynamik",
+      "questions": [
+        {
+          "question": "Which of the following includes both magnitude (speed) AND direction?",
+          "question_fr": "Laquelle de ces grandeurs inclut à la fois une valeur (rapidité) ET une direction ?",
+          "question_en": "Which of the following includes both magnitude (speed) AND direction?",
+          "question_de": "Welche der folgenden Größen beinhaltet sowohl Betrag (Tempo) ALS AUCH Richtung?",
+          "options": ["Distance", "Average Speed", "Velocity", "Mass"],
+          "options_fr": ["La distance", "La vitesse moyenne", "La vitesse vectorielle", "La masse"],
+          "correct": 2
+        },
+        {
+          "question": "A runner accelerates from rest (0 m/s) to 10 m/s in 2 seconds. What is their acceleration?",
+          "question_fr": "Un coureur accélère du repos (0 m/s) à 10 m/s en 2 secondes. Quelle est son accélération ?",
+          "question_en": "A runner accelerates from rest (0 m/s) to 10 m/s in 2 seconds. What is their acceleration?",
+          "question_de": "Ein Läufer beschleunigt aus dem Stand (0 m/s) in 2 Sekunden auf 10 m/s. Wie groß ist seine Beschleunigung?",
+          "options": ["5 m/s²", "10 m/s²", "20 m/s²", "2 m/s²"],
+          "options_fr": ["5 m/s²", "10 m/s²", "20 m/s²", "2 m/s²"],
+          "correct": 0
+        },
+        {
+          "question": "On a Velocity-Time (v-t) graph, what does the AREA under the line represent?",
+          "question_fr": "Sur un graphique vitesse-temps (v-t), que représente l'AIRE sous la courbe ?",
+          "question_en": "On a Velocity-Time (v-t) graph, what does the AREA under the line represent?",
+          "question_de": "Was stellt die FLÄCHE unter der Linie in einem Geschwindigkeit-Zeit-Diagramm (v-t) dar?",
+          "options": ["Acceleration", "Time", "Total displacement (distance)", "Friction"],
+          "options_fr": ["L'accélération", "Le temps", "Le déplacement total (distance)", "Le frottement"],
+          "correct": 2
+        },
+        {
+          "question": "If you travel to Mars, what happens to your Mass and your Weight?",
+          "question_fr": "Si vous voyagez sur Mars, qu'arrive-t-il à votre masse et à votre poids ?",
+          "question_en": "If you travel to Mars, what happens to your Mass and your Weight?",
+          "question_de": "Wenn du zum Mars reist, was passiert mit deiner Masse und deinem Gewicht?",
+          "options": [
+            "Both change.",
+            "Both stay the same.",
+            "Weight stays the same, Mass changes.",
+            "Mass stays the same, Weight changes."
+          ],
+          "options_fr": [
+            "Les deux changent.",
+            "Les deux restent identiques.",
+            "Le poids reste le même, la masse change.",
+            "La masse reste la même, le poids change."
+          ],
+          "correct": 3
+        },
+        {
+          "question": "What is the weight of a 10 kg box on Earth? (Assuming g = 9.8 m/s²)",
+          "question_fr": "Quel est le poids d'une boîte de 10 kg sur Terre ? (En supposant g = 9,8 m/s²)",
+          "question_en": "What is the weight of a 10 kg box on Earth? (Assuming g = 9.8 m/s²)",
+          "question_de": "Was ist das Gewicht einer 10 kg schweren Kiste auf der Erde? (Angenommen g = 9,8 m/s²)",
+          "options": ["10 N", "9.8 N", "98 N", "1000 N"],
+          "options_fr": ["10 N", "9,8 N", "98 N", "1000 N"],
+          "correct": 2
+        },
+        {
+          "question": "Newton's First Law is also famously known as the Law of...",
+          "question_fr": "La première loi de Newton est aussi célèbre sous le nom de Loi de...",
+          "question_en": "Newton's First Law is also famously known as the Law of...",
+          "question_de": "Das erste Newtonsche Gesetz ist auch bekannt als das Gesetz der...",
+          "options": ["Gravity", "Inertia", "Friction", "Thermodynamics"],
+          "options_fr": ["La Gravité", "L'Inertie", "La Friction", "La Thermodynamique"],
+          "correct": 1
+        },
+        {
+          "question": "According to Newton's Second Law, if you apply the same force to a 10kg bowling ball and a 1kg tennis ball, what happens?",
+          "question_fr": "Selon la 2e loi de Newton, si vous appliquez la même force à une boule de bowling de 10 kg et à une balle de tennis de 1 kg, que se passe-t-il ?",
+          "question_en": "According to Newton's Second Law, if you apply the same force to a 10kg bowling ball and a 1kg tennis ball, what happens?",
+          "question_de": "Was passiert nach Newtons zweitem Gesetz, wenn du dieselbe Kraft auf eine 10 kg schwere Bowlingkugel und einen 1 kg schweren Tennisball ausübst?",
+          "options": [
+            "The bowling ball accelerates faster.",
+            "They both accelerate at the exact same rate.",
+            "The tennis ball accelerates faster.",
+            "Neither will move."
+          ],
+          "options_fr": [
+            "La boule de bowling accélère plus vite.",
+            "Les deux accélèrent exactement au même rythme.",
+            "La balle de tennis accélère plus vite.",
+            "Aucune ne bougera."
+          ],
+          "correct": 2
+        },
+        {
+          "question": "A rocket launching into space by pushing exhaust gases downward is a perfect example of:",
+          "question_fr": "Une fusée décollant dans l'espace en poussant des gaz d'échappement vers le bas est un parfait exemple de :",
+          "question_en": "A rocket launching into space by pushing exhaust gases downward is a perfect example of:",
+          "question_de": "Eine Rakete, die ins All startet, indem sie Abgase nach unten drückt, ist ein perfektes Beispiel für:",
+          "options": [
+            "Newton's 1st Law",
+            "Newton's 2nd Law",
+            "Newton's 3rd Law (Action/Reaction)",
+            "Static Friction"
+          ],
+          "options_fr": [
+            "La 1ère loi de Newton",
+            "La 2ème loi de Newton",
+            "La 3ème loi de Newton (Action/Réaction)",
+            "Frottement statique"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What type of friction must you overcome to get a completely stationary piano to start sliding across the floor?",
+          "question_fr": "Quel type de frottement devez-vous surmonter pour commencer à faire glisser un piano complètement immobile sur le sol ?",
+          "question_en": "What type of friction must you overcome to get a completely stationary piano to start sliding across the floor?",
+          "question_de": "Welche Art von Reibung musst du überwinden, damit ein völlig unbewegliches Klavier über den Boden rutscht?",
+          "options": ["Kinetic Friction", "Static Friction", "Rolling Friction", "Fluid Friction"],
+          "options_fr": ["Frottement cinétique", "Frottement statique", "Frottement de roulement", "Frottement fluide"],
+          "correct": 1
+        },
+        {
+          "question": "If an object is moving through space and the net force acting on it is exactly ZERO, what does it do?",
+          "question_fr": "Si un objet se déplace dans l'espace et que la force nette agissant sur lui est exactement de ZÉRO, que fait-il ?",
+          "question_en": "If an object is moving through space and the net force acting on it is exactly ZERO, what does it do?",
+          "question_de": "Wenn sich ein Objekt durch den Raum bewegt und die auf es wirkende Nettokraft genau NULL ist, was tut es dann?",
+          "options": [
+            "It eventually slows down and stops.",
+            "It turns around.",
+            "It continues moving at a constant velocity forever.",
+            "It instantly stops."
+          ],
+          "options_fr": [
+            "Il finit par ralentir et s'arrêter.",
+            "Il fait demi-tour.",
+            "Il continue de bouger à une vitesse constante pour toujours.",
+            "Il s'arrête instantanément."
+          ],
+          "correct": 2
+        }
+      ]
+    }
+  ]
+}
