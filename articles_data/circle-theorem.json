@@ -1,0 +1,73 @@
+{
+  "title": "Circle Theorems",
+  "title_fr": "Théorèmes du Cercle",
+  "title_de": "Kreissätze",
+  "lastUpdated": "2026-03-14",
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Geometry: Circle Theorems",
+      "heading_fr": "Géométrie : Théorèmes du Cercle",
+      "heading_de": "Geometrie: Kreissätze",
+      "content": "Circle theorems are essential rules that help us calculate missing angles and lengths within circles using chords, tangents, and radii.",
+      "content_fr": "Les théorèmes du cercle sont des règles essentielles qui nous aident à calculer les angles et les longueurs manquants dans les cercles à l'aide de cordes, de tangentes et de rayons.",
+      "content_de": "Kreissätze sind wesentliche Regeln, die uns helfen, fehlende Winkel und Längen in Kreisen mithilfe von Sehnen, Tangenten und Radien zu berechnen."
+    },
+    {
+      "type": "text",
+      "heading": "1. Angle at the Centre & Semicircles",
+      "heading_fr": "1. Angle au Centre et Semicercles",
+      "content": "<b>Angle at the Centre:</b> The angle at the centre is exactly twice the angle at the circumference when subtended by the same arc.<br><br><b>Angle in a Semicircle:</b> Any angle drawn from the ends of a diameter to the circumference is always 90°.",
+      "content_fr": "<b>Angle au centre :</b> L'angle au centre est exactement le double de l'angle à la circonférence lorsqu'il est sous-tendu par le même arc.<br><br><b>Angle dans un demi-cercle :</b> Tout angle tracé depuis les extrémités d'un diamètre jusqu'à la circonférence est toujours de 90°."
+    },
+    {
+      "type": "formula",
+      "heading": "Central Angle Rule",
+      "latex": "\\text{Angle at Centre} = 2 \\times \\text{Angle at Circumference}"
+    },
+    {
+      "type": "text",
+      "heading": "2. Tangents and Radii",
+      "heading_fr": "2. Tangentes et Rayons",
+      "content": "<b>Tangent-Radius Theorem:</b> A tangent meets a radius at exactly 90°.<br><br><b>Two Tangents Theorem:</b> Two tangents drawn from the same external point to a circle are always equal in length.",
+      "content_fr": "<b>Théorème Tangente-Rayon :</b> Une tangente rencontre un rayon exactement à 90°.<br><br><b>Théorème des deux tangentes :</b> Deux tangentes tracées d'un même point extérieur à un cercle sont toujours de longueur égale."
+    },
+    {
+      "type": "text",
+      "heading": "3. Cyclic Quadrilaterals",
+      "heading_fr": "3. Quadrilatères Cycliques",
+      "content": "In a cyclic quadrilateral (where all four corners touch the circle), the opposite angles always add up to 180°.",
+      "content_fr": "Dans un quadrilatère cyclique (où les quatre sommets touchent le cercle), les angles opposés totalisent toujours 180°."
+    },
+    {
+      "type": "formula",
+      "heading": "Opposite Angles Sum",
+      "latex": "A + C = 180^\\circ \\quad \\text{and} \\quad B + D = 180^\\circ"
+    },
+    {
+      "type": "quiz",
+      "heading": "Circle Theorems Quiz",
+      "heading_fr": "Quiz sur les Théorèmes du Cercle",
+      "questions": [
+        {
+          "question": "What is the angle in a semicircle?",
+          "question_fr": "Quel est l'angle dans un demi-cercle ?",
+          "options": ["45°", "90°", "180°", "360°"],
+          "correct": 1
+        },
+        {
+          "question": "If the angle at the centre is 100°, what is the angle at the circumference?",
+          "question_fr": "Si l'angle au centre est de 100°, quel est l'angle à la circonférence ?",
+          "options": ["200°", "100°", "50°", "25°"],
+          "correct": 2
+        },
+        {
+          "question": "The angle between a tangent and a radius is always...",
+          "question_fr": "L'angle entre une tangente et un rayon est toujours...",
+          "options": ["Acute", "Obtuse", "Perpendicular (90°)", "Parallel"],
+          "correct": 2
+        }
+      ]
+    }
+  ]
+}
