@@ -1,0 +1,285 @@
+{
+  "title": "Earth Structure & Natural Hazards",
+  "title_fr": "Structure de la Terre et Risques Naturels",
+  "title_en": "Earth Structure & Natural Hazards",
+  "title_de": "Erdaufbau & Naturgefahren",
+  "lastUpdated": "2026-04-22",
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "C1: The Structure of the Earth",
+      "heading_fr": "C1 : La structure de la Terre",
+      "heading_en": "C1: The Structure of the Earth",
+      "heading_de": "C1: Der Aufbau der Erde",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Earth-crust-cutaway-english.svg/500px-Earth-crust-cutaway-english.svg.png",
+      "content": "The Earth is not a solid rock; it is organized into several internal layers or envelopes. From the center to the outside, we have the <b>Core</b> (inner solid, outer liquid), the <b>Mantle</b>, and the thin <b>Crust</b>. <br><br>For understanding plate tectonics, two specific mechanical layers are absolutely crucial:<br><ul><li><b>The Lithosphere:</b> This is the rigid, brittle outer layer. It is composed of the crust and the very uppermost solid part of the mantle. It is fractured into large puzzle pieces called <b>tectonic plates</b>.</li><li><b>The Asthenosphere:</b> This is the semi-fluid, \"plastic\" layer of the mantle directly below the lithosphere. Because it can flow very slowly over time, the solid lithospheric plates float and move on top of it.</li></ul>",
+      "content_fr": "La Terre n'est pas un bloc de roche solide ; elle possède une structure interne organisée en plusieurs enveloppes. Du centre vers l'extérieur, on trouve le <b>Noyau</b>, le <b>Manteau</b> et la fine <b>Croûte terrestre</b>. <br><br>Pour comprendre la tectonique des plaques, deux couches mécaniques sont cruciales :<br><ul><li><b>La Lithosphère :</b> C'est la couche externe rigide. Elle est composée de la croûte et de la partie supérieure solide du manteau. Elle est découpée en grandes pièces de puzzle appelées <b>plaques tectoniques</b>.</li><li><b>L'Asthénosphère :</b> C'est la couche semi-fluide et \"plastique\" du manteau située sous la lithosphère. Parce qu'elle peut se déformer lentement, les plaques lithosphériques flottent et se déplacent dessus.</li></ul>"
+    },
+    {
+      "type": "text",
+      "heading": "The Tectonic Engine",
+      "heading_fr": "Le moteur de la tectonique",
+      "heading_en": "The Tectonic Engine",
+      "content": "Why do these massive plates move? The engine driving plate tectonics is found in the mantle: <b>convection currents</b> (mouvements de convection). <br><br>Extreme heat from the Earth's core warms the deep mantle rock, making it less dense so it rises. As it approaches the crust, it cools down, becomes denser, and sinks back down. This continuous rising and sinking creates a giant \"conveyor belt\" (tapis roulant) effect that drags the lithospheric plates along the surface.<br><br><b>Major Plates to Know:</b> The Earth's surface is divided into major plates such as the <i>Eurasian Plate</i>, the <i>Pacific Plate</i>, and the <i>African Plate</i>. Their internal movements cause visible consequences on the surface: mountains, earthquakes, and volcanoes.",
+      "content_fr": "Pourquoi ces immenses plaques bougent-elles ? Le moteur de la tectonique se trouve dans le manteau : les <b>mouvements de convection</b>. <br><br>La chaleur extrême du noyau réchauffe la roche profonde du manteau, la rendant moins dense, ce qui la fait remonter. En s'approchant de la croûte, elle se refroidit, devient plus dense et replonge. Cette boucle continue crée un effet de \"tapis roulant\" qui déplace les plaques lithosphériques à la surface.<br><br><b>Principales plaques à connaître :</b> La surface de la Terre est divisée en grandes plaques comme la <i>plaque eurasienne</i>, la <i>plaque pacifique</i> et la <i>plaque africaine</i>. Leurs mouvements internes entraînent des conséquences visibles en surface : montagnes, séismes et volcans."
+    },
+    {
+      "type": "quiz",
+      "heading": "Mini-Quiz 1: Earth's Structure & Engine",
+      "heading_fr": "Mini-Quiz 1 : Structure et Moteur",
+      "questions": [
+        {
+          "question": "Which layer of the Earth is semi-fluid and allows the tectonic plates to float and move?",
+          "question_fr": "Quelle couche de la Terre est semi-fluide et permet aux plaques tectoniques de flotter et de se déplacer ?",
+          "options": ["The Core / Le Noyau", "The Asthenosphere / L'Asthénosphère", "The Lithosphere / La Lithosphère", "The Crust / La Croûte"],
+          "correct": 1
+        },
+        {
+          "question": "What is the primary \"engine\" that drives the movement of tectonic plates?",
+          "question_fr": "Quel est le \"moteur\" principal qui entraîne le mouvement des plaques tectoniques ?",
+          "options": [
+            "Ocean waves and tides",
+            "The Earth's rotation",
+            "Convection currents in the mantle",
+            "Magnetic forces from the poles"
+          ],
+          "options_fr": [
+            "Les vagues et les marées",
+            "La rotation de la Terre",
+            "Les mouvements de convection dans le manteau",
+            "Les forces magnétiques des pôles"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "C2: Divergent Movements & Oceanic Accretion",
+      "heading_fr": "C2 : Mouvements Divergents et Accrétion Océanique",
+      "heading_en": "C2: Divergent Movements & Oceanic Accretion",
+      "image": "https://www.larousse.fr/encyclopedie/data/animations/1100517-Expansion_des_fonds_oc%C3%A9aniques.jpg",
+      "content": "There are three main types of plate boundaries. The first is <b>Divergence</b>, where two plates move apart. <br><br>When two oceanic plates pull apart, magma from the mantle rises to fill the gap. This process is called <b>Oceanic Accretion</b>. As the magma cools, it forms a giant underwater mountain range called a <b>Mid-Ocean Ridge (Dorsale océanique)</b>. This continuous process creates brand new oceanic crust and physically widens the ocean basin over millions of years (Seafloor Spreading).",
+      "content_fr": "Il existe trois grands types de mouvements de plaques. Le premier est la <b>Divergence</b>, où deux plaques s'écartent l'une de l'autre. <br><br>Lorsque deux plaques océaniques s'écartent, le magma du manteau remonte pour combler le vide. Ce processus est appelé <b>Accrétion océanique</b>. En refroidissant, le magma forme une immense chaîne de montagnes sous-marines appelée <b>Dorsale océanique</b>. Ce processus continu crée une nouvelle croûte océanique et élargit physiquement l'océan au fil des millions d'années (Expansion des fonds océaniques)."
+    },
+    {
+      "type": "text",
+      "heading": "C2: Convergent Movements (Subduction & Collision)",
+      "heading_fr": "C2 : Mouvements Convergents (Subduction et Collision)",
+      "heading_en": "C2: Convergent Movements (Subduction & Collision)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Active_Margin.svg/500px-Active_Margin.svg.png",
+      "content": "The second type is <b>Convergence</b>, where plates crash into each other. This creates massive reliefs and destroys old crust. There are two main scenarios:<br><br><b>1. Subduction:</b> When a heavy, dense oceanic plate collides with a lighter continental plate (or another oceanic plate), the dense plate sinks (dives) deep into the mantle beneath the lighter one. This creates a deep ocean trench and melts the sinking rock, fueling explosive volcanoes on the surface.<br><br><b>2. Continental Collision:</b> When two continental plates meet, neither wants to sink because they are both light and buoyant. Instead, they crumple and fold upwards, creating massive, very high mountain ranges (e.g., the Himalayas, the Alps).",
+      "content_fr": "Le deuxième type est la <b>Convergence</b>, où les plaques se rencontrent. Cela crée des reliefs massifs et détruit la vieille croûte. Il y a deux scénarios principaux :<br><br><b>1. La Subduction :</b> Lorsqu'une plaque océanique, très dense, percute une plaque continentale plus légère (ou une autre plaque océanique), la plaque dense s'enfonce (plonge) profondément dans le manteau sous l'autre. Cela crée une fosse océanique profonde et fait fondre la roche, alimentant des volcans explosifs en surface.<br><br><b>2. La Collision continentale :</b> Lorsque deux plaques continentales se rencontrent, aucune ne veut s'enfoncer car elles sont légères. À la place, elles s'écrasent et se plissent vers le haut, formant de très hautes chaînes de montagnes (ex: l'Himalaya, les Alpes)."
+    },
+    {
+      "type": "quiz",
+      "heading": "Mini-Quiz 2: Plate Boundaries",
+      "heading_fr": "Mini-Quiz 2 : Frontières de Plaques",
+      "questions": [
+        {
+          "question": "What is formed during Oceanic Accretion at a divergent boundary?",
+          "question_fr": "Que se forme-t-il lors de l'accrétion océanique à une frontière divergente ?",
+          "options": [
+            "A high continental mountain like the Himalayas",
+            "A deep ocean trench",
+            "A Mid-Ocean Ridge (Dorsale océanique) and new ocean floor",
+            "A massive subduction zone"
+          ],
+          "options_fr": [
+            "Une haute montagne continentale comme l'Himalaya",
+            "Une fosse océanique profonde",
+            "Une dorsale océanique et un nouveau fond marin",
+            "Une zone de subduction massive"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What happens during Subduction?",
+          "question_fr": "Que se passe-t-il lors de la Subduction ?",
+          "options": [
+            "Two continental plates fold upwards into mountains.",
+            "A dense oceanic plate sinks beneath another plate into the mantle.",
+            "Plates slide past each other smoothly.",
+            "Magma rises to push two plates apart."
+          ],
+          "options_fr": [
+            "Deux plaques continentales se plissent pour former des montagnes.",
+            "Une plaque océanique dense s'enfonce sous une autre plaque dans le manteau.",
+            "Les plaques coulissent doucement l'une contre l'autre.",
+            "Le magma remonte pour écarter deux plaques."
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Earthquakes: Magnitude vs Intensity",
+      "heading_fr": "Séismes : Magnitude vs Intensité",
+      "heading_en": "Earthquakes: Magnitude vs Intensity",
+      "image": "https://basecampconnect.com/wp-content/uploads/2022/01/eartquake20frequency20and20destructive20power.jpg",
+      "content": "An earthquake (séisme) is a sudden release of energy caused by plates getting stuck (due to friction) and suddenly slipping. <br><br><b>Anatomy of a Quake:</b><br>- <b>The Focus (Foyer):</b> The exact point deep underground where the rock ruptures.<br>- <b>The Epicenter (Épicentre):</b> The point on the Earth's surface directly vertically above the focus. This is where shaking is usually strongest.<br><br><b>Measuring Earthquakes:</b><br>- <b>Magnitude:</b> Measures the total <i>energy released</i> at the source (measured by a seismograph, often on the Richter scale). It is an absolute number; an earthquake has only ONE magnitude.<br>- <b>Intensity:</b> Measures the <i>visible damage and perceived shaking</i> at a specific location. Intensity decreases the further you get from the epicenter and depends highly on the local soil and building quality.",
+      "content_fr": "Un séisme est une libération soudaine d'énergie provoquée par le blocage des plaques (dû à la friction) qui glissent brusquement. <br><br><b>Anatomie d'un séisme :</b><br>- <b>Le Foyer :</b> Le point souterrain exact où la roche se rompt.<br>- <b>L'Épicentre :</b> Le point à la surface de la Terre situé directement à la verticale du foyer. C'est généralement là que les secousses sont les plus fortes.<br><br><b>Mesurer les séismes :</b><br>- <b>La Magnitude :</b> Mesure l'<i>énergie totale libérée</i> à la source (mesurée par un sismographe, échelle de Richter). C'est un chiffre absolu ; un séisme n'a qu'UNE seule magnitude.<br>- <b>L'Intensité :</b> Mesure les <i>dégâts visibles et les secousses ressenties</i> en un lieu précis. L'intensité diminue plus on s'éloigne de l'épicentre et dépend beaucoup de la qualité du sol et des bâtiments locaux."
+    },
+    {
+      "type": "text",
+      "heading": "Volcanoes: Effusive vs Explosive",
+      "heading_fr": "Volcans : Effusifs vs Explosifs",
+      "heading_en": "Volcanoes: Effusive vs Explosive",
+      "content": "Volcanic eruptions are a direct consequence of internal heat reaching the surface, but not all volcanoes act the same way:<br><br>1. <b>Effusive Eruptions (Red Volcanoes):</b> Mostly found at divergent boundaries (ridges) or hot spots. The magma is very fluid, allowing trapped gases to escape easily. This results in relatively calm, flowing rivers of red lava (e.g., volcanoes in Hawaii or Iceland).<br><br>2. <b>Explosive Eruptions (Grey Volcanoes):</b> Typically found at convergent boundaries (subduction zones). The magma is thick and highly viscous, acting like a cork and trapping gases inside. The pressure builds up immensely until a violent explosion occurs, blowing the top off the mountain and producing devastating ash clouds, pyroclastic flows, and minimal lava (e.g., Mt. St. Helens, Vesuvius).",
+      "content_fr": "Les éruptions volcaniques sont une conséquence directe de la chaleur interne, mais tous les volcans n'agissent pas de la même manière :<br><br>1. <b>Éruptions effusives (Volcans rouges) :</b> Souvent aux limites divergentes (dorsales) ou points chauds. Le magma est très fluide, permettant aux gaz de s'échapper facilement. Cela donne des rivières de lave rouge relativement calmes (ex: Hawaï, Islande).<br><br>2. <b>Éruptions explosives (Volcans gris) :</b> Typiques des zones de subduction (convergence). Le magma est épais et très visqueux, agissant comme un bouchon et retenant les gaz. La pression augmente jusqu'à une explosion violente, détruisant le sommet et produisant des nuages de cendres dévastateurs et des nuées ardentes (ex: Mont St Helens, Vésuve)."
+    },
+    {
+      "type": "quiz",
+      "heading": "Mini-Quiz 3: Earthquakes & Volcanoes",
+      "heading_fr": "Mini-Quiz 3 : Séismes et Volcans",
+      "questions": [
+        {
+          "question": "What is the difference between Magnitude and Intensity?",
+          "question_fr": "Quelle est la différence entre la Magnitude et l'Intensité ?",
+          "options": [
+            "Magnitude measures damage; Intensity measures energy.",
+            "Magnitude measures the total energy released; Intensity measures local damage and shaking.",
+            "Magnitude is used for volcanoes; Intensity is for earthquakes.",
+            "They are two words for the exact same measurement."
+          ],
+          "options_fr": [
+            "La Magnitude mesure les dégâts ; l'Intensité mesure l'énergie.",
+            "La Magnitude mesure l'énergie totale libérée ; l'Intensité mesure les dégâts et les secousses locales.",
+            "La Magnitude est pour les volcans ; l'Intensité est pour les séismes.",
+            "Ce sont deux mots pour exactement la même mesure."
+          ],
+          "correct": 1
+        },
+        {
+          "question": "Why are volcanoes at subduction zones usually highly explosive?",
+          "question_fr": "Pourquoi les volcans des zones de subduction sont-ils généralement très explosifs ?",
+          "options": [
+            "Because the magma is fluid and flows easily like a river.",
+            "Because the magma is thick and viscous, trapping gases until pressure explodes.",
+            "Because they are located underwater.",
+            "Because they are formed by continental collision."
+          ],
+          "options_fr": [
+            "Parce que le magma est fluide et coule facilement comme une rivière.",
+            "Parce que le magma est épais et visqueux, emprisonnant les gaz jusqu'à l'explosion.",
+            "Parce qu'ils sont situés sous l'eau.",
+            "Parce qu'ils sont formés par collision continentale."
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Rock Cycle: Magma & Solid Rock",
+      "heading_fr": "Le Cycle des Roches : Magma et Roche Solide",
+      "heading_en": "The Rock Cycle: Magma & Solid Rock",
+      "image": "https://eschooltoday.com/learn/wp-content/uploads/2020/12/diagram-of-the-rock-cycle.jpg",
+      "content": "The Earth is constantly recycling its crust through the <b>Rock Cycle</b>. The diagram above illustrates how rocks transform over time. For Geography, you must understand the transition between liquid Magma and Solid Rock:<br><br><b>1. How Magma turns Solid (Cooling):</b><br>When extremely hot, molten rock (magma) rises from the mantle towards the Earth's cooler crust or erupts from a volcano (as lava), it loses heat rapidly. Through the process of <b>Cooling and Crystallization</b>, the liquid magma hardens and locks its minerals into place, forming solid <i>Igneous Rock</i>.<br><br><b>2. How Solid Rock turns back to Magma (Melting):</b><br>Over millions of years, solid rocks at the surface can be pushed deep underground, mostly through <b>Subduction</b> at convergent plate boundaries. As the tectonic plate drags the solid rock deeper into the mantle, it faces extreme heat and pressure. This causes the <b>Melting</b> of the solid rock, turning it back into liquid magma, ready to fuel a volcano or harden into crust again.",
+      "content_fr": "La Terre recycle constamment sa croûte via le <b>Cycle des Roches</b>. Le diagramme illustre cette transformation. Vous devez bien comprendre la transition entre le magma liquide et la roche solide :<br><br><b>1. Comment le magma devient solide (Refroidissement) :</b><br>Lorsque la roche en fusion (magma) remonte du manteau ou entre en éruption (lave), elle perd sa chaleur. Par le processus de <b>refroidissement et de cristallisation</b>, le magma liquide durcit et forme une <i>roche magmatique (ignée)</i> solide.<br><br><b>2. Comment la roche solide redevient magma (Fusion) :</b><br>Au fil des millions d'années, les roches solides peuvent être enfouies profondément, principalement par <b>Subduction</b> aux frontières convergentes. La chaleur et la pression extrêmes des profondeurs provoquent la <b>Fusion</b> de la roche solide, qui redevient du magma liquide, prêt à alimenter un volcan ou à créer une nouvelle croûte."
+    },
+    {
+      "type": "text",
+      "heading": "Essay Prep: The Domino Effect",
+      "heading_fr": "Préparation à l'Essai : L'Effet Domino",
+      "heading_en": "Essay Prep: The Domino Effect",
+      "content": "Your geography test explicitly requires you to write a structured essay analyzing the <b>domino effect of a natural disaster</b>. You must connect abstract concepts (like tectonic plates) to a real-world case study, analyzing the chain reaction from the ocean floor to human disaster.<br><br><b>Key Vocabulary: Hazard vs. Vulnerability</b><br>- <b>Aléa (Hazard):</b> The natural phenomenon itself (e.g., an earthquake of magnitude 9.0). We cannot stop the hazard.<br>- <b>Vulnérabilité (Vulnerability):</b> The fragility, exposure, and lack of preparedness of the human society facing the hazard. High vulnerability + High Hazard = Disaster.<br><br><b>The Domino Sequence (e.g., Japan 2011):</b><br>1. <b>Submarine Earthquake (The Trigger):</b> A massive rupture at a subduction zone displaces the ocean floor violently.<br>2. <b>Tsunami (The Propagation):</b> The displaced water creates a massive wave moving rapidly across the ocean surface.<br>3. <b>Technological Accident (The Consequence):</b> The tsunami hits vulnerable human infrastructure (like the Fukushima nuclear plant), transforming a natural event into a long-lasting technological, economic, and environmental crisis.<br><br><b>Your Essay Structure (Methodology):</b><br>To score full marks, structure your essay into 5 distinct paragraphs:<br>1. <b>Introduction:</b> Who, Where, When? Introduce the specific case study.<br>2. <b>Origin:</b> Why did it happen? Detail the tectonic context (e.g., subduction zone, colliding plates).<br>3. <b>Unfolding:</b> How did the disaster play out? Detail the domino effect (earthquake generating a tsunami).<br>4. <b>Consequences:</b> Evaluate the toll: Human (deaths/injuries), Material (infrastructure destroyed), Environmental.<br>5. <b>Conclusion:</b> What is the lesson learned for future preparedness or reducing vulnerability?",
+      "content_fr": "Votre test de géographie exige que vous rédigiez un essai structuré analysant l'<b>effet domino d'une catastrophe naturelle</b>. Vous devez relier la théorie (tectonique) à une étude de cas réelle.<br><br><b>Vocabulaire clé : Aléa vs Vulnérabilité</b><br>- <b>Aléa (Hazard) :</b> Le phénomène naturel lui-même (ex: séisme de magnitude 9). Nous ne pouvons pas l'arrêter.<br>- <b>Vulnérabilité :</b> La fragilité, l'exposition et le manque de préparation de la société humaine face à l'aléa. Fort Aléa + Forte Vulnérabilité = Catastrophe.<br><br><b>La séquence Domino (ex: Japon 2011) :</b><br>1. <b>Séisme sous-marin (Le déclencheur) :</b> Une rupture massive en zone de subduction déplace violemment le fond marin.<br>2. <b>Tsunami (La propagation) :</b> L'eau déplacée crée une vague géante se déplaçant rapidement.<br>3. <b>Accident Technologique (La conséquence) :</b> Le tsunami frappe des infrastructures vulnérables (comme la centrale de Fukushima), transformant l'événement naturel en crise technologique et environnementale majeure.<br><br><b>Structure de votre Essai (Méthodologie) :</b><br>Pour avoir tous les points, structurez votre essai en 5 paragraphes :<br>1. <b>Introduction :</b> Qui, Où, Quand ? (Présentez l'étude de cas).<br>2. <b>Origine :</b> Pourquoi ? (Détaillez le contexte tectonique, ex: subduction).<br>3. <b>Déroulement :</b> Comment ? (L'effet domino : séisme -> tsunami).<br>4. <b>Conséquences :</b> Bilan humain, matériel et environnemental.<br>5. <b>Conclusion :</b> Quelle leçon retenir pour réduire la vulnérabilité future ?"
+    },
+    {
+      "type": "quiz",
+      "heading": "Mega Final Quiz: Test Preparation",
+      "heading_fr": "Méga Quiz Final : Préparation au Test",
+      "title": "Master the Exam Methodology",
+      "description": "Ensure you know all the definitions, mechanisms, and essay structures for your upcoming S4GEO test.",
+      "questions": [
+        {
+          "question": "What is the correct definition of 'Vulnerability' (Vulnérabilité) in geography?",
+          "question_fr": "Quelle est la définition correcte de la 'Vulnérabilité' en géographie ?",
+          "options": [
+            "The energy released by an earthquake.",
+            "The natural phenomenon itself, like a storm or earthquake.",
+            "The fragility and level of exposure of human societies to a hazard.",
+            "The speed at which a tsunami travels."
+          ],
+          "options_fr": [
+            "L'énergie libérée par un tremblement de terre.",
+            "Le phénomène naturel lui-même, comme une tempête ou un séisme.",
+            "La fragilité et le niveau d'exposition des sociétés humaines à un aléa.",
+            "La vitesse à laquelle se déplace un tsunami."
+          ],
+          "correct": 2
+        },
+        {
+          "question": "According to your essay methodology, what should the 'Origin' paragraph contain?",
+          "question_fr": "Selon la méthodologie de votre essai, que doit contenir le paragraphe 'Origine' ?",
+          "options": [
+            "Who, Where, and When the disaster happened.",
+            "The lessons learned for the future.",
+            "The human and material death toll.",
+            "Why it happened, focusing on the specific tectonic context (like subduction)."
+          ],
+          "options_fr": [
+            "Qui, Où et Quand la catastrophe a eu lieu.",
+            "Les leçons apprises pour l'avenir.",
+            "Le bilan des morts humains et matériels.",
+            "Pourquoi cela s'est produit, en se concentrant sur le contexte tectonique spécifique (comme la subduction)."
+          ],
+          "correct": 3
+        },
+        {
+          "question": "In the rock cycle, what two forces turn solid rock back into liquid magma?",
+          "question_fr": "Dans le cycle des roches, quelles sont les deux forces qui transforment la roche solide en magma liquide ?",
+          "options": [
+            "Cooling and crystallization",
+            "Extreme Heat and Pressure (Melting)",
+            "Weathering and Erosion",
+            "Wind and Ocean currents"
+          ],
+          "options_fr": [
+            "Le refroidissement et la cristallisation",
+            "La chaleur et la pression extrêmes (Fusion)",
+            "L'altération et l'érosion",
+            "Le vent et les courants marins"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "In a technological domino-effect disaster (like Fukushima), what is the typical triggering sequence?",
+          "question_fr": "Dans une catastrophe technologique à effet domino (comme Fukushima), quelle est la séquence de déclenchement typique ?",
+          "options": [
+            "Tsunami -> Earthquake -> Tech Disaster",
+            "Tech Disaster -> Earthquake -> Tsunami",
+            "Submarine Earthquake -> Tsunami -> Tech Disaster",
+            "Hurricane -> Submarine Earthquake -> Tsunami"
+          ],
+          "options_fr": [
+            "Tsunami -> Séisme -> Catastrophe technologique",
+            "Catastrophe technologique -> Séisme -> Tsunami",
+            "Séisme sous-marin -> Tsunami -> Catastrophe technologique",
+            "Ouragan -> Séisme sous-marin -> Tsunami"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "Which of these pairs represents a Convergent plate movement?",
+          "question_fr": "Laquelle de ces paires représente un mouvement de plaque Convergent ?",
+          "options": [
+            "Oceanic Accretion & Mid-Ocean Ridges",
+            "Transform fault sliding & Hotspots",
+            "Subduction & Continental Collision",
+            "Seafloor spreading & Divergence"
+          ],
+          "options_fr": [
+            "Accrétion océanique et Dorsales océaniques",
+            "Failles transformantes et Points chauds",
+            "Subduction et Collision continentale",
+            "Expansion des fonds marins et Divergence"
+          ],
+          "correct": 2
+        }
+      ]
+    }
+  ]
+}
