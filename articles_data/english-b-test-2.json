@@ -1,125 +1,234 @@
 {
-  "title": "English Literature & Writing Cheat Codes",
-  "title_fr": "Guide Ultime : Littérature et Écriture",
-  "title_en": "English Lit & Writing Cheat Codes",
-  "title_de": "Englische Literatur & Schreiben Ultimativer Leitfaden",
-  "lastUpdated": "2026-06-15",
+  "title": "Advanced Academic Writing & Literary Analysis: The Masterclass",
+  "title_fr": "Écriture Académique Avancée : La Masterclass",
+  "title_en": "Advanced Academic Writing: The Masterclass",
+  "title_de": "Erweitertes akademisches Schreiben",
+  "lastUpdated": "2026-06-16",
   "sections": [
     {
       "type": "intro",
-      "heading": "Welcome to the Writing Cheat Codes! 🚀",
-      "heading_fr": "Bienvenue dans les codes de triche d'écriture !",
-      "heading_en": "Welcome to the Writing Cheat Codes! 🚀",
-      "content": "Do you feel like writing an English essay is just staring at a blank page hoping words appear? <b>Don't panic!</b> Writing isn't magic; it's basically just playing with Lego.<br><br>Once you have the right building blocks (linking words, power verbs, figurative language) and the instruction manual (the PIE/PEE paragraph formulas), <i>anyone</i> can build a masterpiece. In this guide, we are cutting out the boring stuff and giving you the pure, practical cheat codes to score top marks in English Literature and Composition. Let's go!",
-      "content_fr": "Vous avez l'impression qu'écrire un essai en anglais est impossible ? Ne paniquez pas ! L'écriture n'est pas magique, c'est comme jouer aux Lego. Ce guide vous donne les codes de triche pratiques pour obtenir les meilleures notes."
+      "heading": "Course Overview: Mastering the Academic Voice",
+      "content": "Welcome to the intensive masterclass on Academic Writing and Literary Analysis. This guide is designed for high-level students preparing for rigorous examinations. We will cover the granular mechanics of linking words, the precise nuances of reporting verbs, the psychological impact of figurative language, and the architectural frameworks (PIE/PEE) required to build unshakeable arguments. Do not rush through this material; every section builds the foundation for the next."
     },
     {
       "type": "text",
-      "heading": "1. Linking Words: The Glue of Your Essay",
-      "heading_fr": "1. Les mots de liaison : La colle de votre essai",
-      "heading_en": "1. Linking Words: The Glue of Your Essay",
-      "content": "If your sentences are train cars, <b>linking words are the metal hitches connecting them</b>. Without them, your essay reads like a robot talking. Here are the 5 main categories you need to master:<br><br><ul><li><b>🔥 Emphasis (To draw attention):</b> <i>Indeed, In fact, Furthermore, Notably.</i><br>Example: <i>Gatsby’s parties were extravagant; <b>indeed</b>, they were a desperate spectacle for Daisy's attention.</i></li><li><b>🕰️ Sequence (For timelines or steps):</b> <i>Firstly, Subsequently, Meanwhile, Ultimately.</i></li><li><b>⚔️ Contrast (To show a plot twist or opposing view):</b> <i>However, Conversely, Nevertheless, Despite.</i><br>Example: <i>Macbeth initially appears heroic; <b>however</b>, his ambition quickly corrupts his morality.</i></li><li><b>💥 Consequence (Cause & Effect):</b> <i>Therefore, Consequently, Thus, Hence.</i><br>Example: <i>Romeo acts on pure impulse; <b>therefore</b>, his tragic end is inevitable.</i></li><li><b>➕ Addition (To add more proof):</b> <i>Moreover, Additionally, Besides.</i></li></ul>"
+      "heading": "Module 1: Linking Words (Emphasis, Sequence, Addition)",
+      "content": "Linking Words (Conjunctions & Transition Signals) are the navigational signposts of your essay. They dictate the flow of logic. Misusing them will immediately confuse your reader and lower your grade.<br><br><b>1. EMPHASIS:</b><br>Use these to draw the reader's absolute attention to a specific, highly important point. You are telling the grader: 'Pay attention to this.'<br><ul><li><b>Indeed:</b> (e.g., The results were promising; indeed, they exceeded all historical expectations.)</li><li><b>In fact / As a matter of fact:</b> Used to clarify or double-down on a previous statement.</li><li><b>Furthermore:</b> Adds information, but specifically adds information with heavy conceptual <i>weight</i>.</li><li><b>Notably / Particularly / Especially:</b> Used to isolate one specific example from a larger group.</li><li><b>It is worth noting that:</b> A formal phrase used to introduce a critical caveat.</li><li><b>Undeniably / Clearly:</b> Used when the evidence leaves no room for debate.</li></ul><br><b>2. SEQUENCE (Chronological or Logical Order):</b><br>Use these to structure a multi-step process, a complex argument, or a historical timeline without losing the reader.<br><ul><li><b>First, Second, Third... / Firstly, Secondly...</b></li><li><b>Next / Then / Subsequently:</b> 'Subsequently' is the highly academic version of 'then'.</li><li><b>Meanwhile / Simultaneously:</b> Crucial for describing two variables or plots changing at the exact same time.</li><li><b>Following this / Afterward</b></li><li><b>Finally / Ultimately:</b> 'Ultimately' suggests a final philosophical conclusion, while 'Finally' just means the end of a list.</li></ul><br><b>3. ADDITION:</b><br>Use these to introduce extra information that supports your current point, building an avalanche of evidence.<br><ul><li><b>In addition / Additionally</b></li><li><b>Furthermore / Moreover:</b> Highly formal. Use these instead of 'also'.</li><li><b>Besides / As well as / Along with</b></li><li><b>Not only... but also:</b> A powerful structural tool (e.g., 'Not only did the sensor fail, but it also corrupted the backup drive.').</li></ul>"
+    },
+    {
+      "type": "text",
+      "heading": "Module 2: Linking Words (Contrast & Consequence)",
+      "content": "<b>4. CONTRAST & CONCESSION:</b><br>Use these to show a difference between two ideas, subvert expectations, or introduce an opposing view. This shows the examiner you can think critically about multiple sides of an argument.<br><ul><li><b>However:</b> (e.g., The theory is popular; however, empirical evidence is entirely lacking.)</li><li><b>On the other hand / In contrast / Conversely:</b> Used to pivot to the exact opposite scenario.</li><li><b>Although / Even though / While:</b> Used to link two opposing clauses in a single sentence (e.g., 'While the data is flawed, the methodology is sound.').</li><li><b>Nevertheless / Nonetheless:</b> Meaning 'despite what has just been said'.</li><li><b>Despite / In spite of:</b> <i>GRAMMAR WARNING:</i> These must ALWAYS be followed by a noun or an -ing verb, never a full subject-verb clause. (e.g., 'Despite the rain...', NOT 'Despite it was raining...').</li></ul><br><b>5. CONSEQUENCE (Cause & Effect):</b><br>Use these to mathematically show that one event or idea is the direct, unavoidable result of another.<br><ul><li><b>Therefore:</b> (e.g., The primary sensor failed; therefore, the telemetry data was lost.)</li><li><b>Consequently / As a consequence:</b> The academic standard for cause-and-effect.</li><li><b>As a result / Thus / Hence</b></li><li><b>Accordingly / Because of this / For this reason</b></li></ul>"
+    },
+    {
+      "type": "text",
+      "heading": "Module 3: The 10 Essential Marker Verbs",
+      "content": "Marker verbs (often called reporting or signal verbs) are used to introduce information from external sources, studies, or data. Choosing the right one changes the 'strength', tone, and meaning of your sentence. Using 'He said' repeatedly is a hallmark of amateur writing.<br><br><table style='width:100%; border-collapse: collapse; margin-top:10px;' border='1'><tr><th style='padding:12px; background-color:#e8f4f8;'>Reporting Verb</th><th style='padding:12px; background-color:#e8f4f8;'>Typical Nuance & Deep Meaning</th><th style='padding:12px; background-color:#e8f4f8;'>Academic Example</th></tr><tr><td style='padding:12px;'><b>1. State</b></td><td style='padding:12px;'>Neutral and objective; presenting a dry fact clearly without emotional bias.</td><td style='padding:12px;'>The author states that the experiment failed due to temperature fluctuations.</td></tr><tr><td style='padding:12px;'><b>2. Show</b></td><td style='padding:12px;'>Strong and visual; used when the evidence is overwhelmingly clear or represented in a graph/diagram.</td><td style='padding:12px;'>Figure 4 shows a steady, exponential increase in global temperature.</td></tr><tr><td style='padding:12px;'><b>3. Argue</b></td><td style='padding:12px;'>Active and combative; implies the author is taking a specific stance on a highly debated topic.</td><td style='padding:12px;'>They argue that the previous economic policy was fundamentally ineffective.</td></tr><tr><td style='padding:12px;'><b>4. Suggest</b></td><td style='padding:12px;'>Tentative and cautious; used when conclusions are likely but not 100% definitively proven.</td><td style='padding:12px;'>The preliminary data suggests a strong link between the two variables.</td></tr><tr><td style='padding:12px;'><b>5. Demonstrate</b></td><td style='padding:12px;'>Extremely strong; implies proving something beyond a shadow of a doubt through concrete, replicable evidence.</td><td style='padding:12px;'>The stress test demonstrates exactly how the hardware handles high loads.</td></tr><tr><td style='padding:12px;'><b>6. Analyze</b></td><td style='padding:12px;'>Process-oriented; looking closely at the microscopic parts of something to understand the whole.</td><td style='padding:12px;'>The sociological study analyzes the linguistic patterns of the ancient text.</td></tr><tr><td style='padding:12px;'><b>7. Identify</b></td><td style='padding:12px;'>Specific and precise; pointing out a particular element in a sea of data.</td><td style='padding:12px;'>The researchers identified three main structural flaws in the bridge's design.</td></tr><tr><td style='padding:12px;'><b>8. Explain</b></td><td style='padding:12px;'>Informative; clarifying the underlying reasons <i>why</i> or <i>how</i> something happens.</td><td style='padding:12px;'>The engineering manual explains how to properly calibrate the optic sensor.</td></tr><tr><td style='padding:12px;'><b>9. Claim</b></td><td style='padding:12px;'>Skeptical/Neutral; used when someone asserts something that might be highly debated, unproven, or false.</td><td style='padding:12px;'>He claims to have found a mathematical shortcut, but it remains unverified.</td></tr><tr><td style='padding:12px;'><b>10. Conclude</b></td><td style='padding:12px;'>Final and authoritative; arriving at a judgment only after considering all available facts.</td><td style='padding:12px;'>The quarterly report concludes that further beta testing is urgently required.</td></tr></table>"
+    },
+    {
+      "type": "text",
+      "heading": "Module 4: Grammar Pro-Tip & Figurative Language Basics",
+      "content": "<b>Pro-Tip on Grammar: Watch Your Tenses!</b><br>Remember to watch your verb tenses with marker verbs carefully. <br>- In <i>Science, History, and Engineering</i>, the past tense ('Smith found that...', 'The study demonstrated...') is common because you are referring to specific past experiments that have concluded.<br>- However, the present tense ('The data indicates that...', 'The author argues...') is used for established, universal facts, or when looking at a 'live' document like a novel, policy, or dataset.<br><br><b>Introduction to Figurative Language</b><br>Think of figurative language as the ultimate upgrade from literal language. Instead of just stating boring facts, you use words to paint a picture, create an emotion, or make a striking connection. <br><i>If literal language is:</i> 'The code has a bug.'<br><i>Figurative language is:</i> 'This code is a black hole swallowing my sanity.'<br><br><b>The Golden Rule:</b> The moment you use figurative language, you are asking the reader to look beyond the surface, dictionary definition. If you say someone has a 'heart of stone,' they don't literally need a cardiologist; they just need to loosen up."
+    },
+    {
+      "type": "text",
+      "heading": "Module 5: The Heavy Hitters (Comparisons & Images)",
+      "content": "The core building blocks of figurative language are split into two categories. Category 1 involves altering the actual meaning of words to make you see something in a completely new light.<br><br><ul><li><b>SIMILE</b><br><b>What it is:</b> Comparing two unlike things using explicit connecting words like 'like' or 'as'.<br><b>Example:</b> He dropped the pass, and the basketball rolled away like a loose wheel.<br><b>Why use it:</b> It creates an instant visual anchor by linking a completely new, abstract concept to a familiar, physical one.</li><br><li><b>METAPHOR</b><br><b>What it is:</b> Comparing two things by stating that one thing IS the other. It doesn't use 'like' or 'as'—it just makes the direct, absolute claim.<br><b>Example:</b> The defender was an absolute brick wall.<br><b>Why use it:</b> It is much stronger, more aggressive, and more immersive than a simile. It forces you to completely merge the traits of both things in your brain.</li><br><li><b>PERSONIFICATION</b><br><b>What it is:</b> Giving human qualities, feelings, or actions to non-human things (objects, animals, nature, or abstract ideas).<br><b>Example:</b> The alarm clock screamed at me to wake up.<br><b>Why use it:</b> It creates immediate empathy. We inherently understand human motivations, so attributing them to dead objects makes a scene feel alive and emotionally charged.</li><br><li><b>HYPERBOLE</b><br><b>What it is:</b> Massive, deliberate exaggeration used for dramatic effect or humor. It is never meant to be taken literally.<br><b>Example:</b> I have a million hours of studying to do tonight.<br><b>Why use it:</b> It emphasizes the sheer, overwhelming intensity of a feeling or situation.</li></ul>"
+    },
+    {
+      "type": "text",
+      "heading": "Module 6: Structural, Cultural & Sound Devices",
+      "content": "Category 2 relies on cultural context, structural contrast, or the actual auditory sound of the words to deliver their impact.<br><br><b>Structural & Cultural Devices</b><br><ul><li><b>IDIOM</b><br><b>What it is:</b> A common phrase or expression where the meaning cannot be understood from reading the literal words themselves.<br><b>Example:</b> 'Let's call it a night.' (Meaning: Let's stop working and finish up).<br><b>Why use it:</b> It acts as a cultural shorthand within a language group, adding natural, conversational flavor to speech.</li><br><li><b>OXYMORON</b><br><b>What it is:</b> Putting two completely contradictory, opposite words right next to each other.<br><b>Example:</b> There was a 'deafening silence' in the empty classroom.<br><b>Why use it:</b> It creates immense psychological tension and makes the reader pause to think about a complex, dual emotional state.</li></ul><br><b>Sound-Based Devices</b><br>Sometimes figurative language is all about how the words hit the ear. Writers use these to build rhythm or mimic real life.<br><ul><li><b>ALLITERATION</b><br><b>What it is:</b> Repeating the same consonant sound at the beginning of several words close together.<br><b>Example:</b> The basketball bounced beautifully off the backboard.<br><b>Why use it:</b> It creates a musical, poetic rhythm, speeds up the reading pace, and makes specific phrases highly memorable to the brain.</li><br><li><b>ONOMATOPOEIA</b><br><b>What it is:</b> Words that literally recreate the sound they describe.<br><b>Example:</b> The capacitor exploded with a loud 'pop' and a sudden 'fizz'.<br><b>Why use it:</b> It bypasses the abstract thinking part of the brain and brings immediate sensory, auditory reality straight to the reader's imagination.</li></ul>"
+    },
+    {
+      "type": "text",
+      "heading": "Module 7: The Rule of Three",
+      "content": "<b>What is the Rule of Three?</b><br>The Rule of Three is a foundational structural, psychological, and literary principle. It is based on the proven idea that humans process information best through patterns. Three is the absolute smallest number required to form a recognizable pattern in the human brain. <br><br>Because of this, a trio of elements feels inherently more satisfying, complete, and memorable to an audience than one, two, four, or five items.<br><br><b>Applications of the Rule:</b><br><ul><li><b>In Speech & Rhetoric:</b> Winston Churchill's 'Blood, sweat, and tears.' Or Julius Caesar's 'Veni, vidi, vici' (I came, I saw, I conquered).</li><li><b>In Storytelling & Mythology:</b> The Three Musketeers, three wishes from a genie, three ghosts in A Christmas Carol, or a standard narrative structure consisting of a Beginning, Middle, and End.</li><li><b>In Academic Arguments & Essays:</b> Providing exactly three supporting pillars or arguments in your thesis statement makes your thesis feel incredibly unshakeable, robust, and complete, without overwhelming the reader with too much information.</li></ul>"
+    },
+    {
+      "type": "text",
+      "heading": "Module 8: Paragraph Frameworks (PIE & PEE)",
+      "content": "In academic writing, PIE and PEE are not delicious desserts or gross accidents—they are the two most rigorously tested, popular structural frameworks used to write perfect, persuasive paragraphs. Think of them as the architectural blueprints for building an argument. They ensure you don't just state a fact and walk away, but actually back it up and explain why it matters.<br><br><b>🥧 THE PIE FRAMEWORK</b><br>PIE is highly popular in literary analysis, history essays, and argumentative writing. It forces you to weave your evidence directly into your thematic point.<br><ul><li><b>P = POINT:</b> State the main idea or claim of the paragraph. This is your topic sentence. It tells the reader exactly what you are trying to prove in the next 5-8 sentences.</li><li><b>I = ILLUSTRATION:</b> Provide evidence, data, a quote, or a specific contextual example that supports your Point. This is where you bring in the hard facts.</li><li><b>E = EXPLANATION:</b> Connect the dots. Explain exactly how and why your Illustration proves your Point. <b>This should always be the longest and most detailed part of your paragraph.</b></li></ul><br><b>🎯 THE PEE FRAMEWORK</b><br>PEE is incredibly similar to PIE, but it is often used in science reports, structured debates, and analytical essays because it explicitly demands hard Evidence.<br><ul><li><b>P = POINT:</b> Make your central claim clear, objective, and direct.</li><li><b>E = EVIDENCE:</b> Insert your irrefutable proof (statistics, direct quotes, experimental data, or case studies).</li><li><b>E = EXPLANATION:</b> Analyze the evidence. Why is this significant? What are the consequences, limitations, or overarching implications of this data?</li></ul>"
+    },
+    {
+      "type": "text",
+      "heading": "Module 9: Frameworks in Action & The Golden Tip",
+      "content": "To see how these frameworks function in real life, let's look at how you would build the exact same argumentative engine using both structures. Notice how the core engine is identical: Claim -> Proof -> Analysis.<br><br><b>Example 1: Using PIE (History / Literature Context)</b><br><b>Point:</b> The introduction of the printing press in 1440 completely dismantled the monopoly that religious institutions had on information.<br><b>Illustration:</b> Instead of monks hand-copying a single manuscript over months, thousands of political and scientific pamphlets were printed and distributed across Europe within weeks.<br><b>Explanation:</b> Therefore, literacy rates skyrocketed among ordinary citizens. Because people could finally read the texts themselves rather than relying on a priest’s interpretation, the printing press effectively decentralized intellectual authority and laid the groundwork for the Scientific Revolution.<br><br><b>Example 2: Using PEE (Science / Technical Context)</b><br><b>Point:</b> Implementing an external hardware watchdog timer is critical for maintaining system stability in long-term embedded deployments.<br><b>Evidence:</b> In stress tests simulating a frozen main loop, systems utilizing an external watchdog successfully recovered via a hardware reset within 15 milliseconds of an unresponsive state.<br><b>Explanation:</b> Consequently, this demonstrates that even if a catastrophic software exception occurs, the physical system can automatically self-heal without human intervention. This drastically reduces the risk of permanent device lockups in remote environments.<br><br><b>💡 THE PRO-TIP FOR TOP MARKS</b><br>The biggest, most catastrophic mistake students make is writing a paragraph that is all Point and Evidence, but completely lacks an Explanation. If you end a paragraph with a quote or a raw statistic, you have missed the most important part of academia. Your Explanation must do the heavy lifting and should always answer the question: <b>\"So what?\"</b> Why should the grader, the scientist, or the reader care about this specific piece of information?"
     },
     {
       "type": "quiz",
-      "heading": "Mini-Quiz 1: The Missing Link",
-      "heading_fr": "Mini-Quiz 1 : Le Maillon Manquant",
-      "heading_en": "Mini-Quiz 1: The Missing Link",
-      "title": "Test Your Essay Glue",
-      "description": "Can you pick the right word to connect these ideas?",
+      "heading": "The Mega Examination: 25 Intensive Questions",
+      "title": "Comprehensive Mastery Test",
+      "description": "This is a grueling, 25-question test designed to evaluate your deep understanding of linking words, marker verbs, figurative language, and paragraph architecture. Do not guess; read the options carefully.",
       "questions": [
         {
-          "question": "If you want to show that Romeo's impulsive actions DIRECTLY CAUSED his tragic end, which linking word is best?",
-          "options": ["However", "Therefore", "Meanwhile", "Furthermore"],
+          "question": "Which of the following linking words is classified strictly under 'Emphasis' and is used to double-down on a previous statement?",
+          "options": ["Subsequently", "In spite of", "In fact", "Consequently"],
+          "correct": 2
+        },
+        {
+          "question": "You are writing a historical timeline and need to show that two events were occurring at the exact same time. Which sequence word is appropriate?",
+          "options": ["Ultimately", "Simultaneously", "Subsequently", "Accordingly"],
           "correct": 1
         },
         {
-          "question": "Which word is perfect for introducing a COMPLETELY OPPOSITE character trait or plot twist?",
-          "options": ["Consequently", "Indeed", "In contrast", "Additionally"],
+          "question": "Grammar rules dictate that the phrase 'Despite' must ALWAYS be followed by what?",
+          "options": ["A full subject-verb clause.", "A coordinating conjunction.", "A noun or an -ing verb.", "An adjective."],
           "correct": 2
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "2. Reporting Verbs: Stop saying 'He said'!",
-      "heading_en": "2. Reporting Verbs: Stop saying 'He said'!",
-      "content": "If your essay is full of \"The author said...\" or \"The book says...\", you are losing easy points! <b>Marker verbs</b> introduce information from the text, and picking the right one shows the teacher you truly understand the tone.<br><br><b>Level up with these Power Verbs:</b><br><ul><li><b>Illustrate:</b> Use when imagery paints a clear picture. <i>(e.g., The vivid imagery illustrates the bleakness...)</i></li><li><b>Argue:</b> Implies the author/critic is taking a strong stance.</li><li><b>Suggest:</b> Perfect for subtext, symbolism, or hidden meanings! <i>(e.g., The rain suggests a feeling of cleansing.)</i></li><li><b>Demonstrate:</b> Use when you have concrete proof.</li><li><b>Claim:</b> Use when a character says something debatable (or is lying!). <i>(e.g., The unreliable narrator claims to be sane, but...)</i></li></ul>"
-    },
-    {
-      "type": "example",
-      "heading": "🚨 Pro-Tip: The Literary Present Tense!",
-      "heading_en": "🚨 Pro-Tip: The Literary Present Tense!",
-      "content": "When writing an English essay, you must <b>ALWAYS</b> write about the events of a book or poem in the <b>present tense</b>, even if it was published 200 years ago!<br><br>❌ <b>Wrong:</b> Gatsby <i>reached</i> for the green light.<br>✅ <b>Right:</b> Gatsby <i>reaches</i> for the green light.<br><br>Why? Because in literature, the art is considered \"alive\" every time you read it!"
-    },
-    {
-      "type": "quiz",
-      "heading": "Mini-Quiz 2: Power Verbs & Grammar",
-      "heading_en": "Mini-Quiz 2: Power Verbs & Grammar",
-      "title": "Upgrade Your Vocabulary",
-      "description": "Let's see if you can sound like an academic scholar.",
-      "questions": [
+        },
         {
-          "question": "If a character in a book is an unreliable liar, and you want to quote them while showing you don't believe them, which verb is best?",
-          "options": ["Demonstrates", "Claims", "Illustrates", "Explains"],
+          "question": "Which linking word is highly formal and used to introduce extra information, acting as a stronger version of the word 'also'?",
+          "options": ["Hence", "Conversely", "Furthermore", "Nevertheless"],
+          "correct": 2
+        },
+        {
+          "question": "According to the Marker Verbs list, which verb implies a SKEPTICAL or NEUTRAL stance, often used when someone asserts something unproven?",
+          "options": ["Demonstrate", "Claim", "Analyze", "Conclude"],
           "correct": 1
         },
         {
-          "question": "GRAMMAR CHECK: What tense must you ALWAYS use when describing the plot of a novel in an essay?",
-          "options": ["Past Tense", "Future Tense", "Present Tense", "Perfect Tense"],
-          "correct": 2
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "3. Figurative Language: Textual Special Effects",
-      "heading_en": "3. Figurative Language: Textual Special Effects",
-      "content": "Think of figurative language as the ultimate upgrade from boring literal language. It's like adding Hollywood CGI to your words. If literal language is <i>\"The protagonist was sad,\"</i> figurative language is <i>\"A heavy blanket of grief suffocated her every thought.\"</i><br><br><b>The Heavy Hitters (Comparisons & Images):</b><br><ul><li><b>Simile:</b> Comparing two unlike things using \"like\" or \"as\". <i>(The truth hit him like a physical blow.)</i></li><li><b>Metaphor:</b> Stating that one thing IS the other. Much stronger than a simile! <i>(Juliet is the sun.)</i></li><li><b>Personification:</b> Giving human feelings or actions to non-human things. <i>(The old house groaned under its secrets.)</i></li><li><b>Oxymoron:</b> Putting two completely contradictory, opposite words right next to each other. <i>(Parting is such <b>sweet sorrow</b>.)</i></li></ul><br><b>Sound-Based Devices:</b><br>- <b>Alliteration:</b> Repeating the same starting consonant sound. <i>(The fair breeze blew, the white foam flew...)</i><br>- <b>Onomatopoeia:</b> Words that literally recreate the sound they describe. <i>(Rustle, crack, pop, buzz.)</i>"
-    },
-    {
-      "type": "text",
-      "heading": "4. Brain Hacks: The Rule of Three",
-      "heading_en": "4. Brain Hacks: The Rule of Three",
-      "content": "<b>What is the Rule of Three?</b><br>Humans process information best through patterns, and 3 is the smallest number required to form a pattern. A trio of elements feels inherently more satisfying, complete, and memorable to an audience.<br><br>- <b>In Storytelling:</b> The Three Little Pigs, Three Witches in Macbeth.<br>- <b>In Rhetoric:</b> \"Friends, Romans, countrymen...\"<br>- <b>In YOUR Essays:</b> Providing a <b>three-point thesis statement</b> gives your essay a perfect, balanced roadmap. <i>(e.g., \"The author utilizes metaphor, vivid imagery, and shifting tone to convey the theme of isolation.\")</i>"
-    },
-    {
-      "type": "text",
-      "heading": "5. PIE & PEE: The Perfect Paragraph Formula",
-      "heading_en": "5. PIE & PEE: The Perfect Paragraph Formula",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Apple_pie.jpg/500px-Apple_pie.jpg",
-      "content": "The biggest mistake students make is dropping a quote into an essay and walking away. <b>PIE</b> and <b>PEE</b> are structural blueprints that force you to actually analyze *why* the quote matters.<br><br>🥧 <b>The PIE Framework (Great for Thematic Analysis):</b><br><ul><li><b>P (Point):</b> State your main claim. What is the topic of this paragraph?</li><li><b>I (Illustration):</b> Provide a direct quote or specific scene from the text.</li><li><b>E (Explanation):</b> CONNECT THE DOTS. Explain exactly *how* the quote proves your point. Focus on specific words.</li></ul><br>🎯 <b>The PEE Framework (Great for Poetry & Close Reading):</b><br>Exactly the same, but stands for <b>Point -> Evidence -> Explanation</b>. <br><br>💡 <b>THE ULTIMATE SECRET TO TOP MARKS:</b> The longest part of your paragraph MUST be the 'E' (Explanation). Your explanation should always answer the question: <b>\"So what?\"</b> Why did the author choose that specific word? How does it affect the reader?"
-    },
-    {
-      "type": "quiz",
-      "heading": "Final Boss Quiz: The Scholar Test",
-      "heading_en": "Final Boss Quiz: The Scholar Test",
-      "title": "Put it all together!",
-      "description": "Pass this, and you are officially ready to write an A+ essay.",
-      "questions": [
-        {
-          "question": "In the PIE or PEE paragraph structure, which part should be the LONGEST and answer the question 'So what?'",
-          "options": ["The Point", "The Evidence / Illustration", "The Explanation", "The Introduction"],
+          "question": "If you are presenting preliminary data that points to a conclusion, but is not 100% definitively proven yet, which marker verb is most accurate?",
+          "options": ["Show", "State", "Suggest", "Identify"],
           "correct": 2
         },
         {
-          "question": "If an author writes 'The alarm clock screamed at me to wake up', which figurative device is being used?",
-          "options": ["Hyperbole", "Simile", "Personification", "Oxymoron"],
-          "correct": 2
+          "question": "When referring to established, universal facts or analyzing a live document like a novel, which verb tense should you use?",
+          "options": ["Past Tense", "Present Tense", "Future Perfect", "Past Continuous"],
+          "correct": 1
         },
         {
-          "question": "Why is it highly recommended to use the 'Rule of Three' in your thesis statement?",
+          "question": "What is the key functional difference between a Simile and a Metaphor?",
           "options": [
-            "Because teachers are required by law to look for three things.",
-            "Because 3 is the smallest number to form a satisfying, memorable pattern in the human brain.",
-            "Because it makes the essay exactly 500 words.",
-            "Because odd numbers are grammatically correct."
+            "A simile alters sound; a metaphor alters structural meaning.",
+            "A simile uses exaggeration; a metaphor uses understatement.",
+            "A simile applies to objects; a metaphor applies to human emotions.",
+            "A simile uses 'like' or 'as'; a metaphor states directly that one thing IS the other."
+          ],
+          "correct": 3
+        },
+        {
+          "question": "If an author writes, 'The alarm clock screamed at me to wake up,' which figurative device is being employed?",
+          "options": ["Hyperbole", "Oxymoron", "Personification", "Idiom"],
+          "correct": 2
+        },
+        {
+          "question": "What is the primary psychological purpose of using Personification in writing?",
+          "options": [
+            "To make sentences shorter and more concise.",
+            "To create immediate empathy by attributing understandable human motivations to dead objects.",
+            "To provide a musical rhythm to the text.",
+            "To deliberately exaggerate a situation for comedic effect."
           ],
           "correct": 1
         },
         {
-          "question": "Shakespeare's quote 'Parting is such sweet sorrow' uses contradictory words side-by-side. What is this called?",
-          "options": ["Oxymoron", "Simile", "Alliteration", "Metaphor"],
+          "question": "Which device is defined as 'massive, deliberate exaggeration used for dramatic effect or humor'?",
+          "options": ["Hyperbole", "Metaphor", "Onomatopoeia", "Alliteration"],
+          "correct": 0
+        },
+        {
+          "question": "The phrase 'Let's call it a night' is an example of which cultural device?",
+          "options": ["Simile", "Idiom", "Oxymoron", "Hyperbole"],
+          "correct": 1
+        },
+        {
+          "question": "What is an Oxymoron?",
+          "options": [
+            "A phrase that bypasses the abstract brain using sound.",
+            "A direct comparison without connecting words.",
+            "Putting two completely contradictory, opposite words right next to each other.",
+            "Repeating consonant sounds."
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What effect does an Oxymoron (like 'deafening silence') typically have on the reader?",
+          "options": [
+            "It speeds up the reading pace.",
+            "It creates psychological tension and makes the reader pause to consider a dual state.",
+            "It makes the text sound musical.",
+            "It provides factual evidence."
+          ],
+          "correct": 1
+        },
+        {
+          "question": "'The basketball bounced beautifully off the backboard.' This is an example of:",
+          "options": ["Onomatopoeia", "Alliteration", "Simile", "Idiom"],
+          "correct": 1
+        },
+        {
+          "question": "'The capacitor exploded with a loud pop and a sudden fizz.' What sound-based device is used here?",
+          "options": ["Onomatopoeia", "Hyperbole", "Personification", "Oxymoron"],
+          "correct": 0
+        },
+        {
+          "question": "What is the 'Golden Rule' of figurative language mentioned in the text?",
+          "options": [
+            "Always use a dictionary to verify your comparisons.",
+            "It should only be used in fiction, never in academic writing.",
+            "You are asking the reader to look beyond the surface, literal definition.",
+            "Never use more than three metaphors in one paragraph."
+          ],
+          "correct": 2
+        },
+        {
+          "question": "What is the foundational psychological principle behind the 'Rule of Three'?",
+          "options": [
+            "Three is the maximum number of items the short-term memory can store.",
+            "Sentences with three verbs are grammatically superior in English.",
+            "Three is the absolute smallest number required to form a recognizable pattern in the human brain.",
+            "It is a rule invented by Shakespeare that modern writers follow."
+          ],
+          "correct": 2
+        },
+        {
+          "question": "In the context of writing an essay, how is the Rule of Three best applied?",
+          "options": [
+            "By writing exactly three paragraphs per page.",
+            "By providing exactly three supporting pillars in your thesis statement.",
+            "By using three different linking words per sentence.",
+            "By quoting three different authors in the introduction."
+          ],
+          "correct": 1
+        },
+        {
+          "question": "In the PIE framework, what does the 'I' stand for?",
+          "options": ["Idea", "Information", "Illustration", "Inference"],
+          "correct": 2
+        },
+        {
+          "question": "In the PIE framework, what is the goal of the 'Point' (P)?",
+          "options": [
+            "To connect the dots and analyze the data.",
+            "To provide raw data or quotes.",
+            "To state the main idea or claim, acting as the topic sentence.",
+            "To summarize the entire essay."
+          ],
+          "correct": 2
+        },
+        {
+          "question": "In the PEE framework, what does the first 'E' stand for?",
+          "options": ["Explanation", "Evidence", "Emphasis", "Elaboration"],
+          "correct": 1
+        },
+        {
+          "question": "According to the masterclass, which part of your PIE/PEE paragraph MUST be the longest and most detailed?",
+          "options": ["The Point", "The Illustration / Evidence", "The Explanation", "The Transition"],
+          "correct": 2
+        },
+        {
+          "question": "What is the specific question that your 'Explanation' section must always answer for the reader?",
+          "options": ["Who said this?", "When did this happen?", "So what?", "Is this true?"],
+          "correct": 2
+        },
+        {
+          "question": "According to the 'Pro-Tip for Top Marks', what is the most catastrophic mistake students make when writing paragraphs?",
+          "options": [
+            "Writing a paragraph that is all Point and Evidence, but completely lacks an Explanation.",
+            "Using too many transition words.",
+            "Failing to use the literary past tense.",
+            "Using an Oxymoron incorrectly."
+          ],
           "correct": 0
         }
       ]
