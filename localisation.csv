@@ -75,3 +75,27 @@ ui_correct;correct;correct;richtig
 ui_start_quiz;Start Quiz;Commencer le Quiz;Quiz Starten
 ui_questions;Questions;Questions;Fragen
 ui_quiz_title;Knowledge Check;Vérification des Connaissances;Wissensüberprüfung
+nav_apps;Apps;Applications;Apps
+nav_help;Help;Aide;Hilfe
+nav_signin;Sign in;Se connecter;Anmelden
+hub_eyebrow;The ecosystem;L'écosystème;Das Ökosystem
+hub_tagline;One home. Many tools.;Un seul endroit. Plusieurs outils.;Ein Zuhause. Viele Werkzeuge.
+hub_apps;Apps;Applications;Apps
+hub_open;Open;Ouvrir;Öffnen
+hub_count;1 app · more on the way;1 app · d'autres à venir;1 App · weitere folgen
+footer_tagline;A small, growing ecosystem of focused tools.;Un petit écosystème grandissant d'outils ciblés.;Ein kleines, wachsendes Ökosystem fokussierter Werkzeuge.
+footer_explore;Explore;Explorer;Entdecken
+footer_support;Support;Support;Support
+footer_help;Help Center;Centre d'aide;Hilfecenter
+footer_contact;Contact Us;Nous contacter;Kontakt
+footer_feedback;Feedback;Commentaires;Feedback
+about_title;One home. Many tools.;Un seul endroit. Plusieurs outils.;Ein Zuhause. Viele Werkzeuge.
+about_lede;noname is a small, growing ecosystem of focused tools. We build one thing at a time, and we build it to last.;noname est un petit écosystème grandissant d'outils ciblés. Nous construisons une chose à la fois, pour durer.;noname ist ein kleines, wachsendes Ökosystem fokussierter Werkzeuge. Wir bauen eins nach dem anderen – und für die Dauer.
+help_title;How can we help?;Comment pouvons-nous aider ?;Wie können wir helfen?
+help_lede;Short answers to the questions we hear most.;Réponses brèves aux questions les plus fréquentes.;Kurze Antworten auf die häufigsten Fragen.
+contact_title;Let's talk.;Discutons.;Sprechen wir.
+contact_lede;Questions, requests, or just hello — pick whatever's easiest.;Questions, demandes ou simplement bonjour — au plus simple.;Fragen, Wünsche oder einfach Hallo — wie es am einfachsten ist.
+feedback_title;Tell us what you think.;Dites-nous ce que vous en pensez.;Sagen Sie uns Ihre Meinung.
+feedback_lede;What helped, what didn't, what's missing.;Ce qui a aidé, ce qui manque.;Was geholfen hat, was fehlt.
+feedback_send;Send feedback;Envoyer;Senden
+feedback_note;Opens your email app — nothing is sent automatically.;Ouvre votre messagerie — rien n'est envoyé automatiquement.;Öffnet Ihre E-Mail-App — es wird nichts automatisch gesendet.
