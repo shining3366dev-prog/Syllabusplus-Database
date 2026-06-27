@@ -77,7 +77,13 @@ ui_questions;Questions;Questions;Fragen
 ui_quiz_title;Knowledge Check;Vérification des Connaissances;Wissensüberprüfung
 nav_apps;Apps;Applications;Apps
 nav_help;Help;Aide;Hilfe
+nav_sbplus;Syllabus+;Syllabus+;Syllabus+
+launcher_title;Apps;Applications;Apps
+footer_ecosystem;Ecosystem;Écosystème;Ökosystem
+footer_vision;Vision;Vision;Vision
+footer_roadmap;Roadmap;Feuille de route;Roadmap
 nav_signin;Sign in;Se connecter;Anmelden
+nav_logout;Logout;Déconnexion;Abmelden
 hub_eyebrow;The ecosystem;L'écosystème;Das Ökosystem
 hub_tagline;One home. Many tools.;Un seul endroit. Plusieurs outils.;Ein Zuhause. Viele Werkzeuge.
 hub_apps;Apps;Applications;Apps
