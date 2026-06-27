@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 260 120" preserveAspectRatio="xMidYMid slice" style="display:block" role="img" aria-label="Chemistry">
+  <rect width="260" height="120" fill="#54887c"/>
+  <g fill="none" stroke="#faf9f7" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M122 34 L122 52 L104 84 Q102 90 110 90 L150 90 Q158 90 156 84 L138 52 L138 34"/>
+    <path d="M117 34 L143 34"/>
+    <path d="M112 74 L148 74"/>
+  </g>
+</svg>
