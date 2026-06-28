@@ -60,9 +60,17 @@
       "heading": "C2: Divergent Movements & Oceanic Accretion",
       "heading_fr": "C2 : Mouvements Divergents et Accrétion Océanique",
       "heading_en": "C2: Divergent Movements & Oceanic Accretion",
-      "image": "https://www.larousse.fr/encyclopedie/data/animations/1100517-Expansion_des_fonds_oc%C3%A9aniques.jpg",
-      "imageSource": "Larousse",
-      "imageSourceUrl": "https://www.larousse.fr",
+      "diagram": "claude generated images/seafloor-spreading.svg",
+      "labels": {
+        "ocean": { "en": "Ocean", "fr": "Océan", "de": "Ozean" },
+        "ridge": { "en": "Mid-ocean ridge", "fr": "Dorsale océanique", "de": "Mittelozeanischer Rücken" },
+        "rift": { "en": "Rift valley", "fr": "Vallée du rift", "de": "Rifttal" },
+        "ocean_plate": { "en": "Oceanic plate", "fr": "Plaque océanique", "de": "Ozeanische Platte" },
+        "new_crust": { "en": "New oceanic crust", "fr": "Nouvelle croûte océanique", "de": "Neue ozeanische Kruste" },
+        "magma": { "en": "Magma", "fr": "Magma", "de": "Magma" },
+        "magma_chamber": { "en": "Magma chamber", "fr": "Chambre magmatique", "de": "Magmakammer" },
+        "mantle": { "en": "Mantle", "fr": "Manteau", "de": "Erdmantel" }
+      },
       "content": "There are three main types of plate boundaries. The first is <b>Divergence</b>, where two plates move apart. <br><br>When two oceanic plates pull apart, magma from the mantle rises to fill the gap. This process is called <b>Oceanic Accretion</b>. As the magma cools, it forms a giant underwater mountain range called a <b>Mid-Ocean Ridge (Dorsale océanique)</b>. This continuous process creates brand new oceanic crust and physically widens the ocean basin over millions of years (Seafloor Spreading).",
       "content_fr": "Il existe trois grands types de mouvements de plaques. Le premier est la <b>Divergence</b>, où deux plaques s'écartent l'une de l'autre. <br><br>Lorsque deux plaques océaniques s'écartent, le magma du manteau remonte pour combler le vide. Ce processus est appelé <b>Accrétion océanique</b>. En refroidissant, le magma forme une immense chaîne de montagnes sous-marines appelée <b>Dorsale océanique</b>. Ce processus continu crée une nouvelle croûte océanique et élargit physiquement l'océan au fil des millions d'années (Expansion des fonds océaniques)."
     },
@@ -71,7 +79,16 @@
       "heading": "C2: Convergent Movements (Subduction & Collision)",
       "heading_fr": "C2 : Mouvements Convergents (Subduction et Collision)",
       "heading_en": "C2: Convergent Movements (Subduction & Collision)",
-      "image": "subduction.svg",
+      "diagram": "claude generated images/subduction.svg",
+      "labels": {
+        "ocean_plate": { "en": "Oceanic plate", "fr": "Plaque océanique", "de": "Ozeanische Platte" },
+        "cont_plate": { "en": "Continental plate", "fr": "Plaque continentale", "de": "Kontinentalplatte" },
+        "trench": { "en": "Trench", "fr": "Fosse océanique", "de": "Tiefseegraben" },
+        "volcano": { "en": "Volcano", "fr": "Volcan", "de": "Vulkan" },
+        "magma": { "en": "Magma", "fr": "Magma", "de": "Magma" },
+        "mantle": { "en": "Mantle", "fr": "Manteau", "de": "Erdmantel" },
+        "convection": { "en": "Convection", "fr": "Convection", "de": "Konvektion" }
+      },
       "content": "The second type is <b>Convergence</b>, where plates crash into each other. This creates massive reliefs and destroys old crust. There are two main scenarios:<br><br><b>1. Subduction:</b> When a heavy, dense oceanic plate collides with a lighter continental plate (or another oceanic plate), the dense plate sinks (dives) deep into the mantle beneath the lighter one. This creates a deep ocean trench and melts the sinking rock, fueling explosive volcanoes on the surface.<br><br><b>2. Continental Collision:</b> When two continental plates meet, neither wants to sink because they are both light and buoyant. Instead, they crumple and fold upwards, creating massive, very high mountain ranges (e.g., the Himalayas, the Alps).",
       "content_fr": "Le deuxième type est la <b>Convergence</b>, où les plaques se rencontrent. Cela crée des reliefs massifs et détruit la vieille croûte. Il y a deux scénarios principaux :<br><br><b>1. La Subduction :</b> Lorsqu'une plaque océanique, très dense, percute une plaque continentale plus légère (ou une autre plaque océanique), la plaque dense s'enfonce (plonge) profondément dans le manteau sous l'autre. Cela crée une fosse océanique profonde et fait fondre la roche, alimentant des volcans explosifs en surface.<br><br><b>2. La Collision continentale :</b> Lorsque deux plaques continentales se rencontrent, aucune ne veut s'enfoncer car elles sont légères. À la place, elles s'écrasent et se plissent vers le haut, formant de très hautes chaînes de montagnes (ex: l'Himalaya, les Alpes)."
     },
@@ -121,9 +138,15 @@
       "heading": "Earthquakes: Magnitude vs Intensity",
       "heading_fr": "Séismes : Magnitude vs Intensité",
       "heading_en": "Earthquakes: Magnitude vs Intensity",
-      "image": "https://basecampconnect.com/wp-content/uploads/2022/01/eartquake20frequency20and20destructive20power.jpg",
-      "imageSource": "BaseCamp Connect",
-      "imageSourceUrl": "https://basecampconnect.com",
+      "diagram": "claude generated images/earthquake.svg",
+      "labels": {
+        "epicentre": { "en": "Epicentre", "fr": "Épicentre", "de": "Epizentrum" },
+        "focus": { "en": "Focus (hypocentre)", "fr": "Foyer (hypocentre)", "de": "Herd (Hypozentrum)" },
+        "fault": { "en": "Fault", "fr": "Faille", "de": "Verwerfung" },
+        "waves": { "en": "Seismic waves", "fr": "Ondes sismiques", "de": "Seismische Wellen" },
+        "surface": { "en": "Ground surface", "fr": "Surface", "de": "Erdoberfläche" },
+        "crust": { "en": "Crust", "fr": "Croûte", "de": "Erdkruste" }
+      },
       "content": "An earthquake (séisme) is a sudden release of energy caused by plates getting stuck (due to friction) and suddenly slipping. <br><br><b>Anatomy of a Quake:</b><br>- <b>The Focus (Foyer):</b> The exact point deep underground where the rock ruptures.<br>- <b>The Epicenter (Épicentre):</b> The point on the Earth's surface directly vertically above the focus. This is where shaking is usually strongest.<br><br><b>Measuring Earthquakes:</b><br>- <b>Magnitude:</b> Measures the total <i>energy released</i> at the source (measured by a seismograph, often on the Richter scale). It is an absolute number; an earthquake has only ONE magnitude.<br>- <b>Intensity:</b> Measures the <i>visible damage and perceived shaking</i> at a specific location. Intensity decreases the further you get from the epicenter and depends highly on the local soil and building quality.",
       "content_fr": "Un séisme est une libération soudaine d'énergie provoquée par le blocage des plaques (dû à la friction) qui glissent brusquement. <br><br><b>Anatomie d'un séisme :</b><br>- <b>Le Foyer :</b> Le point souterrain exact où la roche se rompt.<br>- <b>L'Épicentre :</b> Le point à la surface de la Terre situé directement à la verticale du foyer. C'est généralement là que les secousses sont les plus fortes.<br><br><b>Mesurer les séismes :</b><br>- <b>La Magnitude :</b> Mesure l'<i>énergie totale libérée</i> à la source (mesurée par un sismographe, échelle de Richter). C'est un chiffre absolu ; un séisme n'a qu'UNE seule magnitude.<br>- <b>L'Intensité :</b> Mesure les <i>dégâts visibles et les secousses ressenties</i> en un lieu précis. L'intensité diminue plus on s'éloigne de l'épicentre et dépend beaucoup de la qualité du sol et des bâtiments locaux."
     },
@@ -181,9 +204,17 @@
       "heading": "The Rock Cycle: Magma & Solid Rock",
       "heading_fr": "Le Cycle des Roches : Magma et Roche Solide",
       "heading_en": "The Rock Cycle: Magma & Solid Rock",
-      "image": "https://eschooltoday.com/learn/wp-content/uploads/2020/12/diagram-of-the-rock-cycle.jpg",
-      "imageSource": "eSchoolToday",
-      "imageSourceUrl": "https://eschooltoday.com",
+      "diagram": "claude generated images/rock-cycle.svg",
+      "labels": {
+        "magma": { "en": "Magma", "fr": "Magma", "de": "Magma" },
+        "igneous": { "en": "Igneous rock", "fr": "Roche magmatique", "de": "Magmatisches Gestein" },
+        "sedimentary": { "en": "Sedimentary rock", "fr": "Roche sédimentaire", "de": "Sedimentgestein" },
+        "metamorphic": { "en": "Metamorphic rock", "fr": "Roche métamorphique", "de": "Metamorphes Gestein" },
+        "cooling": { "en": "Cooling", "fr": "Refroidissement", "de": "Abkühlung" },
+        "weathering": { "en": "Weathering & erosion", "fr": "Érosion", "de": "Verwitterung & Erosion" },
+        "heat_pressure": { "en": "Heat & pressure", "fr": "Chaleur & pression", "de": "Hitze & Druck" },
+        "melting": { "en": "Melting", "fr": "Fusion", "de": "Schmelzen" }
+      },
       "content": "The Earth is constantly recycling its crust through the <b>Rock Cycle</b>. The diagram above illustrates how rocks transform over time. For Geography, you must understand the transition between liquid Magma and Solid Rock:<br><br><b>1. How Magma turns Solid (Cooling):</b><br>When extremely hot, molten rock (magma) rises from the mantle towards the Earth's cooler crust or erupts from a volcano (as lava), it loses heat rapidly. Through the process of <b>Cooling and Crystallization</b>, the liquid magma hardens and locks its minerals into place, forming solid <i>Igneous Rock</i>.<br><br><b>2. How Solid Rock turns back to Magma (Melting):</b><br>Over millions of years, solid rocks at the surface can be pushed deep underground, mostly through <b>Subduction</b> at convergent plate boundaries. As the tectonic plate drags the solid rock deeper into the mantle, it faces extreme heat and pressure. This causes the <b>Melting</b> of the solid rock, turning it back into liquid magma, ready to fuel a volcano or harden into crust again.",
       "content_fr": "La Terre recycle constamment sa croûte via le <b>Cycle des Roches</b>. Le diagramme illustre cette transformation. Vous devez bien comprendre la transition entre le magma liquide et la roche solide :<br><br><b>1. Comment le magma devient solide (Refroidissement) :</b><br>Lorsque la roche en fusion (magma) remonte du manteau ou entre en éruption (lave), elle perd sa chaleur. Par le processus de <b>refroidissement et de cristallisation</b>, le magma liquide durcit et forme une <i>roche magmatique (ignée)</i> solide.<br><br><b>2. Comment la roche solide redevient magma (Fusion) :</b><br>Au fil des millions d'années, les roches solides peuvent être enfouies profondément, principalement par <b>Subduction</b> aux frontières convergentes. La chaleur et la pression extrêmes des profondeurs provoquent la <b>Fusion</b> de la roche solide, qui redevient du magma liquide, prêt à alimenter un volcan ou à créer une nouvelle croûte."
     },

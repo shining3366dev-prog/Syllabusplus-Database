@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 340" style="display:block;width:100%;height:auto" role="img" aria-label="Mid-ocean ridge where two plates diverge and magma forms new oceanic crust">
+  <title>Seafloor spreading</title>
+  <defs>
+    <linearGradient id="oceanSf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#83a7bb"/><stop offset="1" stop-color="#4f7286"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="620" height="160" fill="url(#oceanSf)"/>
+  <rect x="0" y="160" width="620" height="180" fill="#c9a079"/>
+  <rect x="0" y="160" width="620" height="52" fill="#d2b089" opacity="0.55"/>
+
+  <!-- wave hints -->
+  <g stroke="#bcd4df" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.6">
+    <path d="M40,30 q12,-6 24,0 t24,0"/><path d="M520,30 q12,-6 24,0 t24,0"/>
+  </g>
+
+  <!-- oceanic crust with central ridge + rift -->
+  <path d="M0,170 L240,150 L298,132 L304,150 L316,150 L322,132 L380,150 L620,170 L620,194 L380,174 L322,156 L316,174 L304,174 L298,156 L240,174 L0,194 Z" fill="#586b62" stroke="#3c453f" stroke-width="1.5" stroke-linejoin="round"/>
+
+  <!-- magma chamber + upwelling -->
+  <ellipse cx="310" cy="232" rx="32" ry="14" fill="#c0603f"/>
+  <line x1="310" y1="220" x2="310" y2="156" stroke="#c0603f" stroke-width="7" stroke-linecap="round"/>
+  <polygon points="302,158 310,144 318,158" fill="#c0603f"/>
+  <g fill="#c0603f"><circle cx="305" cy="151" r="3"/><circle cx="315" cy="151" r="3"/></g>
+
+  <!-- divergence arrows -->
+  <g stroke="#2a2620" stroke-width="4" stroke-linecap="round" fill="#2a2620">
+    <line x1="175" y1="138" x2="114" y2="138"/><polygon points="122,132 106,138 122,144" stroke="none"/>
+    <line x1="445" y1="138" x2="506" y2="138"/><polygon points="498,132 514,138 498,144" stroke="none"/>
+  </g>
+
+  <!-- leaders -->
+  <g stroke="#5a5247" stroke-width="1.2" fill="#5a5247">
+    <line x1="310" y1="48" x2="310" y2="128"/><circle cx="310" cy="128" r="2.4"/>
+    <line x1="452" y1="62" x2="318" y2="150"/><circle cx="318" cy="150" r="2.4"/>
+    <line x1="95" y1="132" x2="150" y2="158"/><circle cx="150" cy="158" r="2.4"/>
+    <line x1="430" y1="292" x2="346" y2="152"/><circle cx="346" cy="152" r="2.4"/>
+    <line x1="258" y1="214" x2="304" y2="200"/><circle cx="304" cy="200" r="2.4"/>
+    <line x1="348" y1="232" x2="340" y2="232"/><circle cx="340" cy="232" r="2.4"/>
+  </g>
+
+  <!-- translatable labels -->
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#2a2620" paint-order="stroke" stroke="#faf9f7" stroke-width="3.4" stroke-linejoin="round">
+    <text data-label="ocean" x="40" y="52" text-anchor="start">Ocean</text>
+    <text data-label="ridge" x="310" y="42" text-anchor="middle">Mid-ocean ridge</text>
+    <text data-label="rift" x="456" y="58" text-anchor="end">Rift valley</text>
+    <text data-label="ocean_plate" x="46" y="128" text-anchor="start">Oceanic plate</text>
+    <text data-label="new_crust" x="432" y="306" text-anchor="end">New oceanic crust</text>
+    <text data-label="magma" x="252" y="214" text-anchor="end">Magma</text>
+    <text data-label="magma_chamber" x="356" y="236" text-anchor="start">Magma chamber</text>
+    <text data-label="mantle" x="596" y="332" text-anchor="end">Mantle</text>
+  </g>
+</svg>

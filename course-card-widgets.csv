@@ -1,22 +1,22 @@
 Card Name;Description;Available?;BG Color;Image;Years
-English;L1 available;TRUE;#6b7e92;english.svg;S1,S2,S3,S4,S5,S6,S7
-French;L2 available;FALSE;#6d7298;french.svg;S1,S2,S3,S4,S5,S6,S7
-German;L3 available;FALSE;#8c7d52;german.svg;S1,S2,S3,S4,S5,S6,S7
-Spanish;Currently not available;FALSE;#a5705c;spanish.svg;S1,S2,S3,S4,S5,S6,S7
-Latin;4 Period Latin;FALSE;#7e6885;latin.svg;S4,S5,S6,S7
-Economics;Currently not available;FALSE;#57827a;economics.svg;S4,S5,S6,S7
-Advance Luxembourgish;Why do I need this?;FALSE;#5c8494;luxembourgish.svg;S1,S2,S3,S4,S5,S6,S7
-Beginner Luxembourgish;Why do I need this?;FALSE;#5c8494;luxembourgish.svg;S1,S2,S3,S4,S5,S6,S7
-Biology;;FALSE;#6f8a62;biology.svg;S4,S5,S6,S7
-Chemistry;;FALSE;#54887c;chemistry.svg;S4,S5,S6,S7
-Physics;Bruh;True;#5a7689;physics.svg;S4,S5,S6,S7
-Integrated Science;Bruh;FALSE;#5a8389;integrated-science.svg;S1,S2,S3
-Human Science;Bruh;FALSE;#8a7280;human-science.svg;S1,S2,S3
-Maths;These really cooks;FALSE;#5f6b78;maths.svg;S1,S2,S3
-4 periods Maths;These really cooks;FALSE;#5f6b78;maths.svg;S4,S5
-6 periods Maths;These really cooks;TRUE;#5f6b78;maths.svg;S4,S5
-Geography;;True;#9c7c54;geography.svg;S4,S5,S6,S7
-History;;TRUE;#94705a;history.svg;S4,S5,S6,S7
-Vieso;;FALSE;#74795c;vieso.svg;S1,S2,S3,S4,S5,S6,S7
-ICT;Why do I need this?;False;#62667f;ict.svg;S1,S3,S4,S5,S6,S7
-Art;Why do I need this?;False;#95677b;art.svg;S1,S2,S3,S4,S5,S6,S7
+English;L1 available;TRUE;#6b7e92;claude generated images/english.svg;S1,S2,S3,S4,S5,S6,S7
+French;L2 available;FALSE;#6d7298;claude generated images/french.svg;S1,S2,S3,S4,S5,S6,S7
+German;L3 available;FALSE;#8c7d52;claude generated images/german.svg;S1,S2,S3,S4,S5,S6,S7
+Spanish;Currently not available;FALSE;#a5705c;claude generated images/spanish.svg;S1,S2,S3,S4,S5,S6,S7
+Latin;4 Period Latin;FALSE;#7e6885;claude generated images/latin.svg;S4,S5,S6,S7
+Economics;Currently not available;FALSE;#57827a;claude generated images/economics.svg;S4,S5,S6,S7
+Advance Luxembourgish;Why do I need this?;FALSE;#5c8494;claude generated images/luxembourgish.svg;S1,S2,S3,S4,S5,S6,S7
+Beginner Luxembourgish;Why do I need this?;FALSE;#5c8494;claude generated images/luxembourgish.svg;S1,S2,S3,S4,S5,S6,S7
+Biology;;FALSE;#6f8a62;claude generated images/biology.svg;S4,S5,S6,S7
+Chemistry;;FALSE;#54887c;claude generated images/chemistry.svg;S4,S5,S6,S7
+Physics;Bruh;True;#5a7689;claude generated images/physics.svg;S4,S5,S6,S7
+Integrated Science;Bruh;FALSE;#5a8389;claude generated images/integrated-science.svg;S1,S2,S3
+Human Science;Bruh;FALSE;#8a7280;claude generated images/human-science.svg;S1,S2,S3
+Maths;These really cooks;FALSE;#5f6b78;claude generated images/maths.svg;S1,S2,S3
+4 periods Maths;These really cooks;FALSE;#5f6b78;claude generated images/maths.svg;S4,S5
+6 periods Maths;These really cooks;TRUE;#5f6b78;claude generated images/maths.svg;S4,S5
+Geography;;True;#9c7c54;claude generated images/geography.svg;S4,S5,S6,S7
+History;;TRUE;#94705a;claude generated images/history.svg;S4,S5,S6,S7
+Vieso;;FALSE;#74795c;claude generated images/vieso.svg;S1,S2,S3,S4,S5,S6,S7
+ICT;Why do I need this?;False;#62667f;claude generated images/ict.svg;S1,S3,S4,S5,S6,S7
+Art;Why do I need this?;False;#95677b;claude generated images/art.svg;S1,S2,S3,S4,S5,S6,S7

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 340" style="display:block;width:100%;height:auto" role="img" aria-label="The rock cycle: magma cools to igneous rock, which erodes to sedimentary rock, transforms under heat and pressure to metamorphic rock, then melts back to magma">
+  <title>Rock cycle</title>
+  <rect x="0" y="0" width="620" height="340" fill="#faf9f7"/>
+
+  <!-- cycle arrows (clockwise) -->
+  <g fill="none" stroke="#6f5736" stroke-width="3" stroke-linecap="round">
+    <path d="M168,160 C196,120 214,92 240,86"/>
+    <path d="M378,86 C448,92 492,118 502,154"/>
+    <path d="M502,206 C492,250 448,290 384,292"/>
+    <path d="M240,294 C176,292 150,250 140,206"/>
+  </g>
+  <g fill="#6f5736">
+    <polygon points="236,79 252,86 238,94"/>
+    <polygon points="495,148 503,164 510,150"/>
+    <polygon points="392,285 378,293 392,299"/>
+    <polygon points="133,214 140,198 147,213"/>
+  </g>
+
+  <!-- nodes -->
+  <g stroke-width="1.5">
+    <rect x="40"  y="158" width="150" height="44" rx="12" fill="#c0603f" stroke="#9a4a2e"/>
+    <rect x="235" y="52"  width="150" height="44" rx="12" fill="#6e7b6a" stroke="#56614f"/>
+    <rect x="430" y="158" width="150" height="44" rx="12" fill="#c0a060" stroke="#9a7e44"/>
+    <rect x="235" y="264" width="150" height="44" rx="12" fill="#8a6f86" stroke="#6d556a"/>
+  </g>
+
+  <!-- node labels (translatable) -->
+  <g font-family="Inter, system-ui, sans-serif" font-size="12.5" font-weight="600" fill="#faf9f7" text-anchor="middle">
+    <text data-label="magma" x="115" y="184">Magma</text>
+    <text data-label="igneous" x="310" y="78">Igneous rock</text>
+    <text data-label="sedimentary" x="505" y="184">Sedimentary rock</text>
+    <text data-label="metamorphic" x="310" y="290">Metamorphic rock</text>
+  </g>
+
+  <!-- process labels (translatable) -->
+  <g font-family="Inter, system-ui, sans-serif" font-size="12.5" font-weight="600" fill="#2a2620" text-anchor="middle" paint-order="stroke" stroke="#faf9f7" stroke-width="3.4" stroke-linejoin="round">
+    <text data-label="cooling" x="182" y="116">Cooling</text>
+    <text data-label="weathering" x="452" y="116">Weathering &amp; erosion</text>
+    <text data-label="heat_pressure" x="452" y="252">Heat &amp; pressure</text>
+    <text data-label="melting" x="178" y="252">Melting</text>
+  </g>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 340" style="display:block;width:100%;height:auto" role="img" aria-label="Earthquake cross-section showing the focus underground, the epicentre on the surface, a fault and radiating seismic waves">
+  <title>Earthquake</title>
+
+  <rect x="0" y="0" width="620" height="120" fill="#eef2f4"/>
+  <rect x="0" y="120" width="620" height="220" fill="#b08a5a"/>
+  <g stroke="#977442" stroke-width="1.5" opacity="0.45"><line x1="0" y1="186" x2="620" y2="186"/><line x1="0" y1="252" x2="620" y2="252"/></g>
+  <line x1="0" y1="120" x2="620" y2="120" stroke="#6f5736" stroke-width="2"/>
+
+  <!-- buildings near the epicentre -->
+  <g fill="#7c6450" stroke="#574636" stroke-width="1.2" stroke-linejoin="round">
+    <rect x="300" y="104" width="20" height="16"/><polygon points="298,104 310,93 322,104"/>
+    <rect x="344" y="100" width="20" height="20"/><polygon points="342,100 354,90 366,100"/>
+  </g>
+
+  <!-- fault line + relative motion -->
+  <line x1="252" y1="120" x2="402" y2="300" stroke="#4f3d2c" stroke-width="3"/>
+  <g stroke="#4f3d2c" stroke-width="2.4" fill="#4f3d2c" stroke-linecap="round">
+    <line x1="300" y1="206" x2="300" y2="184"/><polygon points="296,190 300,178 304,190" stroke="none"/>
+    <line x1="338" y1="214" x2="338" y2="236"/><polygon points="334,230 338,242 342,230" stroke="none"/>
+  </g>
+
+  <!-- seismic waves -->
+  <g fill="none" stroke="#c0603f" stroke-linecap="round">
+    <path d="M282,232 A45 45 0 0 1 372,232" stroke-width="2.4" opacity="0.75"/>
+    <path d="M247,232 A80 80 0 0 1 407,232" stroke-width="2.4" opacity="0.5"/>
+    <path d="M212,232 A115 115 0 0 1 442,232" stroke-width="2.4" opacity="0.32"/>
+  </g>
+
+  <!-- focus burst -->
+  <g stroke="#c0603f" stroke-width="2.4" stroke-linecap="round">
+    <line x1="327" y1="232" x2="327" y2="216"/><line x1="327" y1="232" x2="343" y2="232"/>
+    <line x1="327" y1="232" x2="311" y2="232"/><line x1="327" y1="232" x2="339" y2="220"/>
+    <line x1="327" y1="232" x2="315" y2="244"/><line x1="327" y1="232" x2="339" y2="244"/><line x1="327" y1="232" x2="315" y2="220"/>
+  </g>
+  <circle cx="327" cy="232" r="5.5" fill="#c0603f"/>
+
+  <!-- epicentre marker + vertical link -->
+  <line x1="327" y1="120" x2="327" y2="226" stroke="#4f3d2c" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <circle cx="327" cy="120" r="7.5" fill="none" stroke="#c0603f" stroke-width="3"/>
+  <circle cx="327" cy="120" r="2.5" fill="#c0603f"/>
+
+  <!-- leaders -->
+  <g stroke="#5a5247" stroke-width="1.2" fill="#5a5247">
+    <line x1="424" y1="74" x2="332" y2="116"/><circle cx="332" cy="116" r="2.4"/>
+    <line x1="452" y1="252" x2="340" y2="232"/><circle cx="340" cy="232" r="2.4"/>
+    <line x1="150" y1="298" x2="372" y2="268"/><circle cx="372" cy="268" r="2.4"/>
+    <line x1="112" y1="158" x2="216" y2="198"/><circle cx="216" cy="198" r="2.4"/>
+  </g>
+
+  <!-- translatable labels -->
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#2a2620" paint-order="stroke" stroke="#faf9f7" stroke-width="3.4" stroke-linejoin="round">
+    <text data-label="epicentre" x="428" y="72" text-anchor="end">Epicentre</text>
+    <text data-label="focus" x="456" y="256" text-anchor="start">Focus (hypocentre)</text>
+    <text data-label="fault" x="146" y="302" text-anchor="end">Fault</text>
+    <text data-label="waves" x="60" y="156" text-anchor="start">Seismic waves</text>
+    <text data-label="surface" x="60" y="112" text-anchor="start">Ground surface</text>
+    <text data-label="crust" x="596" y="332" text-anchor="end">Crust</text>
+  </g>
+</svg>

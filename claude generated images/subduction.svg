@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 340" style="display:block;width:100%;height:auto" role="img" aria-label="Cross-section of an oceanic plate subducting beneath a continental plate">
+  <title>Subduction</title>
+  <defs>
+    <linearGradient id="ocean" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#83a7bb"/>
+      <stop offset="1" stop-color="#4f7286"/>
+    </linearGradient>
+  </defs>
+
+  <!-- sky, mantle, asthenosphere hint -->
+  <rect x="0" y="0" width="620" height="150" fill="#eef2f4"/>
+  <rect x="0" y="150" width="620" height="190" fill="#c9a079"/>
+  <rect x="0" y="150" width="620" height="58" fill="#d2b089" opacity="0.55"/>
+
+  <!-- mantle convection currents -->
+  <g fill="none" stroke="#9a7044" stroke-width="3" stroke-linecap="round" opacity="0.85">
+    <path d="M120,305 C108,255 150,232 205,252"/>
+    <path d="M540,305 C552,255 510,232 455,252"/>
+  </g>
+  <g fill="#9a7044" opacity="0.85">
+    <polygon points="205,252 194,245 198,259"/>
+    <polygon points="455,252 466,245 462,259"/>
+  </g>
+
+  <!-- oceanic plate (subducting slab) -->
+  <path d="M0,135 L270,135 L300,150 L452,292 L470,316 L486,306 L320,170 L270,161 L0,161 Z" fill="#586b62" stroke="#3c453f" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- melting slab tip + magma feed -->
+  <path d="M452,292 L470,316 L486,306" fill="none" stroke="#c0603f" stroke-width="2.5" stroke-dasharray="2 5" stroke-linecap="round"/>
+  <g fill="#c0603f"><circle cx="448" cy="284" r="3.5"/><circle cx="440" cy="270" r="3"/><circle cx="434" cy="256" r="2.6"/></g>
+
+  <!-- continental plate -->
+  <path d="M300,124 L620,112 L620,225 L380,225 L330,170 L305,150 Z" fill="#9c7c54" stroke="#6f5736" stroke-width="1.5" stroke-linejoin="round"/>
+
+  <!-- ocean with depth shading + waves -->
+  <path d="M0,100 L295,100 L305,150 L300,150 L270,135 L0,135 Z" fill="url(#ocean)"/>
+  <g stroke="#bcd4df" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.7">
+    <path d="M30,108 q12,-6 24,0 t24,0"/><path d="M130,110 q12,-6 24,0 t24,0"/><path d="M225,108 q12,-6 24,0 t24,0"/>
+  </g>
+
+  <!-- magma chamber, conduit, slab feed -->
+  <ellipse cx="430" cy="238" rx="22" ry="11" fill="#c0603f"/>
+  <path d="M430,228 C422,200 440,152 430,122" fill="none" stroke="#c0603f" stroke-width="6" stroke-linecap="round"/>
+  <path d="M452,286 C446,268 438,256 432,248" fill="none" stroke="#c0603f" stroke-width="3" stroke-dasharray="3 4" stroke-linecap="round"/>
+
+  <!-- volcano + eruption -->
+  <path d="M398,120 L462,120 L437,74 L425,74 Z" fill="#6e553f" stroke="#4f3d2c" stroke-width="1.5" stroke-linejoin="round"/>
+  <g fill="#c0603f"><circle cx="431" cy="70" r="6"/><circle cx="421" cy="61" r="4"/><circle cx="441" cy="62" r="4"/><circle cx="431" cy="52" r="3"/></g>
+
+  <!-- plate-motion + subduction arrows -->
+  <g stroke="#33302b" stroke-width="4" stroke-linecap="round" fill="#33302b">
+    <line x1="60" y1="88" x2="142" y2="88"/><polygon points="142,82 156,88 142,94" stroke="none"/>
+    <line x1="585" y1="86" x2="503" y2="86"/><polygon points="503,80 489,86 503,92" stroke="none"/>
+  </g>
+  <g stroke="#eef2f4" stroke-width="4" stroke-linecap="round" fill="#eef2f4">
+    <line x1="348" y1="198" x2="404" y2="256"/><polygon points="396,251 410,264 392,265" stroke="none"/>
+  </g>
+
+  <!-- leader lines -->
+  <g stroke="#5a5247" stroke-width="1.2" fill="#5a5247">
+    <line x1="118" y1="46" x2="180" y2="146"/><circle cx="180" cy="146" r="2.4"/>
+    <line x1="556" y1="46" x2="524" y2="150"/><circle cx="524" cy="150" r="2.4"/>
+    <line x1="300" y1="50" x2="303" y2="146"/><circle cx="303" cy="146" r="2.4"/>
+    <line x1="470" y1="66" x2="440" y2="82"/><circle cx="440" cy="82" r="2.4"/>
+    <line x1="500" y1="238" x2="454" y2="238"/><circle cx="454" cy="238" r="2.4"/>
+    <line x1="150" y1="312" x2="178" y2="282"/><circle cx="178" cy="282" r="2.4"/>
+  </g>
+
+  <!-- translatable labels -->
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#2a2620" paint-order="stroke" stroke="#faf9f7" stroke-width="3.4" stroke-linejoin="round">
+    <text data-label="ocean_plate" x="58" y="42" text-anchor="start">Oceanic plate</text>
+    <text data-label="cont_plate" x="602" y="42" text-anchor="end">Continental plate</text>
+    <text data-label="trench" x="300" y="44" text-anchor="middle">Trench</text>
+    <text data-label="volcano" x="476" y="60" text-anchor="start">Volcano</text>
+    <text data-label="magma" x="506" y="242" text-anchor="start">Magma</text>
+    <text data-label="convection" x="112" y="326" text-anchor="start">Convection</text>
+    <text data-label="mantle" x="602" y="330" text-anchor="end">Mantle</text>
+  </g>
+</svg>
