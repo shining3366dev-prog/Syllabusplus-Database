@@ -96,6 +96,9 @@ footer_support;Support;Support;Support
 footer_help;Help Center;Centre d'aide;Hilfecenter
 footer_contact;Contact Us;Nous contacter;Kontakt
 footer_feedback;Feedback;Commentaires;Feedback
+footer_privacy;Privacy;Confidentialité;Datenschutz
+privacy_title;Privacy Policy;Politique de confidentialité;Datenschutzerklärung
+privacy_lede;What we collect, how cookies and ads work, and the choices you have.;Ce que nous collectons, le fonctionnement des cookies et des publicités, et vos choix.;Was wir erfassen, wie Cookies und Werbung funktionieren und welche Wahlmöglichkeiten Sie haben.
 about_title;One home. Many tools.;Un seul endroit. Plusieurs outils.;Ein Zuhause. Viele Werkzeuge.
 about_lede;noname is a small, growing ecosystem of focused web tools. We build one thing at a time, and we build it to last.;noname est un petit écosystème grandissant d'outils web ciblés. Nous construisons une chose à la fois, et nous la construisons pour durer.;noname ist ein kleines, wachsendes Ökosystem fokussierter Web-Tools. Wir bauen eins nach dem anderen — und auf Dauer.
 about_h_what;What noname is;Ce qu'est noname;Was noname ist
