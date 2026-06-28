@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" style="display:block;width:100%;height:auto" role="img" aria-label="A free-fall velocity-time curve that rises then levels off at terminal velocity, where weight equals air resistance">
+  <title>Free fall and terminal velocity</title>
+  <g stroke="#2a2620" stroke-width="2.5" fill="#2a2620" stroke-linecap="round">
+    <line x1="70" y1="300" x2="488" y2="300"/><polygon points="488,294 502,300 488,306" stroke="none"/>
+    <line x1="70" y1="300" x2="70" y2="42"/><polygon points="64,42 70,28 76,42" stroke="none"/>
+  </g>
+  <!-- terminal velocity asymptote -->
+  <line x1="70" y1="110" x2="470" y2="110" stroke="#2a2620" stroke-width="1.6" stroke-dasharray="6 5"/>
+  <!-- free-fall curve -->
+  <path d="M70,300 C150,150 250,118 460,112" fill="none" stroke="#b0653f" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- force pair near start (accelerating): big weight down, small drag up -->
+  <g stroke="#2a2620" stroke-width="2.4" fill="#2a2620" stroke-linecap="round">
+    <line x1="150" y1="214" x2="150" y2="262"/><polygon points="144,256 150,270 156,256" stroke="none"/>
+    <line x1="150" y1="214" x2="150" y2="196"/><polygon points="145,201 150,189 155,201" stroke="none"/>
+  </g>
+  <!-- force pair near terminal (balanced): equal weight + drag -->
+  <g stroke="#2a2620" stroke-width="2.4" fill="#2a2620" stroke-linecap="round">
+    <line x1="400" y1="135" x2="400" y2="165"/><polygon points="394,159 400,173 406,159" stroke="none"/>
+    <line x1="400" y1="135" x2="400" y2="105"/><polygon points="394,111 400,97 406,111" stroke="none"/>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="600" fill="#2a2620" paint-order="stroke" stroke="#ffffff" stroke-width="3.6" stroke-linejoin="round">
+    <text data-label="v_axis" x="86" y="44" text-anchor="start">Velocity (m/s)</text>
+    <text data-label="t_axis" x="430" y="326" text-anchor="middle">Time (s)</text>
+    <text data-label="terminal" x="240" y="100" text-anchor="middle">Terminal velocity</text>
+    <text data-label="accel" x="172" y="244" text-anchor="start">W &gt; air resistance</text>
+    <text data-label="balanced" x="392" y="150" text-anchor="end">W = air resistance</text>
+  </g>
+</svg>

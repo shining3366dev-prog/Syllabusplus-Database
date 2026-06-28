@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" style="display:block;width:100%;height:auto" role="img" aria-label="A distance-time graph: a sloping line is constant speed (gradient = speed), a flat line is at rest">
+  <title>Distance-time graph</title>
+  <g stroke="#2a2620" stroke-width="2.5" fill="#2a2620" stroke-linecap="round">
+    <line x1="70" y1="300" x2="488" y2="300"/><polygon points="488,294 502,300 488,306" stroke="none"/>
+    <line x1="70" y1="300" x2="70" y2="42"/><polygon points="64,42 70,28 76,42" stroke="none"/>
+  </g>
+  <!-- moving (sloped) then at rest (flat) -->
+  <polyline points="70,280 260,110 430,110" fill="none" stroke="#b0653f" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- slope triangle on first segment -->
+  <g stroke="#2a2620" stroke-width="1.6" stroke-dasharray="5 4" fill="none">
+    <line x1="130" y1="226" x2="210" y2="226"/>
+    <line x1="210" y1="226" x2="210" y2="155"/>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="600" fill="#2a2620" paint-order="stroke" stroke="#ffffff" stroke-width="3.6" stroke-linejoin="round">
+    <text data-label="d_axis" x="86" y="44" text-anchor="start">Distance (m)</text>
+    <text data-label="t_axis" x="430" y="326" text-anchor="middle">Time (s)</text>
+    <text data-label="gradient" x="224" y="196" text-anchor="start">gradient = speed</text>
+    <text data-label="rest" x="345" y="100" text-anchor="middle">flat = at rest</text>
+  </g>
+</svg>

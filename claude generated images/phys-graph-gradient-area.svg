@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" style="display:block;width:100%;height:auto" role="img" aria-label="A line graph showing how the gradient (rise over run) and the area under the line are read">
+  <title>Gradient and area of a graph</title>
+  <!-- area under line -->
+  <polygon points="90,255 445,90 445,300 90,300" fill="#b0653f" fill-opacity="0.15"/>
+  <!-- axes -->
+  <g stroke="#2a2620" stroke-width="2.5" fill="#2a2620" stroke-linecap="round">
+    <line x1="70" y1="300" x2="488" y2="300"/><polygon points="488,294 502,300 488,306" stroke="none"/>
+    <line x1="70" y1="300" x2="70" y2="42"/><polygon points="64,42 70,28 76,42" stroke="none"/>
+  </g>
+  <!-- data line -->
+  <line x1="90" y1="255" x2="445" y2="90" stroke="#b0653f" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- slope triangle -->
+  <g stroke="#2a2620" stroke-width="1.6" stroke-dasharray="5 4" fill="none">
+    <line x1="200" y1="204" x2="330" y2="204"/>
+    <line x1="330" y1="204" x2="330" y2="144"/>
+  </g>
+  <g fill="#b0653f"><circle cx="200" cy="204" r="4.5"/><circle cx="330" cy="144" r="4.5"/></g>
+  <!-- labels -->
+  <g font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="600" fill="#2a2620" paint-order="stroke" stroke="#ffffff" stroke-width="3.6" stroke-linejoin="round">
+    <text data-label="y_axis" x="86" y="44" text-anchor="start">Y</text>
+    <text data-label="x_axis" x="470" y="326" text-anchor="start">X</text>
+    <text data-label="gradient" x="300" y="74" text-anchor="middle">gradient = Δy ÷ Δx</text>
+    <text data-label="rise" x="344" y="178" text-anchor="start">Δy</text>
+    <text data-label="run" x="265" y="224" text-anchor="middle">Δx</text>
+    <text data-label="area" x="250" y="280" text-anchor="middle">area</text>
+  </g>
+</svg>

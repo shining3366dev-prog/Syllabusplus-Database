@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 300" style="display:block;width:100%;height:auto" role="img" aria-label="Vectors in one dimension on a number line: a plus 5 newton vector and a minus 3 newton vector combine to a resultant of plus 2 newtons">
+  <title>Vectors in one dimension</title>
+  <!-- axis / number line -->
+  <g stroke="#2a2620" stroke-width="2.5" fill="#2a2620" stroke-linecap="round">
+    <line x1="40" y1="120" x2="490" y2="120"/><polygon points="490,114 504,120 490,126" stroke="none"/>
+    <line x1="40" y1="120" x2="26" y2="120"/><polygon points="30,114 16,120 30,126" stroke="none"/>
+  </g>
+  <g stroke="#2a2620" stroke-width="1.5"><line x1="60" y1="114" x2="60" y2="126"/><line x1="260" y1="114" x2="260" y2="126"/><line x1="460" y1="114" x2="460" y2="126"/></g>
+  <!-- vector A: +5 (right) -->
+  <g stroke="#b0653f" stroke-width="4" fill="#b0653f" stroke-linecap="round">
+    <line x1="60" y1="80" x2="252" y2="80"/><polygon points="252,72 268,80 252,88" stroke="none"/>
+  </g>
+  <!-- vector B: -3 (left) -->
+  <g stroke="#3f6a8c" stroke-width="4" fill="#3f6a8c" stroke-linecap="round">
+    <line x1="260" y1="170" x2="148" y2="170"/><polygon points="156,162 140,170 156,178" stroke="none"/>
+  </g>
+  <!-- resultant: +2 -->
+  <g stroke="#2f7d4f" stroke-width="4" fill="#2f7d4f" stroke-linecap="round">
+    <line x1="60" y1="230" x2="132" y2="230"/><polygon points="132,222 148,230 132,238" stroke="none"/>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="600" fill="#2a2620" paint-order="stroke" stroke="#ffffff" stroke-width="3.6" stroke-linejoin="round">
+    <text data-label="pos_dir" x="430" y="108" text-anchor="middle">positive direction</text>
+    <text data-label="vecA" x="156" y="68" text-anchor="middle" fill="#8a4a2c">+5 N</text>
+    <text data-label="vecB" x="204" y="160" text-anchor="middle" fill="#2f5870">−3 N</text>
+    <text data-label="result" x="160" y="234" text-anchor="start" fill="#1f5a38">resultant = +2 N</text>
+  </g>
+</svg>

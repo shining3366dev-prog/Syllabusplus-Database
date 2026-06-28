@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 300" style="display:block;width:100%;height:auto" role="img" aria-label="Newton's third law: two blocks push each other with equal and opposite forces">
+  <title>Newton's third law: action and reaction</title>
+  <!-- ground -->
+  <line x1="40" y1="210" x2="480" y2="210" stroke="#2a2620" stroke-width="2.5"/>
+  <!-- block A -->
+  <rect x="120" y="140" width="110" height="70" rx="6" fill="#b0653f" stroke="#8a4a2c" stroke-width="2"/>
+  <!-- block B -->
+  <rect x="290" y="140" width="110" height="70" rx="6" fill="#3f6a8c" stroke="#2f5870" stroke-width="2"/>
+  <!-- contact line -->
+  <line x1="260" y1="140" x2="260" y2="210" stroke="#2a2620" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <!-- force A on B (points right, starts at contact) -->
+  <g stroke="#2a2620" stroke-width="4" fill="#2a2620" stroke-linecap="round">
+    <line x1="262" y1="120" x2="342" y2="120"/><polygon points="334,112 352,120 334,128" stroke="none"/>
+  </g>
+  <!-- force B on A (points left, equal length) -->
+  <g stroke="#2a2620" stroke-width="4" fill="#2a2620" stroke-linecap="round">
+    <line x1="258" y1="230" x2="178" y2="230"/><polygon points="186,222 168,230 186,238" stroke="none"/>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">
+    <text data-label="blockA" x="175" y="182">A</text>
+    <text data-label="blockB" x="345" y="182">B</text>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="600" fill="#2a2620" paint-order="stroke" stroke="#ffffff" stroke-width="3.6" stroke-linejoin="round">
+    <text data-label="f_ab" x="356" y="124" text-anchor="start">Force A on B</text>
+    <text data-label="f_ba" x="164" y="234" text-anchor="end">Force B on A</text>
+    <text data-label="equal" x="260" y="280" text-anchor="middle">equal in size, opposite in direction</text>
+  </g>
+</svg>

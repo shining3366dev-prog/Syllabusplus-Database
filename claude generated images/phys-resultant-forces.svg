@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 380" style="display:block;width:100%;height:auto" role="img" aria-label="Free-body diagram of a block on the ground showing weight, normal force, an applied force and friction">
+  <title>Resultant of forces (free-body diagram)</title>
+  <!-- ground -->
+  <line x1="40" y1="250" x2="480" y2="250" stroke="#2a2620" stroke-width="2.5"/>
+  <g stroke="#2a2620" stroke-width="1.5" opacity="0.5">
+    <line x1="60" y1="250" x2="44" y2="266"/><line x1="100" y1="250" x2="84" y2="266"/><line x1="140" y1="250" x2="124" y2="266"/>
+    <line x1="180" y1="250" x2="164" y2="266"/><line x1="220" y1="250" x2="204" y2="266"/><line x1="260" y1="250" x2="244" y2="266"/>
+    <line x1="300" y1="250" x2="284" y2="266"/><line x1="340" y1="250" x2="324" y2="266"/><line x1="380" y1="250" x2="364" y2="266"/>
+    <line x1="420" y1="250" x2="404" y2="266"/><line x1="460" y1="250" x2="444" y2="266"/>
+  </g>
+  <!-- block -->
+  <rect x="210" y="190" width="100" height="60" rx="6" fill="#5a7689" stroke="#3c4f5e" stroke-width="2"/>
+  <!-- force arrows from centre (260,220) -->
+  <g stroke-width="4" stroke-linecap="round">
+    <!-- weight down -->
+    <g stroke="#2a2620" fill="#2a2620"><line x1="260" y1="250" x2="260" y2="340"/><polygon points="252,332 260,350 268,332" stroke="none"/></g>
+    <!-- normal up -->
+    <g stroke="#2f7d4f" fill="#2f7d4f"><line x1="260" y1="190" x2="260" y2="100"/><polygon points="252,108 260,90 268,108" stroke="none"/></g>
+    <!-- applied right -->
+    <g stroke="#b0653f" fill="#b0653f"><line x1="310" y1="220" x2="410" y2="220"/><polygon points="402,212 420,220 402,228" stroke="none"/></g>
+    <!-- friction left -->
+    <g stroke="#3f6a8c" fill="#3f6a8c"><line x1="210" y1="220" x2="130" y2="220"/><polygon points="138,212 120,220 138,228" stroke="none"/></g>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="600" fill="#2a2620" paint-order="stroke" stroke="#ffffff" stroke-width="3.6" stroke-linejoin="round">
+    <text data-label="weight" x="272" y="346" text-anchor="start">Weight (W = mg)</text>
+    <text data-label="normal" x="272" y="104" text-anchor="start" fill="#1f5a38">Normal force (N)</text>
+    <text data-label="applied" x="424" y="216" text-anchor="start" fill="#8a4a2c">Applied force</text>
+    <text data-label="friction" x="116" y="216" text-anchor="end" fill="#2f5870">Friction (f)</text>
+  </g>
+</svg>

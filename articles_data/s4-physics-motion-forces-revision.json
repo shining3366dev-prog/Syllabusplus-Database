@@ -1,0 +1,373 @@
+{
+  "title": "Test Revision — Motion, Forces & Newton's Laws",
+  "title_en": "Test Revision — Motion, Forces & Newton's Laws",
+  "lastUpdated": "2026-06-28",
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "What this test covers",
+      "content": "This is a complete revision guide for your physics test. It is split into two halves: <b>Kinematics</b> (describing how things move — graphs, distance, speed, acceleration) and <b>Dynamics</b> (why things move — forces, weight, friction, springs and Newton's laws). <br><br>Work through each section, study the diagrams, and try the worked examples yourself before reading the answer. Mini-quizzes appear along the way so you can check yourself. Everything you need for the ten exam objectives is here."
+    },
+    {
+      "type": "text",
+      "heading": "1. Reading a graph: gradient and area",
+      "content": "Two pieces of information can be pulled out of almost any graph:<br><ul><li><b>The gradient (slope)</b> tells you <i>how steep</i> the line is. It is calculated as $\\text{gradient} = \\dfrac{\\Delta y}{\\Delta x}$ — the change in the y-value divided by the change in the x-value (\"rise over run\"). A steeper line = a bigger gradient.</li><li><b>The area under the line</b> (between the line and the x-axis) is found by working out the area of the shape (rectangles + triangles).</li></ul>The clever part of physics is that the gradient and the area each represent a real physical quantity, depending on what is on the axes.",
+      "diagram": "claude generated images/phys-graph-gradient-area.svg",
+      "labels": {
+        "y_axis": { "en": "Y" },
+        "x_axis": { "en": "X" },
+        "gradient": { "en": "gradient = Δy ÷ Δx" },
+        "rise": { "en": "Δy" },
+        "run": { "en": "Δx" },
+        "area": { "en": "area" }
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Which quantity comes from which graph?",
+      "content": "This little table is worth memorising:<br><ul><li><b>Distance–time (d–t):</b> gradient = <b>speed/velocity</b>. (No useful area.)</li><li><b>Velocity–time (v–t):</b> gradient = <b>acceleration</b>; area under the line = <b>distance travelled</b>.</li><li><b>Acceleration–time (a–t):</b> area under the line = <b>change in velocity</b>.</li></ul>So if you are ever asked \"how do I get distance from a velocity–time graph?\" the answer is always: <i>find the area underneath</i>."
+    },
+    {
+      "type": "text",
+      "heading": "2. Distance, displacement, speed, velocity, acceleration",
+      "content": "Some of these words sound similar but mean different things. The key idea is <b>scalar</b> (size only) vs <b>vector</b> (size + direction).<br><ul><li><b>Distance</b> — how far you actually travelled along your path. Scalar. Unit: metre (m).</li><li><b>Displacement</b> — the straight-line distance and direction from start to finish. Vector. Unit: metre (m).</li><li><b>Speed</b> — how fast (distance ÷ time). Scalar. Unit: m/s.</li><li><b>Velocity</b> — speed in a given direction (displacement ÷ time). Vector. Unit: m/s.</li><li><b>Acceleration</b> — how quickly velocity changes. Vector. Unit: m/s² (metres per second, per second).</li></ul>If you walk all the way around a running track and stop where you started, your <i>distance</i> is one lap but your <i>displacement</i> is zero.",
+      "diagram": "claude generated images/phys-distance-displacement.svg",
+      "labels": {
+        "start": { "en": "Start" },
+        "end": { "en": "End" },
+        "distance": { "en": "Distance (path travelled)" },
+        "displacement": { "en": "Displacement (straight line)" }
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Converting m/s ↔ km/h",
+      "content": "You will be asked to switch between the two speed units.<br><ul><li><b>m/s → km/h:</b> <b>multiply by 3.6</b></li><li><b>km/h → m/s:</b> <b>divide by 3.6</b></li></ul>Where does 3.6 come from? There are 1000 m in a km and 3600 s in an hour, and $\\frac{3600}{1000} = 3.6$. A quick sanity check: a person walks at about 1.4 m/s ≈ 5 km/h, which feels right."
+    },
+    {
+      "type": "example",
+      "heading": "Worked example: unit conversion",
+      "content": "<b>(a)</b> Convert 25 m/s into km/h. → $25 \\times 3.6 = \\mathbf{90}$ <b>km/h</b>.<br><b>(b)</b> Convert 72 km/h into m/s. → $72 \\div 3.6 = \\mathbf{20}$ <b>m/s</b>.<br><br>Tip: the number in km/h is always the <i>larger</i> one, so if your km/h answer comes out smaller than the m/s value, you divided when you should have multiplied."
+    },
+    {
+      "type": "formula",
+      "heading": "3. Formulas — uniform motion (constant speed)",
+      "content": "\"Uniform\" motion means the speed never changes. The basic triangle relationship is:",
+      "latex": "v = \\frac{d}{t} \\qquad d = v\\,t \\qquad t = \\frac{d}{v}"
+    },
+    {
+      "type": "formula",
+      "heading": "Formulas — accelerated motion",
+      "content": "When the velocity changes, use these. Here $u$ = starting (initial) velocity, $v$ = final velocity, $a$ = acceleration, $t$ = time, $d$ = distance:",
+      "latex": "a = \\frac{v-u}{t} \\qquad v = u + a\\,t \\qquad d = \\left(\\frac{u+v}{2}\\right)t \\qquad d = u\\,t + \\tfrac{1}{2}a\\,t^2"
+    },
+    {
+      "type": "example",
+      "heading": "Worked example: accelerated motion",
+      "content": "A car starts from rest ($u = 0$) and accelerates at $a = 2\\text{ m/s}^2$ for $t = 5\\text{ s}$.<br><br><b>Final velocity:</b> $v = u + at = 0 + (2)(5) = \\mathbf{10}$ <b>m/s</b>.<br><b>Distance travelled:</b> $d = ut + \\tfrac{1}{2}at^2 = 0 + \\tfrac{1}{2}(2)(5^2) = \\mathbf{25}$ <b>m</b>.<br><br>Check with the average-velocity formula: $d = \\left(\\frac{0+10}{2}\\right)(5) = 25$ m. ✓"
+    },
+    {
+      "type": "text",
+      "heading": "4. Average speed (and the three motion graphs)",
+      "content": "<b>Average speed</b> is never \"add the speeds and halve them\". It is always:<br><br>$\\text{average speed} = \\dfrac{\\text{total distance}}{\\text{total time}}$<br><br>The three graphs you must recognise are the distance–time (<b>d–t</b>), velocity–time (<b>v–t</b>) and acceleration–time (<b>a–t</b>) graphs — covered next."
+    },
+    {
+      "type": "example",
+      "heading": "Worked example: average speed",
+      "content": "A cyclist rides 120 m in 8 s, then a further 80 m in 12 s.<br><br>Total distance $= 120 + 80 = 200$ m. Total time $= 8 + 12 = 20$ s.<br>$\\text{average speed} = \\dfrac{200}{20} = \\mathbf{10}$ <b>m/s</b>.<br><br>Notice this is <i>not</i> the average of the two separate speeds (15 m/s and ≈6.7 m/s)."
+    },
+    {
+      "type": "text",
+      "heading": "The distance–time (d–t) graph",
+      "content": "On a d–t graph, the <b>gradient is the speed</b>. A steeper line means a faster object. A <b>horizontal (flat) line means the object is stationary</b> — its distance is not changing. A curved line means the speed is changing.",
+      "diagram": "claude generated images/phys-dt-graph.svg",
+      "labels": {
+        "d_axis": { "en": "Distance (m)" },
+        "t_axis": { "en": "Time (s)" },
+        "gradient": { "en": "gradient = speed" },
+        "rest": { "en": "flat = at rest" }
+      }
+    },
+    {
+      "type": "text",
+      "heading": "The velocity–time (v–t) graph",
+      "content": "This is the most important graph. On a v–t graph:<br><ul><li>the <b>gradient is the acceleration</b> (a flat line = constant velocity = zero acceleration);</li><li>the <b>area under the line is the distance travelled</b>.</li></ul>To get the distance, split the area into triangles and rectangles and add them up.",
+      "diagram": "claude generated images/phys-vt-graph.svg",
+      "labels": {
+        "v_axis": { "en": "Velocity (m/s)" },
+        "t_axis": { "en": "Time (s)" },
+        "gradient": { "en": "gradient = acceleration" },
+        "area": { "en": "area = distance travelled" }
+      }
+    },
+    {
+      "type": "quiz",
+      "heading": "Mini-quiz 1: Kinematics",
+      "title": "Kinematics check",
+      "description": "Graphs, definitions and conversions.",
+      "questions": [
+        {
+          "question": "On a velocity–time graph, what does the area under the line represent?",
+          "options": ["The acceleration", "The distance travelled", "The average speed", "The final velocity"],
+          "correct": 1
+        },
+        {
+          "question": "Which quantity is a vector?",
+          "options": ["Distance", "Speed", "Displacement", "Time"],
+          "correct": 2
+        },
+        {
+          "question": "Convert 54 km/h into m/s.",
+          "options": ["15 m/s", "194 m/s", "150 m/s", "27 m/s"],
+          "correct": 0
+        },
+        {
+          "question": "On a distance–time graph, a horizontal (flat) line means the object is...",
+          "options": ["Accelerating", "Moving at constant speed", "Stationary (at rest)", "Slowing down"],
+          "correct": 2
+        },
+        {
+          "question": "A car speeds up from rest to 20 m/s in 4 s. What is its acceleration?",
+          "options": ["5 m/s²", "4 m/s²", "80 m/s²", "16 m/s²"],
+          "correct": 0
+        },
+        {
+          "question": "On a distance–time graph, what does the gradient (slope) represent?",
+          "options": ["Acceleration", "Speed", "Distance", "Time"],
+          "correct": 1
+        },
+        {
+          "question": "A runner covers 400 m in 50 s. What is the average speed?",
+          "options": ["8 m/s", "20 m/s", "350 m/s", "0.125 m/s"],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "5. Reading and constructing graphs (Y–X and Y–T)",
+      "content": "Whether the x-axis is a distance (a Y–X graph) or time (a Y–T graph), the skills are the same.<br><br><b>Reading a graph:</b> go up from the x-axis value until you hit the line, then across to read the y-value (or the reverse). Always check the <i>units</i> and the <i>scale</i> of each axis first.<br><br><b>Constructing a graph:</b><br><ul><li>Put the quantity you control on the x-axis, the one you measure on the y-axis.</li><li>Label each axis with its quantity <b>and unit</b>, e.g. \"Time (s)\".</li><li>Choose a sensible, even scale that uses most of the paper.</li><li>Plot each point with a small cross, then draw a single smooth <b>line of best fit</b> — do not just join the dots zig-zag.</li></ul>"
+    },
+    {
+      "type": "text",
+      "heading": "6. Free fall and terminal velocity",
+      "content": "When an object falls, two forces act: its <b>weight</b> pulling it down, and <b>air resistance (drag)</b> pushing up. <br><br>At the start, weight is much bigger than drag, so the object <b>accelerates</b> (speeds up). As it speeds up, the air resistance grows. Eventually air resistance becomes <b>equal</b> to the weight: the forces are balanced, the resultant force is zero, so there is no more acceleration. The object then falls at a constant speed called the <b>terminal velocity</b>. (You do not need a formula for this — just the idea.)",
+      "diagram": "claude generated images/phys-terminal-velocity.svg",
+      "labels": {
+        "v_axis": { "en": "Velocity (m/s)" },
+        "t_axis": { "en": "Time (s)" },
+        "terminal": { "en": "Terminal velocity" },
+        "accel": { "en": "W > air resistance" },
+        "balanced": { "en": "W = air resistance" }
+      }
+    },
+    {
+      "type": "text",
+      "heading": "7. Mass and weight",
+      "content": "These are constantly mixed up — keep them separate:<br><ul><li><b>Mass</b> is the amount of matter in an object. It is a <b>scalar</b>, measured in <b>kilograms (kg)</b>, and is the <i>same everywhere</i> in the universe.</li><li><b>Weight</b> is the <i>force</i> of gravity pulling on that mass. It is a <b>vector</b> (points down), measured in <b>newtons (N)</b>, and <i>changes</i> if gravity changes (you weigh less on the Moon).</li></ul>"
+    },
+    {
+      "type": "formula",
+      "heading": "Weight formula",
+      "content": "Weight = mass × gravitational field strength. On Earth $g \\approx 9.81\\text{ N/kg}$ (often rounded to $10$ in class):",
+      "latex": "W = m \\times g"
+    },
+    {
+      "type": "example",
+      "heading": "Worked example: weight",
+      "content": "Find the weight of a 60 kg student on Earth ($g = 9.81\\text{ N/kg}$).<br><br>$W = m \\times g = 60 \\times 9.81 = \\mathbf{588.6}$ <b>N</b> (about 589 N).<br><br>Using the classroom value $g = 10$ gives $600$ N — close enough, but always use the value the question gives you."
+    },
+    {
+      "type": "text",
+      "heading": "Working with vectors in one dimension",
+      "content": "Along a single straight line, you do not need arrows on paper — you use <b>+ and − signs</b> instead. Pick one direction as positive (say, right = +). A force or velocity in the opposite direction is then negative. To combine vectors in 1D, you simply <b>add the signed numbers</b>.",
+      "diagram": "claude generated images/phys-vectors-1d.svg",
+      "labels": {
+        "pos_dir": { "en": "positive direction" },
+        "vecA": { "en": "+5 N" },
+        "vecB": { "en": "−3 N" },
+        "result": { "en": "resultant = +2 N" }
+      }
+    },
+    {
+      "type": "example",
+      "heading": "Worked example: 1D vectors",
+      "content": "Two forces act on a box along the same line: 5 N to the right and 3 N to the left. Taking right as positive:<br><br>$\\text{resultant} = (+5) + (-3) = \\mathbf{+2}$ <b>N</b> — i.e. 2 N to the <b>right</b>."
+    },
+    {
+      "type": "text",
+      "heading": "8. Resultant of forces",
+      "content": "The <b>resultant force</b> (or net force) is the single force that has the same effect as all the forces added together (as vectors).<br><ul><li>If the forces are <b>balanced</b>, the resultant is <b>zero</b> → the object stays still or keeps moving at constant velocity (Newton's 1st law).</li><li>If the forces are <b>unbalanced</b>, there is a non-zero resultant → the object accelerates in the direction of the resultant (Newton's 2nd law).</li></ul>",
+      "diagram": "claude generated images/phys-resultant-forces.svg",
+      "labels": {
+        "weight": { "en": "Weight (W = mg)" },
+        "normal": { "en": "Normal force (N)" },
+        "applied": { "en": "Applied force" },
+        "friction": { "en": "Friction (f)" }
+      }
+    },
+    {
+      "type": "example",
+      "heading": "Worked example: resultant force",
+      "content": "A box is pushed with 10 N to the right while friction pushes 4 N to the left. The up/down forces (weight and normal) are balanced.<br><br>Horizontal resultant $= (+10) + (-4) = \\mathbf{+6}$ <b>N to the right</b>, so the box accelerates to the right."
+    },
+    {
+      "type": "text",
+      "heading": "9. Weight, normal force and friction",
+      "content": "Three forces show up again and again (see the diagram above):<br><ul><li><b>Weight (W)</b> — gravity, always straight down.</li><li><b>Normal force (N)</b> — the support force from a surface, always at 90° (perpendicular) to that surface, pushing the object away from it.</li><li><b>Friction (f)</b> — acts along the surface, always <i>opposing</i> the motion (or attempted motion).</li></ul>"
+    },
+    {
+      "type": "text",
+      "heading": "Hooke's Law and the limit of proportionality",
+      "content": "When you stretch a spring, the <b>extension</b> (how much longer it gets) is proportional to the <b>force</b> you apply — double the force, double the extension. This is <b>Hooke's Law</b>. <br><br>On a force–extension graph this gives a <b>straight line through the origin</b>. But this only holds up to a point called the <b>limit of proportionality</b>. Beyond it, the spring stretches more for each extra newton and the line <b>curves away</b>; if pushed further the spring is permanently deformed.",
+      "diagram": "claude generated images/phys-hookes-law.svg",
+      "labels": {
+        "f_axis": { "en": "Force, F (N)" },
+        "x_axis": { "en": "Extension, x (m)" },
+        "linear": { "en": "F = k·x (proportional)" },
+        "limit": { "en": "Limit of proportionality" }
+      }
+    },
+    {
+      "type": "formula",
+      "heading": "Hooke's Law formula",
+      "content": "Force = spring constant × extension. Here $k$ is the <b>spring constant</b> (stiffness) in N/m, and $x$ is the extension in m:",
+      "latex": "F = k \\times x"
+    },
+    {
+      "type": "example",
+      "heading": "Worked example: Hooke's Law",
+      "content": "A spring has a spring constant $k = 20\\text{ N/m}$ and is stretched by $x = 0.15\\text{ m}$ (within its limit of proportionality).<br><br>$F = k \\times x = 20 \\times 0.15 = \\mathbf{3}$ <b>N</b>.<br><br>Rearranged the other way: a force of 6 N on this spring would give $x = \\frac{F}{k} = \\frac{6}{20} = 0.3$ m."
+    },
+    {
+      "type": "quiz",
+      "heading": "Mini-quiz 2: Forces",
+      "title": "Forces check",
+      "description": "Weight, vectors, resultants and springs.",
+      "questions": [
+        {
+          "question": "A 2 kg bag hangs on Earth where g = 9.81 N/kg. What is its weight?",
+          "options": ["2 N", "9.81 N", "19.62 N", "4.9 N"],
+          "correct": 2
+        },
+        {
+          "question": "Forces of 8 N right and 5 N left act on an object along one line. The resultant is...",
+          "options": ["13 N right", "3 N right", "3 N left", "0 N"],
+          "correct": 1
+        },
+        {
+          "question": "Up to which point is the extension of a spring proportional to the force?",
+          "options": ["The spring constant", "The limit of proportionality", "The terminal point", "The normal point"],
+          "correct": 1
+        },
+        {
+          "question": "The normal force from a flat table on a book acts in which direction?",
+          "options": ["Downwards", "Straight up, perpendicular to the surface", "Sideways (along the surface)", "In the direction of motion"],
+          "correct": 1
+        },
+        {
+          "question": "A spring has k = 50 N/m. A 10 N force stretches it (within its limit). What is the extension?",
+          "options": ["0.2 m", "5 m", "500 m", "0.5 m"],
+          "correct": 0
+        },
+        {
+          "question": "What is the unit of force?",
+          "options": ["kilogram (kg)", "newton (N)", "metre (m)", "m/s²"],
+          "correct": 1
+        },
+        {
+          "question": "Friction on a sliding box always acts...",
+          "options": ["In the direction of motion", "Opposing the motion", "Straight down", "Perpendicular to the surface"],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "10. Newton's three laws of motion",
+      "content": "<ul><li><b>First law (inertia):</b> an object stays at rest, or keeps moving at constant velocity, <i>unless</i> a resultant force acts on it. (Balanced forces → no change in motion.)</li><li><b>Second law:</b> a resultant force makes a mass accelerate, following $F = m\\,a$. Bigger force → bigger acceleration; bigger mass → smaller acceleration.</li><li><b>Third law:</b> for every action there is an equal and opposite reaction. If A pushes on B, then B pushes back on A with an equal force in the opposite direction.</li></ul>"
+    },
+    {
+      "type": "formula",
+      "heading": "Newton's second law",
+      "content": "Resultant force = mass × acceleration:",
+      "latex": "F = m \\times a"
+    },
+    {
+      "type": "text",
+      "heading": "Newton's third law in pictures",
+      "content": "The two forces in an action–reaction pair always act on <b>different objects</b> (one on A, one on B) — that is why they don't simply cancel out. They are equal in size and opposite in direction.",
+      "diagram": "claude generated images/phys-newtons-third.svg",
+      "labels": {
+        "blockA": { "en": "A" },
+        "blockB": { "en": "B" },
+        "f_ab": { "en": "Force A on B" },
+        "f_ba": { "en": "Force B on A" },
+        "equal": { "en": "equal in size, opposite in direction" }
+      }
+    },
+    {
+      "type": "example",
+      "heading": "Worked example: F = ma",
+      "content": "A resultant force of 12 N acts on a 3 kg trolley. Find its acceleration.<br><br>Rearrange $F = ma$ to $a = \\dfrac{F}{m} = \\dfrac{12}{3} = \\mathbf{4}$ <b>m/s²</b>."
+    },
+    {
+      "type": "quiz",
+      "heading": "Final mastery quiz",
+      "title": "Master the exam",
+      "description": "A mix of everything — if you can do these, you're ready.",
+      "questions": [
+        {
+          "question": "A resultant force of 20 N acts on a 4 kg mass. What is the acceleration?",
+          "options": ["80 m/s²", "5 m/s²", "24 m/s²", "16 m/s²"],
+          "correct": 1
+        },
+        {
+          "question": "Which is the correct statement of Newton's third law?",
+          "options": ["Force equals mass times acceleration", "Objects keep moving unless a force acts", "Every action has an equal and opposite reaction", "Weight equals mass times gravity"],
+          "correct": 2
+        },
+        {
+          "question": "An object falls and reaches terminal velocity. At that moment...",
+          "options": ["Weight is much greater than air resistance", "Air resistance is zero", "Weight and air resistance are equal (balanced)", "It is still accelerating"],
+          "correct": 2
+        },
+        {
+          "question": "How do you find acceleration from a velocity–time graph?",
+          "options": ["The area under the line", "The gradient (slope) of the line", "The highest point", "The y-intercept"],
+          "correct": 1
+        },
+        {
+          "question": "Convert 30 m/s into km/h.",
+          "options": ["8.3 km/h", "108 km/h", "33.6 km/h", "90 km/h"],
+          "correct": 1
+        },
+        {
+          "question": "Which pair gives mass and its correct unit?",
+          "options": ["Mass in newtons", "Mass in m/s", "Mass in kilograms", "Mass in m/s²"],
+          "correct": 2
+        },
+        {
+          "question": "A ball starts from rest and accelerates at 3 m/s² for 4 s. How far does it travel? (d = ½at²)",
+          "options": ["12 m", "24 m", "48 m", "6 m"],
+          "correct": 1
+        },
+        {
+          "question": "Newton's first law is also known as the law of...",
+          "options": ["Gravity", "Inertia", "Action–reaction", "Acceleration"],
+          "correct": 1
+        },
+        {
+          "question": "You walk 3 km north, then 3 km south back to your start. Your displacement is...",
+          "options": ["6 km", "3 km", "0 km", "9 km"],
+          "correct": 2
+        },
+        {
+          "question": "A spring stretches 0.4 m under a 12 N force (within its limit). What is its spring constant k?",
+          "options": ["4.8 N/m", "30 N/m", "0.03 N/m", "300 N/m"],
+          "correct": 1
+        }
+      ]
+    }
+  ]
+}

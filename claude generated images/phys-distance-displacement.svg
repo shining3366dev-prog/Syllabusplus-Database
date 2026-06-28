@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" style="display:block;width:100%;height:auto" role="img" aria-label="Distance is the wiggly path actually travelled; displacement is the straight line from start to end">
+  <title>Distance vs displacement</title>
+  <!-- distance: meandering path -->
+  <path d="M95,235 C150,140 190,300 250,210 C300,140 320,250 430,120" fill="none" stroke="#2a2620" stroke-width="3" stroke-linecap="round"/>
+  <!-- displacement: straight arrow -->
+  <line x1="95" y1="235" x2="418" y2="128" stroke="#b0653f" stroke-width="3.5" stroke-linecap="round"/>
+  <polygon points="418,128 402,124 410,140" fill="#b0653f"/>
+  <!-- endpoints -->
+  <g><circle cx="95" cy="235" r="7" fill="#2a2620"/><circle cx="430" cy="120" r="7" fill="#2a2620"/></g>
+  <!-- labels -->
+  <g font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="600" fill="#2a2620" paint-order="stroke" stroke="#ffffff" stroke-width="3.6" stroke-linejoin="round">
+    <text data-label="start" x="78" y="262" text-anchor="start">Start</text>
+    <text data-label="end" x="446" y="118" text-anchor="start">End</text>
+    <text data-label="distance" x="120" y="118" text-anchor="start">Distance (path travelled)</text>
+    <text data-label="displacement" x="160" y="205" text-anchor="start" fill="#8a4a2c" stroke-width="3.6">Displacement (straight line)</text>
+  </g>
+</svg>
