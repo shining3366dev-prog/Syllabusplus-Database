@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" style="display:block;width:100%;height:auto" role="img" aria-label="The electromagnetic spectrum from radio waves (long wavelength) to gamma rays (high frequency), with the visible band shown as a rainbow">
+  <title>The electromagnetic spectrum</title>
+  <defs>
+    <linearGradient id="emVis" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d23b3b"/><stop offset="0.2" stop-color="#e08a2e"/><stop offset="0.4" stop-color="#e6cf3a"/><stop offset="0.6" stop-color="#3fa15a"/><stop offset="0.8" stop-color="#3f6fb0"/><stop offset="1" stop-color="#7a4fa0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- direction arrows -->
+  <g stroke="#2a2620" stroke-width="2" fill="#2a2620" stroke-linecap="round">
+    <line x1="170" y1="98" x2="46" y2="98"/><polygon points="54,92 40,98 54,104" stroke="none"/>
+    <line x1="430" y1="98" x2="554" y2="98"/><polygon points="546,92 560,98 546,104" stroke="none"/>
+  </g>
+
+  <!-- spectrum bar -->
+  <g stroke="#ffffff" stroke-width="2">
+    <rect x="40" y="120" width="74" height="70" fill="#a85a4a"/>
+    <rect x="114" y="120" width="74" height="70" fill="#c08040"/>
+    <rect x="188" y="120" width="74" height="70" fill="#cf6b3a"/>
+    <rect x="262" y="120" width="74" height="70" fill="url(#emVis)"/>
+    <rect x="336" y="120" width="74" height="70" fill="#6f4f9a"/>
+    <rect x="410" y="120" width="74" height="70" fill="#4a5a8c"/>
+    <rect x="484" y="120" width="74" height="70" fill="#353a63"/>
+  </g>
+
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600" fill="#2a2620" text-anchor="middle" paint-order="stroke" stroke="#ffffff" stroke-width="3.4" stroke-linejoin="round">
+    <text data-label="radio" x="77" y="212">Radio</text>
+    <text data-label="microwave" x="151" y="212">Microwave</text>
+    <text data-label="infrared" x="225" y="212">Infrared</text>
+    <text data-label="visible" x="299" y="212">Visible</text>
+    <text data-label="uv" x="373" y="212">UV</text>
+    <text data-label="xray" x="447" y="212">X-ray</text>
+    <text data-label="gamma" x="521" y="212">Gamma</text>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="600" fill="#2a2620" paint-order="stroke" stroke="#ffffff" stroke-width="3.6" stroke-linejoin="round">
+    <text data-label="wl_dir" x="44" y="80" text-anchor="start">Longer wavelength</text>
+    <text data-label="fr_dir" x="556" y="80" text-anchor="end">Higher frequency / energy</text>
+    <text data-label="speed" x="300" y="252" text-anchor="middle">All EM waves travel at c = 3 × 10⁸ m/s in a vacuum</text>
+  </g>
+</svg>

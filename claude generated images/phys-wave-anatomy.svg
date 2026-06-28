@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 340" style="display:block;width:100%;height:auto" role="img" aria-label="A transverse wave on a displacement axis, labelling amplitude, wavelength, crest and trough">
+  <title>Wave anatomy</title>
+  <!-- axes -->
+  <g stroke="#2a2620" stroke-width="2.5" fill="#2a2620" stroke-linecap="round">
+    <line x1="55" y1="170" x2="495" y2="170"/><polygon points="495,164 509,170 495,176" stroke="none"/>
+    <line x1="55" y1="285" x2="55" y2="60"/><polygon points="49,60 55,46 61,60" stroke="none"/>
+  </g>
+  <!-- wave -->
+  <path d="M70,170 C103,118 137,118 170,170 C203,222 237,222 270,170 C303,118 337,118 370,170 C403,222 437,222 470,170" fill="none" stroke="#b0653f" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- wavelength: crest1 (120) to crest2 (320) -->
+  <g stroke="#2a2620" stroke-width="1.4" stroke-dasharray="4 4"><line x1="120" y1="118" x2="120" y2="74"/><line x1="320" y1="118" x2="320" y2="74"/></g>
+  <g stroke="#2a2620" stroke-width="2" fill="#2a2620" stroke-linecap="round"><line x1="120" y1="74" x2="320" y2="74"/><polygon points="128,68 114,74 128,80" stroke="none"/><polygon points="312,68 326,74 312,80" stroke="none"/></g>
+  <!-- amplitude: trough2 (420) midline->trough -->
+  <g stroke="#2a2620" stroke-width="2" fill="#2a2620" stroke-linecap="round"><line x1="420" y1="170" x2="420" y2="222"/><polygon points="414,178 420,166 426,178" stroke="none"/><polygon points="414,214 420,226 426,214" stroke="none"/></g>
+  <g font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="600" fill="#2a2620" paint-order="stroke" stroke="#ffffff" stroke-width="3.6" stroke-linejoin="round">
+    <text data-label="y_axis" x="70" y="58" text-anchor="start">Displacement</text>
+    <text data-label="x_axis" x="475" y="192" text-anchor="start">Distance</text>
+    <text data-label="wavelength" x="220" y="64" text-anchor="middle">Wavelength (λ)</text>
+    <text data-label="amplitude" x="432" y="202" text-anchor="start">Amplitude (A)</text>
+    <text data-label="crest" x="320" y="140" text-anchor="middle">Crest</text>
+    <text data-label="trough" x="220" y="246" text-anchor="middle">Trough</text>
+  </g>
+</svg>

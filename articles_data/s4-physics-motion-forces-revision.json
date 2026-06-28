@@ -1,6 +1,6 @@
 {
-  "title": "Test Revision — Motion, Forces & Newton's Laws",
-  "title_en": "Test Revision — Motion, Forces & Newton's Laws",
+  "title": "Test Revision — Motion, Forces, Newton's Laws & Waves",
+  "title_en": "Test Revision — Motion, Forces, Newton's Laws & Waves",
   "lastUpdated": "2026-06-28",
   "sections": [
     {
@@ -312,6 +312,116 @@
       "content": "A resultant force of 12 N acts on a 3 kg trolley. Find its acceleration.<br><br>Rearrange $F = ma$ to $a = \\dfrac{F}{m} = \\dfrac{12}{3} = \\mathbf{4}$ <b>m/s²</b>."
     },
     {
+      "type": "text",
+      "heading": "11. Waves — the basics",
+      "content": "A <b>wave</b> transfers <b>energy</b> from one place to another <i>without</i> transferring matter. Every wave is described by five quantities:<br><ul><li><b>Amplitude (A)</b> — the maximum displacement from the rest (equilibrium) position. Unit: metre (m). A bigger amplitude carries more energy (louder sound, brighter light).</li><li><b>Wavelength (λ)</b> — the length of one complete wave, e.g. from one crest to the next crest (or trough to trough). Unit: metre (m).</li><li><b>Frequency (f)</b> — the number of complete waves passing a point each second. Unit: hertz (Hz).</li><li><b>Period (T)</b> — the time for one complete wave to pass. Unit: second (s).</li><li><b>Wave speed (v)</b> — how fast the wave travels through the medium. Unit: m/s.</li></ul>Frequency and period are opposites: $f = \\frac{1}{T}$.",
+      "diagram": "claude generated images/phys-wave-anatomy.svg",
+      "labels": {
+        "y_axis": { "en": "Displacement" },
+        "x_axis": { "en": "Distance" },
+        "wavelength": { "en": "Wavelength (λ)" },
+        "amplitude": { "en": "Amplitude (A)" },
+        "crest": { "en": "Crest" },
+        "trough": { "en": "Trough" }
+      }
+    },
+    {
+      "type": "formula",
+      "heading": "The wave equation",
+      "content": "Wave speed = frequency × wavelength. Frequency and period are linked by $f = 1/T$:",
+      "latex": "v = f \\times \\lambda \\qquad\\quad f = \\frac{1}{T}"
+    },
+    {
+      "type": "text",
+      "heading": "Reading wave values from a graph",
+      "content": "<b>Always check the x-axis label first</b> — it decides what you can read:<br><ul><li><b>Displacement–distance graph</b> (x-axis = distance): read the <b>wavelength</b> (crest-to-crest spacing) and the <b>amplitude</b> (height of a crest).</li><li><b>Displacement–time graph</b> (x-axis = time): read the <b>period</b> (time between successive crests) and the <b>amplitude</b>. Then get frequency from $f = 1/T$, and speed from $v = f\\lambda$.</li></ul>The two graphs look identical, so the axis label is the only clue to whether the spacing is a wavelength or a period."
+    },
+    {
+      "type": "example",
+      "heading": "Worked example: the wave equation",
+      "content": "A water wave has a frequency of $50\\text{ Hz}$ and a wavelength of $0.2\\text{ m}$.<br><br><b>Speed:</b> $v = f\\lambda = 50 \\times 0.2 = \\mathbf{10}$ <b>m/s</b>.<br><br>If a displacement–time graph instead showed a period of $T = 0.02\\text{ s}$, the frequency would be $f = \\frac{1}{T} = \\frac{1}{0.02} = 50$ Hz — the same wave."
+    },
+    {
+      "type": "text",
+      "heading": "12. Transverse vs longitudinal waves",
+      "content": "Waves are grouped by the <i>direction</i> in which they vibrate:<br><ul><li><b>Transverse waves</b> — the oscillation is <b>perpendicular (at 90°)</b> to the direction the wave travels. Examples: <b>light</b> (and all electromagnetic waves), <b>water waves</b>, waves on a <b>string</b>, and seismic <b>S-waves</b>.</li><li><b>Longitudinal waves</b> — the oscillation is <b>parallel</b> to the direction of travel, squashing and stretching the medium into <b>compressions</b> and <b>rarefactions</b>. Examples: <b>sound</b>, <b>ultrasound</b>, and seismic <b>P-waves</b>.</li></ul>",
+      "diagram": "claude generated images/phys-wave-types.svg",
+      "labels": {
+        "transverse": { "en": "Transverse" },
+        "oscillation": { "en": "oscillation (90° to travel)" },
+        "travel": { "en": "direction of wave travel" },
+        "longitudinal": { "en": "Longitudinal" },
+        "compression": { "en": "Compression" },
+        "rarefaction": { "en": "Rarefaction" }
+      }
+    },
+    {
+      "type": "text",
+      "heading": "13. Light & the electromagnetic spectrum",
+      "content": "Visible light is just one small part of the <b>electromagnetic (EM) spectrum</b>. The whole family shares two key facts: <b>all EM waves are transverse</b>, and <b>they all travel at the same speed in a vacuum</b>: $c = 3 \\times 10^8\\text{ m/s}$.<br><br>The bands run from <b>longest wavelength / lowest frequency</b> to <b>shortest wavelength / highest frequency</b>:<br><br><b>Radio → Microwave → Infrared → Visible → Ultraviolet → X-ray → Gamma</b><br><br>As you move right, wavelength gets shorter, while frequency and energy get higher.",
+      "diagram": "claude generated images/phys-em-spectrum.svg",
+      "labels": {
+        "radio": { "en": "Radio" },
+        "microwave": { "en": "Microwave" },
+        "infrared": { "en": "Infrared" },
+        "visible": { "en": "Visible" },
+        "uv": { "en": "UV" },
+        "xray": { "en": "X-ray" },
+        "gamma": { "en": "Gamma" },
+        "wl_dir": { "en": "Longer wavelength" },
+        "fr_dir": { "en": "Higher frequency / energy" },
+        "speed": { "en": "All EM waves travel at c = 3 × 10⁸ m/s in a vacuum" }
+      }
+    },
+    {
+      "type": "text",
+      "heading": "EM spectrum — uses and dangers",
+      "content": "Each band has its own everyday uses (and some have real dangers):<br><ul><li><b>Radio waves</b> — broadcasting, TV, WiFi, radio communication.</li><li><b>Microwaves</b> — cooking (microwave ovens), satellite communication, mobile phones. <i>Danger: can heat body tissue.</i></li><li><b>Infrared</b> — thermal cameras, TV remotes, night vision, heating.</li><li><b>Visible light</b> — human vision, photography, optical fibres.</li><li><b>Ultraviolet (UV)</b> — sun tanning, sterilisation, fluorescent lights, detecting fake banknotes. <i>Danger: causes sunburn and skin cancer — use sunscreen.</i></li><li><b>X-rays</b> — medical imaging (bones), airport security scanners. <i>Danger: ionising — damages DNA; radiographers stand behind screens.</i></li><li><b>Gamma rays</b> — cancer treatment (radiotherapy), sterilising medical equipment. <i>Danger: ionising — damages DNA.</i></li></ul>"
+    },
+    {
+      "type": "quiz",
+      "heading": "Mini-quiz 3: Waves & EM spectrum",
+      "title": "Waves check",
+      "description": "Wave properties, the wave equation, wave types and the EM spectrum.",
+      "questions": [
+        {
+          "question": "What is the wave equation?",
+          "options": ["v = f × λ", "v = f ÷ λ", "v = f + λ", "λ = f × v"],
+          "correct": 0
+        },
+        {
+          "question": "A wave has a frequency of 10 Hz and a wavelength of 3 m. What is its speed?",
+          "options": ["30 m/s", "3.3 m/s", "13 m/s", "0.3 m/s"],
+          "correct": 0
+        },
+        {
+          "question": "A wave has a period of 0.25 s. What is its frequency?",
+          "options": ["4 Hz", "0.25 Hz", "40 Hz", "2.5 Hz"],
+          "correct": 0
+        },
+        {
+          "question": "Which of these is a transverse wave?",
+          "options": ["Sound", "Light", "Ultrasound", "A seismic P-wave"],
+          "correct": 1
+        },
+        {
+          "question": "Which of these is a longitudinal wave?",
+          "options": ["Light", "Water waves", "Sound", "Radio waves"],
+          "correct": 2
+        },
+        {
+          "question": "Which electromagnetic band has the LONGEST wavelength?",
+          "options": ["Gamma rays", "X-rays", "Radio waves", "Visible light"],
+          "correct": 2
+        },
+        {
+          "question": "Which EM waves are ionising and can damage DNA?",
+          "options": ["Radio and microwaves", "X-rays and gamma rays", "Infrared and visible light", "Microwaves only"],
+          "correct": 1
+        }
+      ]
+    },
+    {
       "type": "quiz",
       "heading": "Final mastery quiz",
       "title": "Master the exam",
@@ -365,6 +475,16 @@
         {
           "question": "A spring stretches 0.4 m under a 12 N force (within its limit). What is its spring constant k?",
           "options": ["4.8 N/m", "30 N/m", "0.03 N/m", "300 N/m"],
+          "correct": 1
+        },
+        {
+          "question": "A sound wave travels at 340 m/s with a frequency of 170 Hz. What is its wavelength? (λ = v ÷ f)",
+          "options": ["2 m", "0.5 m", "510 m", "57800 m"],
+          "correct": 0
+        },
+        {
+          "question": "The amplitude of a wave is linked to its...",
+          "options": ["Speed", "Energy (loudness / brightness)", "Wavelength", "Frequency"],
           "correct": 1
         }
       ]
